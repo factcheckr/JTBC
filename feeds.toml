@@ -1,4 +1,4 @@
-[jtbcnews_factcheck]
+[factcheck]
 title = "JTBC 뉴스 ─ 팩트체크"
 url = "https://news.jtbc.joins.com/factcheck/"
 entrySelector = "div.bd.news_area ul li"
@@ -6,4 +6,16 @@ titleSelector = "div.news dl dt"
 linkSelector = "div.news dl dt a"
 contentSelector = "dl dd.desc a"
 imageSelector = "div.news dl dd a img"
+waitForSelector = "bd news_area"
+onFail = "stale"
+
+[daum]
+title = "다음 뉴스 ─ JTBC 팩트체크"
+url = "https://news.daum.net/series/1453"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a"
+contentSelector = "p.desc_thumb"
+imageSelector = "div.news dl dd a img"
+waitForSelector = ".list_news"
 onFail = "stale"

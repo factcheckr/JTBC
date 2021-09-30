@@ -4,4 +4,4 @@
 - https://factcheckr.github.io/JTBC/jtbcnews_factcheck.xml
 
 ### 다음뉴스
-- https://FactCheckr.github.io/JTBC/daum.xml
+- https://factcheckr.github.io/JTBC/daum.xml

@@ -6,7 +6,7 @@ titleSelector = "div.news dl dt"
 linkSelector = "div.news dl dt a"
 contentSelector = "dl dd.desc a"
 imageSelector = "div.news dl dd a img"
-waitForSelector = "bd news_area"
+waitForSelector = ".bd.news_area"
 onFail = "stale"
 
 [daum]

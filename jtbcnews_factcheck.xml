@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://news.jtbc.joins.com/factcheck/</id>
-    <title>JTBC 뉴스 ─ 팩트체크</title>
-    <updated>2021-09-30T17:40:51.959Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://images.jtbc.joins.com/ui_mobile/app_icon/android-icon-192x192.png</icon>
-</feed>

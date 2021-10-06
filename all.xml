@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 17:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 05:34:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] '백신 맞고 항체 생성 여부' 항체검사로 안다? (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/870/NB12025870.html</link>
+            <guid>https://news.jtbc.joins.com/html/870/NB12025870.html</guid>
+            <pubDate>Wed, 06 Oct 2021 05:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이번엔 백신을 이미 맞으신 분들이 궁금해하실 만한 내용입니다. 백신은 다 맞았는데 내 몸에, 항체가 제대로 생긴 건지 혹시, 돌파감염 되는 건 아닌지 걱정이 돼서 항체 검사를 해봤거나, 해보려는 분들 계]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2021/10/05/202110052116214972_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 곽상도 아들 '산재 위로금 44억'?…사례 따져보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/107/NB12025107.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 30 Sep 2021 21:07:50 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]어제(4일) 민주당 대선 경선 토론회에서 '국회의원 소환제'를 놓고 논쟁이 벌어졌습니다. 특히, 다른 나라에서는 하고 있다, 아니다,를 놓고, 후보들 간 주장이 엇갈렸습니다. 선거 때마다 나오는 얘긴데, 정]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2021/08/05/202108052034325424_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 백신 온도 중요한데…아이스박스로 가져가라? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/711/NB12018711.html</link>
-            <guid>https://news.jtbc.joins.com/html/711/NB12018711.html</guid>
-            <pubDate>Thu, 30 Sep 2021 21:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]코로나 백신은 낮은 온도에서 쭉 보관돼야 합니다. 보통 전문업체가 맡아서 병원으로 배송해줍니다. 그런데 가져가는 백신 물량이 적은 동네 병원은 보건소로 직접 와서 아이스박스에 받아가라고 했다는 주장]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/08/03/202108032037550058_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['백신 맞고 항체 생성 여부' 항체검사로 안다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>

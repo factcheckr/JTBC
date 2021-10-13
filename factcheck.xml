@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 05:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 17:39:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 핵개발 뒤 분쟁 없어졌다?…홍준표 발언 따져보니]]></title>
+            <link>https://news.jtbc.joins.com/html/850/NB12026850.html</link>
+            <guid>https://news.jtbc.joins.com/html/850/NB12026850.html</guid>
+            <pubDate>Wed, 13 Oct 2021 17:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이번에는 대선주자 발언을 '팩트체크' 합니다. 홍준표 후보입니다. 북한 핵에 맞서서 우리도 핵무장 하자 선거 때면 반복되는 주장입니다. 홍준표 후보는 "인도와 파키스탄이 핵 개발하고 난 뒤에 분쟁이 없]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2021/10/13/202110132059069093_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] '백신 맞고 항체 생성 여부' 항체검사로 안다?]]></title>
             <link>https://news.jtbc.joins.com/html/870/NB12025870.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 30 Sep 2021 21:07:50 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]단속 카메라 앞에서만 잠깐 속도를 줄였다가 바로 다시 과속하는 차량들이 있죠. 경찰이 그래서 '암행순찰차'로 단속하는 걸 검토하고 있습니다. 그런데 '암행 단속' 자체가 불법이란 반발도 있습니다. 정말]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2021/08/12/202108122044210129_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] '국회의원 소환제' OECD 국가 어디도 안 한다?]]></title>
-            <link>https://news.jtbc.joins.com/html/017/NB12019017.html</link>
-            <guid>https://news.jtbc.joins.com/html/017/NB12019017.html</guid>
-            <pubDate>Thu, 30 Sep 2021 21:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]어제(4일) 민주당 대선 경선 토론회에서 '국회의원 소환제'를 놓고 논쟁이 벌어졌습니다. 특히, 다른 나라에서는 하고 있다, 아니다,를 놓고, 후보들 간 주장이 엇갈렸습니다. 선거 때마다 나오는 얘긴데, 정]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/08/05/202108052034325424_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

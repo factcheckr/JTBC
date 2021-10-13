@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 05:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 17:39:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 핵개발 뒤 분쟁 없어졌다?…홍준표 발언 따져보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/850/NB12026850.html</link>
+            <guid>https://news.jtbc.joins.com/html/850/NB12026850.html</guid>
+            <pubDate>Wed, 13 Oct 2021 17:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이번에는 대선주자 발언을 '팩트체크' 합니다. 홍준표 후보입니다. 북한 핵에 맞서서 우리도 핵무장 하자 선거 때면 반복되는 주장입니다. 홍준표 후보는 "인도와 파키스탄이 핵 개발하고 난 뒤에 분쟁이 없]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2021/10/13/202110132059069093_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] '백신 맞고 항체 생성 여부' 항체검사로 안다? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/870/NB12025870.html</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.joins.com/news/2021/08/12/202108122044210129_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] '국회의원 소환제' OECD 국가 어디도 안 한다? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/017/NB12019017.html</link>
-            <guid>https://news.jtbc.joins.com/html/017/NB12019017.html</guid>
-            <pubDate>Thu, 30 Sep 2021 21:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]어제(4일) 민주당 대선 경선 토론회에서 '국회의원 소환제'를 놓고 논쟁이 벌어졌습니다. 특히, 다른 나라에서는 하고 있다, 아니다,를 놓고, 후보들 간 주장이 엇갈렸습니다. 선거 때마다 나오는 얘긴데, 정]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/08/05/202108052034325424_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[핵개발 뒤 분쟁 없어졌다?..홍준표 발언 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20211013210506930</link>
+            <guid>https://v.daum.net/v/20211013210506930</guid>
+            <pubDate>Wed, 13 Oct 2021 17:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 이번에는 대선주자 발언을 '팩트체크' 합니다. 홍준표 후보입니다. 북한 핵에 맞서서 우리도 핵무장 하자 선거 때면 반복되는 주장입니다. 홍준표 후보는 "인도와 파키스탄이 핵 개발하고 난 뒤에 분쟁이 없어졌다"고 주장했습니다. 핵무장을 주장하는 근거로 삼은 건데, 정말 그럴지 팩트체크팀을 이끌고 있는 최재원 기자가 따져봤습니다. [기자] 그제(11일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['백신 맞고 항체 생성 여부' 항체검사로 안다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20210803204705669</guid>
             <pubDate>Thu, 30 Sep 2021 21:06:18 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 코로나 백신은 낮은 온도에서 쭉 보관돼야 합니다. 보통 전문업체가 맡아서 병원으로 배송해줍니다. 그런데 가져가는 백신 물량이 적은 동네 병원은 보건소로 직접 와서 아이스박스에 받아가라고 했다는 주장이 나왔습니다. 왜 이런 일이 생겼는지 괜찮은 건지 따져봤습니다. 팩트체크, 최재원 기자입니다. [기자] 병원이 직접 아이스박스를 들고 보건소로 와 백신]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[욱일기, 일본서 널리 쓰여서 정치적 의미 없다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20210720201304378</link>
-            <guid>https://v.daum.net/v/20210720201304378</guid>
-            <pubDate>Thu, 30 Sep 2021 21:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 욱일기 관련해서 바로 팩트체크 해보겠습니다. 일본 정부는 욱일기가 일본에서 널리 쓰는 디자인일 뿐이고 정치적인 의미도 없는데 한국이 트집을 잡는다고 주장합니다. 하지만, 일본 스스로 욱일기가 정치적이라고 인정하고 국제 스포츠행사에 쓰지 말자고 했던 적도 많습니다. 팩트체크, 최재원 기자입니다. [기자] [스가 요시히데/당시 일본 관방장관 (2019]]></content:encoded>
         </item>
     </channel>
 </rss>

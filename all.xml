@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 17:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 05:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 국민 문맹률 80%라 군부독재는 숙명이었다? (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/657/NB12030657.html</link>
+            <guid>https://news.jtbc.joins.com/html/657/NB12030657.html</guid>
+            <pubDate>Tue, 02 Nov 2021 05:34:30 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]그제(30일) 노태우 전 대통령 영결식에서 나온 추도사가 논란이 됐습니다. 당시 한국 사회는 문맹률이 80% 수준이라 육사 출신 엘리트들이 나라를 통치할 수밖에 없었단 취지의 말이었는데요. 국민들이 무지]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2021/11/01/202111012116552684_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 헌혈로 '에이즈·간염 피' 수만 명에게 퍼졌다? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/686/NB12028686.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 30 Sep 2021 21:07:50 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]LED 조명으로 코로나 바이러스를 치료할 수 있단 내용의 보도들이 최근 온라인에서 관심을 끌었습니다. 백신 주사나 치료제가 아니라, 조명으로 바이러스를 없앨 수 있다는 거냐, 의아하단 반응이 많습니다.]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2021/09/07/202109072039107341_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] '20개월 영아 살해범' 화학적 거세 말고 물리적 거세? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/080/NB12022080.html</link>
-            <guid>https://news.jtbc.joins.com/html/080/NB12022080.html</guid>
-            <pubDate>Thu, 30 Sep 2021 21:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]생후 20개월 된 아이를 학대해 살해한 20대 남성에 대해 '화학적 거세' 가능성이 거론되고 있습니다. 재판 과정에서 끔찍했던 범행 방식이 알려지며, 그것만으론 부족하다는 공분의 목소리가 큽니다. 어떤 처]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/08/31/202108312039108385_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국민 문맹률 80%라 군부독재는 숙명이었다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>

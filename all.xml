@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 05:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 17:38:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,13 @@
             <enclosure url="https://photo.jtbc.joins.com/news/2021/09/09/202109092044272592_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[남의 아파트 놀이터에서 놀면 '주거침입'이다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20211110205013127</link>
+            <guid>https://v.daum.net/v/20211110205013127</guid>
+            <pubDate>Wed, 10 Nov 2021 17:38:10 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 한 아파트 주민 대표가 놀이터에서 놀던, 다른 아파트 어린이들을 경찰에 신고한 사실이 알려졌습니다. 특히 남의 아파트 놀이터에서 놀았기 때문에 '주거 침입죄'라고 주장했는데 과연 맞는 얘기인지 팩트체크팀이 따져봤습니다. 최재원 기자입니다. [기자] 지난달 12일 인천 영종도의 한 아파트 놀이터에 경찰이 출동했습니다. 아파트 주민 대표가 놀이터에서]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[요소수, 소변·비료로도 만들 수 있다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
             <link>https://v.daum.net/v/20211108202904247</link>
             <guid>https://v.daum.net/v/20211108202904247</guid>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20210907204507729</guid>
             <pubDate>Thu, 30 Sep 2021 21:06:18 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] LED 조명으로 코로나 바이러스를 치료할 수 있단 내용의 보도들이 최근 온라인에서 관심을 끌었습니다. 백신 주사나 치료제가 아니라, 조명으로 바이러스를 없앨 수 있다는 거냐, 의아하단 반응이 많습니다. 팩트체크팀이 확인해봤습니다. 최재원 기자입니다. [기자] "LED 빛으로 델타 변이 99%가 제거됐다" "집에서 코로나 치료하는 기술이 개발됐다"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['20개월 영아 살해범' 화학적 거세 말고 물리적 거세? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20210831204406830</link>
-            <guid>https://v.daum.net/v/20210831204406830</guid>
-            <pubDate>Thu, 30 Sep 2021 21:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 생후 20개월 된 아이를 학대해 살해한 20대 남성에 대해 '화학적 거세' 가능성이 거론되고 있습니다. 재판 과정에서 끔찍했던 범행 방식이 알려지며, 그것만으론 부족하다는 공분의 목소리가 큽니다. 어떤 처분이 가능한지 팩트체크팀이 따져봤습니다. 최재원 기자입니다. [기자] [(숨진 아이한테 할 말 있으십니까? 아이를 아이스박스에 넣은 이유가 뭐예요]]></content:encoded>
         </item>
     </channel>
 </rss>

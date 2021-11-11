@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 17:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 05:35:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 남의 아파트 놀이터에서 놀면 '주거침입'이다? (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/734/NB12031734.html</link>
+            <guid>https://news.jtbc.joins.com/html/734/NB12031734.html</guid>
+            <pubDate>Thu, 11 Nov 2021 05:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]한 아파트 주민 대표가 놀이터에서 놀던, 다른 아파트 어린이들을 경찰에 신고한 사실이 알려졌습니다. 특히 남의 아파트 놀이터에서 놀았기 때문에 '주거 침입죄'라고 주장했는데 과연 맞는 얘기인지 팩트체]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2021/11/10/202111102029173507_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 요소수, 소변·비료로도 만들 수 있다? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/478/NB12031478.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 30 Sep 2021 21:07:50 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]팩트체크, 오늘(17일)은 '재난지원금'과 관련한 잘못된 정보를 따져봤습니다. 지원금 지급 대상에는 외국인도 일부 포함돼 있습니다. 이를 두고 우리 국민 12%도 못 받는데 세금도 안 내는 외국인은 왜 주냐,]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2021/09/17/202109172038540799_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 6·25 때 수통, 왜 '안 바뀌는 군' 상징이 됐나? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/224/NB12023224.html</link>
-            <guid>https://news.jtbc.joins.com/html/224/NB12023224.html</guid>
-            <pubDate>Thu, 30 Sep 2021 21:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]군대 내 가혹행위를 다룬 드라마, 그 안에서 화제가 된 대사가 있습니다."6.25 때 쓰던 거라고…" "수통도 안 바뀌는데 무슨…" 수통 하나도 안 바꾸는데 군대 안의 부조리가 바뀌겠느냐, 이 뜻]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/09/09/202109092044272592_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남의 아파트 놀이터에서 놀면 '주거침입'이다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>

@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 05:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 17:42:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 전두환, 끝내 안 낸 추징금 956억원…징수 가능한가?]]></title>
+            <link>https://news.jtbc.joins.com/html/726/NB12034726.html</link>
+            <guid>https://news.jtbc.joins.com/html/726/NB12034726.html</guid>
+            <pubDate>Tue, 23 Nov 2021 17:42:08 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]팩트체크도 전두환 씨 사망 소식과 관련된 내용입니다. 전두환 씨는 고인이 됐지만 거액의 미납 추징금은 여전히 남아 있습니다. 사망한 지금 이 추징금을 과연 받아낼 수 있을지 팩트체크를 해봤습니다.최재]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2021/11/23/202111232037433957_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 교회가 달라는 대로? 전광훈 '563억원' 억지 주장]]></title>
             <link>https://news.jtbc.joins.com/html/037/NB12034037.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 06 Oct 2021 05:33:56 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]이번엔 백신을 이미 맞으신 분들이 궁금해하실 만한 내용입니다. 백신은 다 맞았는데 내 몸에, 항체가 제대로 생긴 건지 혹시, 돌파감염 되는 건 아닌지 걱정이 돼서 항체 검사를 해봤거나, 해보려는 분들 계]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2021/10/05/202110052116214972_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 곽상도 아들 '산재 위로금 44억'?…사례 따져보니]]></title>
-            <link>https://news.jtbc.joins.com/html/107/NB12025107.html</link>
-            <guid>https://news.jtbc.joins.com/html/107/NB12025107.html</guid>
-            <pubDate>Thu, 30 Sep 2021 21:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[[김만배/화천대유 대주주 (어제) : (50억원은 너무 큰 거 아닌가라는 의혹이 있었는데…) 산재를 입었어요, 그분이. 산재를 입어가지고…][앵커]곧바로 팩트체크 이어갑니다. 곽상도 의원 아들이 퇴직]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/09/28/202109282111298397_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

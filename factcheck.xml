@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 05:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 17:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 확진자 확 줄어든 일본, 구충제가 특효약이다?]]></title>
+            <link>https://news.jtbc.joins.com/html/048/NB12035048.html</link>
+            <guid>https://news.jtbc.joins.com/html/048/NB12035048.html</guid>
+            <pubDate>Sat, 27 Nov 2021 17:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]일본은 코로나 환자가 급격히 줄었는데, 왜냐는 질문을 놓고 아직 이렇다 할 답이 없는 상황입니다. 온라인에선 구충제를 치료제로 쓴 덕분이라는 루머까지 퍼졌습니다. 하지만 "구충제가 특효약"이라는 주장]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2021/11/25/202111252042589006_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 전두환, 끝내 안 낸 추징금 956억원…징수 가능한가?]]></title>
             <link>https://news.jtbc.joins.com/html/726/NB12034726.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 13 Oct 2021 17:39:34 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]이번에는 대선주자 발언을 '팩트체크' 합니다. 홍준표 후보입니다. 북한 핵에 맞서서 우리도 핵무장 하자 선거 때면 반복되는 주장입니다. 홍준표 후보는 "인도와 파키스탄이 핵 개발하고 난 뒤에 분쟁이 없]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2021/10/13/202110132059069093_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] '백신 맞고 항체 생성 여부' 항체검사로 안다?]]></title>
-            <link>https://news.jtbc.joins.com/html/870/NB12025870.html</link>
-            <guid>https://news.jtbc.joins.com/html/870/NB12025870.html</guid>
-            <pubDate>Wed, 06 Oct 2021 05:33:56 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이번엔 백신을 이미 맞으신 분들이 궁금해하실 만한 내용입니다. 백신은 다 맞았는데 내 몸에, 항체가 제대로 생긴 건지 혹시, 돌파감염 되는 건 아닌지 걱정이 돼서 항체 검사를 해봤거나, 해보려는 분들 계]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/10/05/202110052116214972_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

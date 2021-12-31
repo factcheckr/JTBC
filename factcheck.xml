@@ -4,9 +4,25 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 05:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 17:42:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 제주 지진, 참돔은 이미 알고 있었다?…속설 따져보니]]></title>
+            <link>https://news.jtbc.joins.com/html/231/NB12039231.html</link>
+            <guid>https://news.jtbc.joins.com/html/231/NB12039231.html</guid>
+            <pubDate>Fri, 31 Dec 2021 17:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]그제(14일) 제주에서 발생한 지진을 놓고 온라인상에서는 전조 현상이 이미 있었다는 얘기가 많습니다. 지진 직전에 특이한 구름이 나타나거나 바다에서 참돔이 갑자기 많이 잡혔다는 식입니다. 지진 때마다]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2021/12/16/202112162018384344_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 오미크론이 크리스마스 선물? 잘못 전파된 낙관론]]></title>
+            <link>https://news.jtbc.joins.com/html/972/NB12035972.html</link>
+            <guid>https://news.jtbc.joins.com/html/972/NB12035972.html</guid>
+            <pubDate>Fri, 31 Dec 2021 17:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]오미크론은 허위 과장 정보도 함께 몰고 왔습니다. 아직 얼마나 위험한지 정확한 분석이 나오지 않았음에도 "오미크론이 크리스마스 선물처럼 코로나 유행을 빨리 끝낼 수 있다"는 낙관론을 전하는 기사들이]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2021/12/02/202112021945439225_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 확진자 확 줄어든 일본, 구충제가 특효약이다?]]></title>
             <link>https://news.jtbc.joins.com/html/048/NB12035048.html</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 26 Oct 2021 17:40:49 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]국민의힘 원희룡 후보의 부인이 민주당 이재명 후보를 겨냥해서 "소시오패스"란 표현을 써서 논란입니다. 발언을 한 강윤형 씨는 정신과 의사입니다. 의료 윤리를 어겼다는 지적이 나오자 원 후보는 미국의]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2021/10/25/202110252003136742_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 훈민정음, 중국어 한자 소리 적으려 만들어졌다?]]></title>
-            <link>https://news.jtbc.joins.com/html/944/NB12027944.html</link>
-            <guid>https://news.jtbc.joins.com/html/944/NB12027944.html</guid>
-            <pubDate>Sat, 23 Oct 2021 05:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]"훈민정음은 중국어의 한자 소리를 적기 위해 만든 것이다"라는 내용이 한 국가고시 국어 교재에 담겼습니다. 역사를 왜곡한 거 아니냐는 논란으로도 번졌는데요. 정확한 사실이 뭔지, 팩트체크팀이 확인해봤]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/10/22/202110222050263924_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 핵개발 뒤 분쟁 없어졌다?…홍준표 발언 따져보니]]></title>
-            <link>https://news.jtbc.joins.com/html/850/NB12026850.html</link>
-            <guid>https://news.jtbc.joins.com/html/850/NB12026850.html</guid>
-            <pubDate>Wed, 13 Oct 2021 17:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이번에는 대선주자 발언을 '팩트체크' 합니다. 홍준표 후보입니다. 북한 핵에 맞서서 우리도 핵무장 하자 선거 때면 반복되는 주장입니다. 홍준표 후보는 "인도와 파키스탄이 핵 개발하고 난 뒤에 분쟁이 없]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/10/13/202110132059069093_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

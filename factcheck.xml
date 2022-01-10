@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 05:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 11:34:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 탈모치료약, 건보 적용되면 '처방' 어려워진다?]]></title>
+            <link>https://news.jtbc.joins.com/html/206/NB12042206.html</link>
+            <guid>https://news.jtbc.joins.com/html/206/NB12042206.html</guid>
+            <pubDate>Mon, 10 Jan 2022 11:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이재명 후보의 '탈모치료 공약'이 논란입니다. 일부 의사들은 "오히려 탈모치료약 처방을 줄어들게 할 거다" 이렇게 전망을 합니다. 과연 일리가 있는지 확인했습니다. 새롭게 팩트체크를 맡게 된 이지은 기]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/01/10/202201102021079531_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 제주 지진, 참돔은 이미 알고 있었다?…속설 따져보니]]></title>
             <link>https://news.jtbc.joins.com/html/231/NB12039231.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 28 Oct 2021 17:39:11 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]에이즈나 간염에 걸린 사람들이 헌혈을 해서 수만 명이 수혈 받았다는 보도들이 나왔습니다. 오염된 혈액이 퍼져나간 게 아니냐는 우려가 쏟아졌습니다. 하지만 팩트체크 결과 헌혈이나 수혈을 주저하실 필요]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2021/10/28/202110282032205544_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 대선후보 '정신분석' 미국선 넘쳐난다? 따져보니]]></title>
-            <link>https://news.jtbc.joins.com/html/223/NB12028223.html</link>
-            <guid>https://news.jtbc.joins.com/html/223/NB12028223.html</guid>
-            <pubDate>Tue, 26 Oct 2021 17:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]국민의힘 원희룡 후보의 부인이 민주당 이재명 후보를 겨냥해서 "소시오패스"란 표현을 써서 논란입니다. 발언을 한 강윤형 씨는 정신과 의사입니다. 의료 윤리를 어겼다는 지적이 나오자 원 후보는 미국의]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/10/25/202110252003136742_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

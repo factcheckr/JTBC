@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 11:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 02:54:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://news.jtbc.joins.com/html/206/NB12042206.html</guid>
             <pubDate>Mon, 10 Jan 2022 11:34:02 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]이재명 후보의 '탈모치료 공약'이 논란입니다. 일부 의사들은 "오히려 탈모치료약 처방을 줄어들게 할 거다" 이렇게 전망을 합니다. 과연 일리가 있는지 확인했습니다. 새롭게 팩트체크를 맡게 된 이지은 기]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/01/10/202201102021079531_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/01/10/202201102205306028.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 제주 지진, 참돔은 이미 알고 있었다?…속설 따져보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
@@ -92,7 +92,7 @@
             <link>https://v.daum.net/v/20220110203307609</link>
             <guid>https://v.daum.net/v/20220110203307609</guid>
             <pubDate>Mon, 10 Jan 2022 11:34:08 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 이재명 후보의 '탈모치료 공약'이 논란입니다. 일부 의사들은 "오히려 탈모치료약 처방을 줄어들게 할 거다" 이렇게 전망을 합니다. 과연 일리가 있는지 확인했습니다. 새롭게 팩트체크를 맡게 된 이지은 기자 나와 있습니다. 이 주장은 가능한 얘기입니까? [기자] 논리적으로는 가능한 얘기입니다. 한 현직 의사가 올린 글을 들고 나왔는데, 추려드리자면 탈]]></content:encoded>
+            <content:encoded><![CDATA[[앵커] 이재명 후보의 '탈모치료 공약'이 논란입니다. 일부 의사들은 "오히려 탈모치료약 처방을 줄어들게 할 거다" 이렇게 전망을 합니다. 과연 일리가 있는지 확인했습니다. 새롭게 팩트체크를 맡게 된 이지은 기자 나와 있습니다. 이 주장은 가능한 얘기입니까? [기자] 물리적으로는 가능한 얘기입니다. 한 현직 의사가 올린 글을 들고 나와봤는데요. 추려보면 이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제주 지진, 참돔은 이미 알고 있었다?..속설 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>

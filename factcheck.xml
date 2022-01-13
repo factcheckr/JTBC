@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 05:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 11:34:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 목숨 앗아간 추락…36살 전투기 '수명' 안 지났나]]></title>
+            <link>https://news.jtbc.joins.com/html/671/NB12042671.html</link>
+            <guid>https://news.jtbc.joins.com/html/671/NB12042671.html</guid>
+            <pubDate>Thu, 13 Jan 2022 11:33:53 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이틀 전 공군 전투기가 추락해서 조종사가 순직한 것 관련해서 36년 된 이런 오래된 전투기를 언제까지 몰아야 하는건지 논란입니다.팩트체크 해보겠습니다. 이지은 기자, 전투기 수명이 아직 남았다고 하던]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/01/13/202201132017286741_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 우회전 때 '보행자 녹색불'이면? 어떻게 달라지나]]></title>
             <link>https://news.jtbc.joins.com/html/345/NB12042345.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 Nov 2021 17:42:41 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]요소수가 모자라자 대용품을 찾는 시도들도 많습니다. 요소 대신 소변을 쓴다거나 농업용 비료에 물을 섞어 만들면 된다는 주장도 나오는데 믿을 만한 내용인지 팩트체크팀, 최재원 기자가 알려드리겠습니다.]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2021/11/08/202111082026381287_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 국민 문맹률 80%라 군부독재는 숙명이었다?]]></title>
-            <link>https://news.jtbc.joins.com/html/657/NB12030657.html</link>
-            <guid>https://news.jtbc.joins.com/html/657/NB12030657.html</guid>
-            <pubDate>Tue, 02 Nov 2021 05:34:30 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]그제(30일) 노태우 전 대통령 영결식에서 나온 추도사가 논란이 됐습니다. 당시 한국 사회는 문맹률이 80% 수준이라 육사 출신 엘리트들이 나라를 통치할 수밖에 없었단 취지의 말이었는데요. 국민들이 무지]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/11/01/202111012116552684_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

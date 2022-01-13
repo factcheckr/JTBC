@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 05:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 11:34:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 목숨 앗아간 추락…36살 전투기 '수명' 안 지났나 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/671/NB12042671.html</link>
+            <guid>https://news.jtbc.joins.com/html/671/NB12042671.html</guid>
+            <pubDate>Thu, 13 Jan 2022 11:33:53 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이틀 전 공군 전투기가 추락해서 조종사가 순직한 것 관련해서 36년 된 이런 오래된 전투기를 언제까지 몰아야 하는건지 논란입니다.팩트체크 해보겠습니다. 이지은 기자, 전투기 수명이 아직 남았다고 하던]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/01/13/202201132017286741_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 우회전 때 '보행자 녹색불'이면? 어떻게 달라지나 (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/345/NB12042345.html</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.joins.com/news/2021/11/08/202111082026381287_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 국민 문맹률 80%라 군부독재는 숙명이었다? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/657/NB12030657.html</link>
-            <guid>https://news.jtbc.joins.com/html/657/NB12030657.html</guid>
-            <pubDate>Tue, 02 Nov 2021 05:34:30 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]그제(30일) 노태우 전 대통령 영결식에서 나온 추도사가 논란이 됐습니다. 당시 한국 사회는 문맹률이 80% 수준이라 육사 출신 엘리트들이 나라를 통치할 수밖에 없었단 취지의 말이었는데요. 국민들이 무지]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/11/01/202111012116552684_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[목숨 앗아간 추락..36살 전투기 '수명' 안 지났나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20220113202706213</link>
+            <guid>https://v.daum.net/v/20220113202706213</guid>
+            <pubDate>Thu, 13 Jan 2022 11:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 이틀 전 공군 전투기가 추락해서 조종사가 순직한 것 관련해서 36년 된 이런 오래된 전투기를 언제까지 몰아야 하는건지 논란입니다. 팩트체크 해보겠습니다. 이지은 기자, 전투기 수명이 아직 남았다고 하던데 맞는 얘기입니까? [기자] 맞긴 합니다. 전투기도 정해진 수명이란게 있는데 사용 연한, 즉 수명이 계속 늘고 있습니다. 공군이 '수명 연장 사업']]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우회전 때 '보행자 녹색불'이면? 어떻게 달라지나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20211101212108222</guid>
             <pubDate>Mon, 01 Nov 2021 17:43:44 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 그제(30일) 노태우 전 대통령 영결식에서 나온 추도사가 논란이 됐습니다. 당시 한국 사회는 문맹률이 80% 수준이라 육사 출신 엘리트들이 나라를 통치할 수밖에 없었단 취지의 말이었는데요. 국민들이 무지했던 탓에 어쩔 수 없이 군부 독재로 이어졌다는 논리도 문제지만 역사적인 사실로 봐도 틀린 주장입니다. 팩트체크팀, 최재원 기자가 따져봤습니다. []]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[헌혈로 '에이즈·간염 피' 수만 명에게 퍼졌다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20211028203505113</link>
-            <guid>https://v.daum.net/v/20211028203505113</guid>
-            <pubDate>Thu, 28 Oct 2021 17:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 에이즈나 간염에 걸린 사람들이 헌혈을 해서 수만 명이 수혈 받았다는 보도들이 나왔습니다. 오염된 혈액이 퍼져나간 게 아니냐는 우려가 쏟아졌습니다. 하지만 팩트체크 결과 헌혈이나 수혈을 주저하실 필요가 없는 걸로 나왔습니다. 최재원 기자가 자세하게 알려드립니다. [기자] "부적격 혈액이 3만 개 가까이 수혈됐다, HIV 보균자의 피도 수혈됐다" 대한]]></content:encoded>
         </item>
     </channel>
 </rss>

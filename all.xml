@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 05:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 11:34:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] "아이파크 떼자" 원하면 아파트 이름 바꿀 수 있나? (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/289/NB12043289.html</link>
+            <guid>https://news.jtbc.joins.com/html/289/NB12043289.html</guid>
+            <pubDate>Tue, 18 Jan 2022 11:34:08 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]광주에서 아파트 붕괴 사고를 낸 현대산업개발은 아이파크라는 브랜드를 씁니다. 그런데, 이 이름을 지우고 있는 곳이 있다고 합니다. 서울 잠실에 있는 한 재건축 현장에서 누군가 브랜드를 지우고 있단 사]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/01/18/202201182016423982_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 목숨 앗아간 추락…36살 전투기 '수명' 안 지났나 (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/671/NB12042671.html</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.joins.com/news/2021/11/10/202111102029173507_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 요소수, 소변·비료로도 만들 수 있다? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/478/NB12031478.html</link>
-            <guid>https://news.jtbc.joins.com/html/478/NB12031478.html</guid>
-            <pubDate>Mon, 08 Nov 2021 17:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]요소수가 모자라자 대용품을 찾는 시도들도 많습니다. 요소 대신 소변을 쓴다거나 농업용 비료에 물을 섞어 만들면 된다는 주장도 나오는데 믿을 만한 내용인지 팩트체크팀, 최재원 기자가 알려드리겠습니다.]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/11/08/202111082026381287_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["아이파크 떼자" 원하면 아파트 이름 바꿀 수 있나? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20220118202710022</link>
+            <guid>https://v.daum.net/v/20220118202710022</guid>
+            <pubDate>Tue, 18 Jan 2022 11:34:16 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 광주에서 아파트 붕괴 사고를 낸 현대산업개발은 아이파크라는 브랜드를 씁니다. 그런데, 이 이름을 지우고 있는 곳이 있다고 합니다. 서울 잠실에 있는 한 재건축 현장에서 누군가 브랜드를 지우고 있단 사진이 온라인에 올라온 건데, 팩트체크팀이 직접 가서 확인을 해봤습니다. 이지은 기자. 오늘(18일) 오전에 직접 가봤다고요? [기자] 오늘 한 부동산]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[목숨 앗아간 추락..36살 전투기 '수명' 안 지났나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20211108202904247</guid>
             <pubDate>Mon, 08 Nov 2021 17:42:47 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 요소수가 모자라자 대용품을 찾는 시도들도 많습니다. 요소 대신 소변을 쓴다거나 농업용 비료에 물을 섞어 만들면 된다는 주장도 나오는데 믿을 만한 내용인지 팩트체크팀, 최재원 기자가 알려드리겠습니다. [기자] "소변으로 요소수를 대체할 수 있다", "전국민 운동이라도 해야 하는 것 아니냐" 소변을 이용해 요소수를 만들 수 있다는 얘기, 사실일까? []]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국민 문맹률 80%라 군부독재는 숙명이었다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20211101212108222</link>
-            <guid>https://v.daum.net/v/20211101212108222</guid>
-            <pubDate>Mon, 01 Nov 2021 17:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 그제(30일) 노태우 전 대통령 영결식에서 나온 추도사가 논란이 됐습니다. 당시 한국 사회는 문맹률이 80% 수준이라 육사 출신 엘리트들이 나라를 통치할 수밖에 없었단 취지의 말이었는데요. 국민들이 무지했던 탓에 어쩔 수 없이 군부 독재로 이어졌다는 논리도 문제지만 역사적인 사실로 봐도 틀린 주장입니다. 팩트체크팀, 최재원 기자가 따져봤습니다. []]></content:encoded>
         </item>
     </channel>
 </rss>

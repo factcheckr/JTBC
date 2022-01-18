@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 05:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 11:34:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] "아이파크 떼자" 원하면 아파트 이름 바꿀 수 있나?]]></title>
+            <link>https://news.jtbc.joins.com/html/289/NB12043289.html</link>
+            <guid>https://news.jtbc.joins.com/html/289/NB12043289.html</guid>
+            <pubDate>Tue, 18 Jan 2022 11:34:08 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]광주에서 아파트 붕괴 사고를 낸 현대산업개발은 아이파크라는 브랜드를 씁니다. 그런데, 이 이름을 지우고 있는 곳이 있다고 합니다. 서울 잠실에 있는 한 재건축 현장에서 누군가 브랜드를 지우고 있단 사]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/01/18/202201182016423982_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 목숨 앗아간 추락…36살 전투기 '수명' 안 지났나]]></title>
             <link>https://news.jtbc.joins.com/html/671/NB12042671.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 11 Nov 2021 05:35:00 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]한 아파트 주민 대표가 놀이터에서 놀던, 다른 아파트 어린이들을 경찰에 신고한 사실이 알려졌습니다. 특히 남의 아파트 놀이터에서 놀았기 때문에 '주거 침입죄'라고 주장했는데 과연 맞는 얘기인지 팩트체]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2021/11/10/202111102029173507_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 요소수, 소변·비료로도 만들 수 있다?]]></title>
-            <link>https://news.jtbc.joins.com/html/478/NB12031478.html</link>
-            <guid>https://news.jtbc.joins.com/html/478/NB12031478.html</guid>
-            <pubDate>Mon, 08 Nov 2021 17:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]요소수가 모자라자 대용품을 찾는 시도들도 많습니다. 요소 대신 소변을 쓴다거나 농업용 비료에 물을 섞어 만들면 된다는 주장도 나오는데 믿을 만한 내용인지 팩트체크팀, 최재원 기자가 알려드리겠습니다.]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/11/08/202111082026381287_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

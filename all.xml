@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 05:32:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 11:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 부작용 백신, 제조번호 따로 있다? '괴담' 역추적 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/627/NB12043627.html</link>
+            <guid>https://news.jtbc.joins.com/html/627/NB12043627.html</guid>
+            <pubDate>Thu, 20 Jan 2022 11:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]코로나 백신 중에 위험한 백신 제조번호가 따로 있다는 괴담이 퍼지고 있습니다. 특정 제조번호의 백신을 맞은 사람들은 숨졌다는 건데, 정말 그런지 팩트체크팀이 확인을 해봤습니다.이지은 기자, 이게 정말]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/01/20/202201202012339962_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] "아이파크 떼자" 원하면 아파트 이름 바꿀 수 있나? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/289/NB12043289.html</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.joins.com/news/2021/11/17/202111172018027057_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 남의 아파트 놀이터에서 놀면 '주거침입'이다? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/734/NB12031734.html</link>
-            <guid>https://news.jtbc.joins.com/html/734/NB12031734.html</guid>
-            <pubDate>Thu, 11 Nov 2021 05:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]한 아파트 주민 대표가 놀이터에서 놀던, 다른 아파트 어린이들을 경찰에 신고한 사실이 알려졌습니다. 특히 남의 아파트 놀이터에서 놀았기 때문에 '주거 침입죄'라고 주장했는데 과연 맞는 얘기인지 팩트체]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/11/10/202111102029173507_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[부작용 백신, 제조번호 따로 있다? '괴담' 역추적 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20220120202204817</link>
+            <guid>https://v.daum.net/v/20220120202204817</guid>
+            <pubDate>Thu, 20 Jan 2022 11:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 코로나 백신 중에 위험한 백신 제조번호가 따로 있다는 괴담이 퍼지고 있습니다. 특정 제조번호의 백신을 맞은 사람들은 숨졌다는 건데, 정말 그런지 팩트체크팀이 확인을 해봤습니다. 이지은 기자, 이게 정말 맞는 얘기입니까? 특정한 제조번호의 백신을 맞았으면 위험하다는 얘기입니까? [기자] 백신을 접종할 때 자신이 원하는 제조번호를 골라서 맞을 순 없습]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["아이파크 떼자" 원하면 아파트 이름 바꿀 수 있나? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20211110205013127</guid>
             <pubDate>Wed, 10 Nov 2021 17:38:10 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 한 아파트 주민 대표가 놀이터에서 놀던, 다른 아파트 어린이들을 경찰에 신고한 사실이 알려졌습니다. 특히 남의 아파트 놀이터에서 놀았기 때문에 '주거 침입죄'라고 주장했는데 과연 맞는 얘기인지 팩트체크팀이 따져봤습니다. 최재원 기자입니다. [기자] 지난달 12일 인천 영종도의 한 아파트 놀이터에 경찰이 출동했습니다. 아파트 주민 대표가 놀이터에서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요소수, 소변·비료로도 만들 수 있다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20211108202904247</link>
-            <guid>https://v.daum.net/v/20211108202904247</guid>
-            <pubDate>Mon, 08 Nov 2021 17:42:47 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 요소수가 모자라자 대용품을 찾는 시도들도 많습니다. 요소 대신 소변을 쓴다거나 농업용 비료에 물을 섞어 만들면 된다는 주장도 나오는데 믿을 만한 내용인지 팩트체크팀, 최재원 기자가 알려드리겠습니다. [기자] "소변으로 요소수를 대체할 수 있다", "전국민 운동이라도 해야 하는 것 아니냐" 소변을 이용해 요소수를 만들 수 있다는 얘기, 사실일까? []]></content:encoded>
         </item>
     </channel>
 </rss>

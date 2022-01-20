@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 05:32:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 11:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 부작용 백신, 제조번호 따로 있다? '괴담' 역추적]]></title>
+            <link>https://news.jtbc.joins.com/html/627/NB12043627.html</link>
+            <guid>https://news.jtbc.joins.com/html/627/NB12043627.html</guid>
+            <pubDate>Thu, 20 Jan 2022 11:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]코로나 백신 중에 위험한 백신 제조번호가 따로 있다는 괴담이 퍼지고 있습니다. 특정 제조번호의 백신을 맞은 사람들은 숨졌다는 건데, 정말 그런지 팩트체크팀이 확인을 해봤습니다.이지은 기자, 이게 정말]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/01/20/202201202012339962_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] "아이파크 떼자" 원하면 아파트 이름 바꿀 수 있나?]]></title>
             <link>https://news.jtbc.joins.com/html/289/NB12043289.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 17 Nov 2021 17:38:35 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]사랑제일교회에선 계속 위험천만한 상황들이 벌어지고 있습니다. 법원이 철거하려고 강제집행에 나서면, 불지르고, 새총 쏘고 물리력으로 버팁니다. 결국 문제는 '거액의 보상금'입니다. 전광훈 목사는 '규정]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2021/11/17/202111172018027057_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 남의 아파트 놀이터에서 놀면 '주거침입'이다?]]></title>
-            <link>https://news.jtbc.joins.com/html/734/NB12031734.html</link>
-            <guid>https://news.jtbc.joins.com/html/734/NB12031734.html</guid>
-            <pubDate>Thu, 11 Nov 2021 05:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]한 아파트 주민 대표가 놀이터에서 놀던, 다른 아파트 어린이들을 경찰에 신고한 사실이 알려졌습니다. 특히 남의 아파트 놀이터에서 놀았기 때문에 '주거 침입죄'라고 주장했는데 과연 맞는 얘기인지 팩트체]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/11/10/202111102029173507_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

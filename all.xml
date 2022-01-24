@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 11:34:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,13 @@
             <enclosure url="https://photo.jtbc.joins.com/news/2021/11/17/202111172018027057_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이재명·윤석열 "LTV 완화"..80~90% 적용 가능할까? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20220124203006540</link>
+            <guid>https://v.daum.net/v/20220124203006540</guid>
+            <pubDate>Mon, 24 Jan 2022 11:34:26 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 이재명, 윤석열, 두 후보가 LTV를 대폭 완화하겠다고 했습니다. LTV는 집을 담보로 대출받을 때, 은행에서 담보 가치를 얼마까지 인정하느냐, 그러니까 얼마나 빌릴 수 있느냐는, 비율이죠. 그런데 이걸 두 후보의 주장처럼 크게 늘릴 수가 있는지 팩트체크팀이 따져봤습니다. 이지은 기자, 누구를 대상으로 하겠다. 이건 나와있죠? [기자] 이재명 후보]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[부작용 백신, 제조번호 따로 있다? '괴담' 역추적 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
             <link>https://v.daum.net/v/20220120202204817</link>
             <guid>https://v.daum.net/v/20220120202204817</guid>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20211117202904943</guid>
             <pubDate>Wed, 17 Nov 2021 17:38:41 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 사랑제일교회에선 계속 위험천만한 상황들이 벌어지고 있습니다. 법원이 철거하려고 강제집행에 나서면, 불지르고, 새총 쏘고 물리력으로 버팁니다. 결국 문제는 '거액의 보상금'입니다. 전광훈 목사는 '규정'을 근거로 제시하며 요구하는대로 돈을 달라고 하는데 사실에 부합하는 주장인지 팩트체크를 해봤습니다. 최재원 기자입니다. [기자] 돌을 던지고, 소화기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[남의 아파트 놀이터에서 놀면 '주거침입'이다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20211110205013127</link>
-            <guid>https://v.daum.net/v/20211110205013127</guid>
-            <pubDate>Wed, 10 Nov 2021 17:38:10 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 한 아파트 주민 대표가 놀이터에서 놀던, 다른 아파트 어린이들을 경찰에 신고한 사실이 알려졌습니다. 특히 남의 아파트 놀이터에서 놀았기 때문에 '주거 침입죄'라고 주장했는데 과연 맞는 얘기인지 팩트체크팀이 따져봤습니다. 최재원 기자입니다. [기자] 지난달 12일 인천 영종도의 한 아파트 놀이터에 경찰이 출동했습니다. 아파트 주민 대표가 놀이터에서]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 05:32:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 11:32:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] '당장'은 아니다? 민주당 '4선 금지' 법안 보니]]></title>
+            <link>https://news.jtbc.joins.com/html/719/NB12044719.html</link>
+            <guid>https://news.jtbc.joins.com/html/719/NB12044719.html</guid>
+            <pubDate>Thu, 27 Jan 2022 11:32:26 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이런 가운데 민주당 혁신위원회가 오늘(27일) 같은 지역구에서 연달아 4선 이상을 못하게 하는 법안을 냈습니다. 그런데, 일종의 '함정'이 숨어있다고 하는데요. 팩트체크에서 따져보겠습니다.이지은 기자,]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/01/27/202201272003104979_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 이재명·윤석열 "LTV 완화"…80~90% 적용 가능할까?]]></title>
             <link>https://news.jtbc.joins.com/html/142/NB12044142.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 27 Nov 2021 17:40:44 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]일본은 코로나 환자가 급격히 줄었는데, 왜냐는 질문을 놓고 아직 이렇다 할 답이 없는 상황입니다. 온라인에선 구충제를 치료제로 쓴 덕분이라는 루머까지 퍼졌습니다. 하지만 "구충제가 특효약"이라는 주장]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2021/11/25/202111252042589006_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 전두환, 끝내 안 낸 추징금 956억원…징수 가능한가?]]></title>
-            <link>https://news.jtbc.joins.com/html/726/NB12034726.html</link>
-            <guid>https://news.jtbc.joins.com/html/726/NB12034726.html</guid>
-            <pubDate>Tue, 23 Nov 2021 17:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]팩트체크도 전두환 씨 사망 소식과 관련된 내용입니다. 전두환 씨는 고인이 됐지만 거액의 미납 추징금은 여전히 남아 있습니다. 사망한 지금 이 추징금을 과연 받아낼 수 있을지 팩트체크를 해봤습니다.최재]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/11/23/202111232037433957_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 05:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 11:32:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 개표 작업에 중국인 동원한다? 선거개입 '음모론']]></title>
+            <link>https://news.jtbc.joins.com/html/855/NB12046855.html</link>
+            <guid>https://news.jtbc.joins.com/html/855/NB12046855.html</guid>
+            <pubDate>Mon, 14 Feb 2022 11:32:50 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]다가오는 대통령 선거에서 개표 작업을 왜 외국인들한테도 맡기냔 얘기가 최근 일부에서 나오고 있습니다. 특히, 중국인을 동원해서 선거에 개입하는 거 아니냐하는 음모론도 퍼지는데요. 팩트체크로 확인해]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/02/14/202202142013350098_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] '당장'은 아니다? 민주당 '4선 금지' 법안 보니]]></title>
             <link>https://news.jtbc.joins.com/html/719/NB12044719.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 31 Dec 2021 17:43:08 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]오미크론은 허위 과장 정보도 함께 몰고 왔습니다. 아직 얼마나 위험한지 정확한 분석이 나오지 않았음에도 "오미크론이 크리스마스 선물처럼 코로나 유행을 빨리 끝낼 수 있다"는 낙관론을 전하는 기사들이]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2021/12/02/202112021945439225_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 확진자 확 줄어든 일본, 구충제가 특효약이다?]]></title>
-            <link>https://news.jtbc.joins.com/html/048/NB12035048.html</link>
-            <guid>https://news.jtbc.joins.com/html/048/NB12035048.html</guid>
-            <pubDate>Sat, 27 Nov 2021 17:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]일본은 코로나 환자가 급격히 줄었는데, 왜냐는 질문을 놓고 아직 이렇다 할 답이 없는 상황입니다. 온라인에선 구충제를 치료제로 쓴 덕분이라는 루머까지 퍼졌습니다. 하지만 "구충제가 특효약"이라는 주장]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/11/25/202111252042589006_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

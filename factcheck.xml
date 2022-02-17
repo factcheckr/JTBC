@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 05:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 11:32:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 자가진단키트 '만 18세 미만 금지' 경고문 있다?]]></title>
+            <link>https://news.jtbc.joins.com/html/377/NB12047377.html</link>
+            <guid>https://news.jtbc.joins.com/html/377/NB12047377.html</guid>
+            <pubDate>Thu, 17 Feb 2022 11:32:47 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]교육부가 초, 중, 고등학생들에게 코로나 자가검사를 적극적으로 권고하면서 일부에서 항의가 잇따르고 있습니다. 자가검사키트에 '만 18세 미만은 사용 금지 권고'라고 적혀 있는데, 왜 하라고 하냐는 겁니]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/02/17/202202172012339488_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 개표 작업에 중국인 동원한다? 선거개입 '음모론']]></title>
             <link>https://news.jtbc.joins.com/html/855/NB12046855.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 31 Dec 2021 17:43:08 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]그제(14일) 제주에서 발생한 지진을 놓고 온라인상에서는 전조 현상이 이미 있었다는 얘기가 많습니다. 지진 직전에 특이한 구름이 나타나거나 바다에서 참돔이 갑자기 많이 잡혔다는 식입니다. 지진 때마다]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2021/12/16/202112162018384344_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 오미크론이 크리스마스 선물? 잘못 전파된 낙관론]]></title>
-            <link>https://news.jtbc.joins.com/html/972/NB12035972.html</link>
-            <guid>https://news.jtbc.joins.com/html/972/NB12035972.html</guid>
-            <pubDate>Fri, 31 Dec 2021 17:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]오미크론은 허위 과장 정보도 함께 몰고 왔습니다. 아직 얼마나 위험한지 정확한 분석이 나오지 않았음에도 "오미크론이 크리스마스 선물처럼 코로나 유행을 빨리 끝낼 수 있다"는 낙관론을 전하는 기사들이]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/12/02/202112021945439225_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

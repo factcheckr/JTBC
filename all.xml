@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 02:48:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 05:32:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 이재명-윤석열 '기축통화 논쟁' 따져보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/007/NB12048007.html</link>
+            <guid>https://news.jtbc.joins.com/html/007/NB12048007.html</guid>
+            <pubDate>Wed, 23 Feb 2022 05:32:46 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]첫 번째로 팩트체크할 내용은 이재명-윤석열, 두 후보의 '국가채무'와 관련된 발언입니다. 나랏빚을 얼마나 더 낼 수 있는지를 논쟁하다가 나온 주장들입니다. 먼저, 들어보겠습니다. [이재명/더불어민주당]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/02/22/202202221942494160_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 자가진단키트 '만 18세 미만 금지' 경고문 있다? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/377/NB12047377.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Jan 2022 11:34:02 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]이재명 후보의 '탈모치료 공약'이 논란입니다. 일부 의사들은 "오히려 탈모치료약 처방을 줄어들게 할 거다" 이렇게 전망을 합니다. 과연 일리가 있는지 확인했습니다. 새롭게 팩트체크를 맡게 된 이지은 기]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2022/01/10/202201102205306028.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 제주 지진, 참돔은 이미 알고 있었다?…속설 따져보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/231/NB12039231.html</link>
-            <guid>https://news.jtbc.joins.com/html/231/NB12039231.html</guid>
-            <pubDate>Fri, 31 Dec 2021 17:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]그제(14일) 제주에서 발생한 지진을 놓고 온라인상에서는 전조 현상이 이미 있었다는 얘기가 많습니다. 지진 직전에 특이한 구름이 나타나거나 바다에서 참돔이 갑자기 많이 잡혔다는 식입니다. 지진 때마다]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2021/12/16/202112162018384344_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명-윤석열 '기축통화 논쟁' 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>

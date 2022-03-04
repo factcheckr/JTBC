@@ -4,9 +4,25 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 02:58:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 05:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 이재명, 증세는 자폭?…윤석열, 여성 돕는 성인지예산?]]></title>
+            <link>https://news.jtbc.joins.com/html/303/NB12049303.html</link>
+            <guid>https://news.jtbc.joins.com/html/303/NB12049303.html</guid>
+            <pubDate>Fri, 04 Mar 2022 05:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이번 대선의 마지막 TV토론이 어제(2일) 있었습니다. 거기서 나온 주요 후보들의 말을 팩트체크해보겠습니다.이지은 기자, 이재명 후보 말부터 좀 검증을 해볼까요?[기자] 복지를 늘리기 위해서는 증세, 즉]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/03/03/202203031959110479_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 삶의 질 높이자는 '주4일제' 노동 공약, 잘 될까?]]></title>
+            <link>https://news.jtbc.joins.com/html/978/NB12048978.html</link>
+            <guid>https://news.jtbc.joins.com/html/978/NB12048978.html</guid>
+            <pubDate>Fri, 04 Mar 2022 05:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]팩트체크 오늘(1일)도 대선후보들의 공약을 집중 체크하겠습니다. 이지은 기자가 나와 있습니다. 오늘 주4일제 공약을 분석을 해봤죠?[기자]그렇습니다. 주4일제는 삶의 질을 높이자는 차원에서 유권자 대부]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/03/01/202203012155461861_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 정시 비율·자사고 폐지 여부 보니…생활밀착형 공약엔 '두루뭉술']]></title>
             <link>https://news.jtbc.joins.com/html/848/NB12048848.html</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 18 Jan 2022 11:34:08 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]광주에서 아파트 붕괴 사고를 낸 현대산업개발은 아이파크라는 브랜드를 씁니다. 그런데, 이 이름을 지우고 있는 곳이 있다고 합니다. 서울 잠실에 있는 한 재건축 현장에서 누군가 브랜드를 지우고 있단 사]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2022/01/18/202201182016423982_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 목숨 앗아간 추락…36살 전투기 '수명' 안 지났나]]></title>
-            <link>https://news.jtbc.joins.com/html/671/NB12042671.html</link>
-            <guid>https://news.jtbc.joins.com/html/671/NB12042671.html</guid>
-            <pubDate>Thu, 13 Jan 2022 11:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이틀 전 공군 전투기가 추락해서 조종사가 순직한 것 관련해서 36년 된 이런 오래된 전투기를 언제까지 몰아야 하는건지 논란입니다.팩트체크 해보겠습니다. 이지은 기자, 전투기 수명이 아직 남았다고 하던]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/01/13/202201132017286741_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 우회전 때 '보행자 녹색불'이면? 어떻게 달라지나]]></title>
-            <link>https://news.jtbc.joins.com/html/345/NB12042345.html</link>
-            <guid>https://news.jtbc.joins.com/html/345/NB12042345.html</guid>
-            <pubDate>Tue, 11 Jan 2022 11:33:51 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]오늘(11일) 팩트체크에선 '우회전 차량의 통과 기준'을 살펴봤습니다. 오늘 법 개정안이 공포됐습니다. 지금은 사실로 여겨져도 앞으론 사실이 아닐 수도 있습니다.새롭게 팩트체크를 맡은 이지은 기자가 나]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/01/11/202201112017558889_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

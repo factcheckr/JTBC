@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 02:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 05:33:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 임기 말 인사 중단은 관례? 역대 정권 따져보니]]></title>
+            <link>https://news.jtbc.joins.com/html/397/NB12051397.html</link>
+            <guid>https://news.jtbc.joins.com/html/397/NB12051397.html</guid>
+            <pubDate>Fri, 18 Mar 2022 05:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]인사권을 둘러싼 신구권력의 충돌, 임기 말 인사 중단은 관례다, 이런 주장들이 나왔는데, 팩트체크해보겠습니다.이지은 기자가 나와 있습니다. 맞는 얘기입니까?[기자]대부분 정권이 바뀔 때마다 충돌이 있]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/03/17/202203172139310080_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] '셀프 무궁화대훈장' 논란, 5년마다 왜 반복되나]]></title>
             <link>https://news.jtbc.joins.com/html/987/NB12050987.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 14 Feb 2022 11:32:50 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]다가오는 대통령 선거에서 개표 작업을 왜 외국인들한테도 맡기냔 얘기가 최근 일부에서 나오고 있습니다. 특히, 중국인을 동원해서 선거에 개입하는 거 아니냐 하는 음모론도 퍼지는데요. 팩트체크로 확인해]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2022/02/14/202202142013350098_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] '당장'은 아니다? 민주당 '4선 금지' 법안 보니]]></title>
-            <link>https://news.jtbc.joins.com/html/719/NB12044719.html</link>
-            <guid>https://news.jtbc.joins.com/html/719/NB12044719.html</guid>
-            <pubDate>Thu, 27 Jan 2022 11:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이런 가운데 민주당 혁신위원회가 오늘(27일) 같은 지역구에서 연달아 4선 이상을 못 하게 하는 법안을 냈습니다. 그런데, 일종의 '함정'이 숨어있다고 하는데요. 팩트체크에서 따져보겠습니다.이지은 기자,]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/01/27/202201272003104979_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

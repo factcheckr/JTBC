@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 05:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 11:33:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] '소통' 늘린다는데…현 청와대 경호 어떤지 보니]]></title>
+            <link>https://news.jtbc.joins.com/html/171/NB12052171.html</link>
+            <guid>https://news.jtbc.joins.com/html/171/NB12052171.html</guid>
+            <pubDate>Thu, 24 Mar 2022 11:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]당선인은 '소통형 집무'를 하겠다는 계획입니다. 그러면, 경호 체계는 바뀔 수밖에 없고, 앞서 전해드린 대로 AI CCTV도 검토되고 있습니다. 일단 '지금의 경호'는 어떻게 되는지 짚어볼 필요가 있습니다.이]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/03/23/202203231954581866_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 임기 말 인사 중단은 관례? 역대 정권 따져보니]]></title>
             <link>https://news.jtbc.joins.com/html/397/NB12051397.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Feb 2022 11:32:47 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]교육부가 초, 중, 고등학생들에게 코로나 자가검사를 적극적으로 권고하면서 일부에서 항의가 잇따르고 있습니다. 자가검사키트에 '만 18세 미만은 사용 금지 권고'라고 적혀 있는데, 왜 하라고 하냐는 겁니]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2022/02/17/202202172012339488_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 개표 작업에 중국인 동원한다? 선거개입 '음모론']]></title>
-            <link>https://news.jtbc.joins.com/html/855/NB12046855.html</link>
-            <guid>https://news.jtbc.joins.com/html/855/NB12046855.html</guid>
-            <pubDate>Mon, 14 Feb 2022 11:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]다가오는 대통령 선거에서 개표 작업을 왜 외국인들한테도 맡기냔 얘기가 최근 일부에서 나오고 있습니다. 특히, 중국인을 동원해서 선거에 개입하는 거 아니냐 하는 음모론도 퍼지는데요. 팩트체크로 확인해]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/02/14/202202142013350098_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

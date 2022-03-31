@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 11:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 03:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 청와대 개방 땐 경제효과 2000억? 연구자료 보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/211/NB12053211.html</link>
+            <guid>https://news.jtbc.joins.com/html/211/NB12053211.html</guid>
+            <pubDate>Thu, 31 Mar 2022 03:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]그런가 하면, 청와대 개방의 경제효과가 2천억 원에 이른다는 보도까지 나오고 있습니다. 정부 산하기관의 분석 결과가 그 근거라는데, 사실이 맞는지 검증해봤습니다.이지은 기자, 2천억 원이라는 숫자는 어]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/03/30/202203301949328891_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 단체행동 이유가 "지하철 엘리베이터 때문"? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/796/NB12052796.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Mar 2022 05:33:25 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]팩트체크 오늘(1일)도 대선후보들의 공약을 집중 체크하겠습니다. 이지은 기자가 나와 있습니다. 오늘 주4일제 공약을 분석을 해봤죠?[기자]그렇습니다. 주4일제는 삶의 질을 높이자는 차원에서 유권자 대부]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2022/03/01/202203012155461861_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 정시 비율·자사고 폐지 여부 보니…생활밀착형 공약엔 '두루뭉술' (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/848/NB12048848.html</link>
-            <guid>https://news.jtbc.joins.com/html/848/NB12048848.html</guid>
-            <pubDate>Tue, 01 Mar 2022 02:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]팩트체크 오늘(28일)은 '공약 체크'를 해보겠습니다.이지은 기자, 그중에서도 입시 관련 공약을 살펴봤죠?[기자]일단 정시 비율 확대가 큰 방향입니다.이재명 후보는 수시 인원이 지나치게 높은 대학은 정시]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/02/28/202202282051586051_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청와대 개방 땐 경제효과 2000억? 연구자료 보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>

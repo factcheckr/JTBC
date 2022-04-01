@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 11:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 03:30:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] "2년 내 판다" 민주당 의원 1주택 서약, 여전히…]]></title>
+            <link>https://news.jtbc.joins.com/html/366/NB12053366.html</link>
+            <guid>https://news.jtbc.joins.com/html/366/NB12053366.html</guid>
+            <pubDate>Fri, 01 Apr 2022 03:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이번 고위공직자 재산 공개에서 드러난 또 한 가지 사실은 '1가구 1주택 서약'을 하고 공천을 받은 여당 의원들 가운데 일부가 약속 시한인 2년 넘게 그 약속을 안 지키고 있다는 겁니다.팩트체크 이지은 기]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/03/31/202203311952013590_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 청와대 개방 땐 경제효과 2000억? 연구자료 보니]]></title>
             <link>https://news.jtbc.joins.com/html/211/NB12053211.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Mar 2022 05:33:25 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]이번 대선의 마지막 TV토론이 어제(2일) 있었습니다. 거기서 나온 주요 후보들의 말을 팩트체크해보겠습니다.이지은 기자, 이재명 후보 말부터 좀 검증을 해볼까요?[기자] 복지를 늘리기 위해서는 증세, 즉]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2022/03/03/202203031959110479_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 삶의 질 높이자는 '주4일제' 노동 공약, 잘 될까?]]></title>
-            <link>https://news.jtbc.joins.com/html/978/NB12048978.html</link>
-            <guid>https://news.jtbc.joins.com/html/978/NB12048978.html</guid>
-            <pubDate>Fri, 04 Mar 2022 05:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]팩트체크 오늘(1일)도 대선후보들의 공약을 집중 체크하겠습니다. 이지은 기자가 나와 있습니다. 오늘 주4일제 공약을 분석을 해봤죠?[기자]그렇습니다. 주4일제는 삶의 질을 높이자는 차원에서 유권자 대부]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/03/01/202203012155461861_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

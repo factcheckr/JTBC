@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 11:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 03:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] "코로나 시신 염 안 하겠다"…진짜 감염되나 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/838/NB12053838.html</link>
+            <guid>https://news.jtbc.joins.com/html/838/NB12053838.html</guid>
+            <pubDate>Tue, 05 Apr 2022 03:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]거리두기가 한 번 더 완화되면서 그간 화장이 권고됐던 코로나19 사망자 시신에 대해서도 유족이 원하면 매장할 수 있게 됐습니다. 그런데, 장례업계에선 "매장할 때, 바이러스가 시신에 남아 있으면 어쩌나"]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/04/04/202204042008553302_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] "2년 내 판다" 민주당 의원 1주택 서약, 여전히… (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/366/NB12053366.html</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.joins.com/news/2022/03/07/202203072053156179_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 이재명, 증세는 자폭?…윤석열, 여성 돕는 성인지예산? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/303/NB12049303.html</link>
-            <guid>https://news.jtbc.joins.com/html/303/NB12049303.html</guid>
-            <pubDate>Fri, 04 Mar 2022 05:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이번 대선의 마지막 TV토론이 어제(2일) 있었습니다. 거기서 나온 주요 후보들의 말을 팩트체크해보겠습니다.이지은 기자, 이재명 후보 말부터 좀 검증을 해볼까요?[기자] 복지를 늘리기 위해서는 증세, 즉]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/03/03/202203031959110479_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["코로나 시신 염 안 하겠다"..진짜 감염되나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20220404211703505</link>
+            <guid>https://v.daum.net/v/20220404211703505</guid>
+            <pubDate>Tue, 05 Apr 2022 03:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 거리두기가 한 번 더 완화되면서 그간 화장이 권고됐던 코로나19 사망자 시신에 대해서도 유족이 원하면 매장할 수 있게 됐습니다. 그런데, 장례업계에선 "매장할 때, 바이러스가 시신에 남아 있으면 어쩌나"라면서 불안해하고 있습니다. 30여 곳의 장례식장이 '염습 거부' 입장까지 밝히고 있습니다. 팩트체크를 해보겠습니다. 이지은 기자, 시신으로 코로나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["2년 내 판다" 민주당 의원 1주택 서약, 여전히.. (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20220301203207566</guid>
             <pubDate>Tue, 01 Mar 2022 11:34:29 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 팩트체크 오늘(1일)도 대선후보들의 공약을 집중 체크하겠습니다. 이지은 기자가 나와 있습니다. 오늘 주4일제 공약을 분석을 해봤죠? [기자] 그렇습니다. 주4일제는 삶의 질을 높이자는 차원에서 유권자 대부분이 환영하는 공약입니다. 이러다 보니 주요 후보들도 입장을 모두 밝힐 수밖에 없는데요. 이재명 후보는 주4일 또는 주4.5일제 시범 실시, 윤석]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정시 비율·자사고 폐지 여부 보니..생활밀착형 공약엔 '두루뭉술' (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20220228205408858</link>
-            <guid>https://v.daum.net/v/20220228205408858</guid>
-            <pubDate>Tue, 01 Mar 2022 02:58:02 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 팩트체크 오늘(28일)은 '공약 체크'를 해보겠습니다. 이지은 기자, 그중에서도 입시 관련 공약을 살펴봤죠? [기자] 일단 정시 비율 확대가 큰 방향입니다. 이재명 후보는 수시 인원이 지나치게 높은 대학은 정시 비율을 늘린다, 윤석열 후보도 정시 비율을 확대한다고 했습니다. 안철수 후보는 아예 수시를 없애겠다고 했습니다. 심상정 후보만 정시 확대를]]></content:encoded>
         </item>
     </channel>
 </rss>

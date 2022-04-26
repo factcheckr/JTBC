@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 05:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 11:34:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] '40년 전' 돌아가신 아버지 자료까지 요구…민주당만?]]></title>
+            <link>https://news.jtbc.joins.com/html/866/NB12056866.html</link>
+            <guid>https://news.jtbc.joins.com/html/866/NB12056866.html</guid>
+            <pubDate>Tue, 26 Apr 2022 11:34:30 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]오늘(26일)도 청문회가 무산된 건 '자료 제출'을 둘러싼 공방 때문이었습니다. '부실하게 제출했다'는 민주당의 주장에 대해 국민의힘은 오히려 '민주당이 지나치게 요구했다'고 반박했습니다. 그러면서 40년]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/04/26/202204261942058415_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] '한덕수 요청자료' 문 정부 총리들보다 3~4배?]]></title>
             <link>https://news.jtbc.joins.com/html/717/NB12056717.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 31 Mar 2022 03:08:30 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]그런가 하면, 청와대 개방의 경제효과가 2천억 원에 이른다는 보도까지 나오고 있습니다. 정부 산하기관의 분석 결과가 그 근거라는데, 사실이 맞는지 검증해봤습니다.이지은 기자, 2천억 원이라는 숫자는 어]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2022/03/30/202203301949328891_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 단체행동 이유가 "지하철 엘리베이터 때문"?]]></title>
-            <link>https://news.jtbc.joins.com/html/796/NB12052796.html</link>
-            <guid>https://news.jtbc.joins.com/html/796/NB12052796.html</guid>
-            <pubDate>Wed, 30 Mar 2022 03:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이번엔 팩트체크를 해보겠습니다. 대상은 이준석 대표의 주장입니다. 이지은 기자가 나와 있습니다.일단 이 대표는 장애인 단체의 행동이 지하철 엘리베이터 설치 때문이다, 이렇게 주장을 하고 있는 거죠?[]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/03/28/202203282002446059_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

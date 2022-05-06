@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 11:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 03:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] '국회 앞 농성장, 취임식 전까지 철거'? 규정 따져보니]]></title>
+            <link>https://news.jtbc.joins.com/html/900/NB12057900.html</link>
+            <guid>https://news.jtbc.joins.com/html/900/NB12057900.html</guid>
+            <pubDate>Fri, 06 May 2022 03:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이런 가운데, 대통령 취임식도 닷새 앞으로 다가왔습니다. 그런데, 국회에서 허가를 받고 해오던 농성장에 대해서 취임식 전날까지 철거해달라는 요청이 들어왔습니다. 어떤 규정 때문인지 팩트체크 해보죠.]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/05/05/202205052017442133_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 논란의 '호텔 만찬'…대관료만 500만 원]]></title>
             <link>https://news.jtbc.joins.com/html/014/NB12057014.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 05 Apr 2022 03:09:09 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]거리두기가 한 번 더 완화되면서 그간 화장이 권고됐던 코로나19 사망자 시신에 대해서도 유족이 원하면 매장할 수 있게 됐습니다. 그런데, 장례업계에선 "매장할 때, 바이러스가 시신에 남아 있으면 어쩌나"]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2022/04/04/202204042008553302_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] "2년 내 판다" 민주당 의원 1주택 서약, 여전히…]]></title>
-            <link>https://news.jtbc.joins.com/html/366/NB12053366.html</link>
-            <guid>https://news.jtbc.joins.com/html/366/NB12053366.html</guid>
-            <pubDate>Fri, 01 Apr 2022 03:30:31 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이번 고위공직자 재산 공개에서 드러난 또 한 가지 사실은 '1가구 1주택 서약'을 하고 공천을 받은 여당 의원들 가운데 일부가 약속 시한인 2년 넘게 그 약속을 안 지키고 있다는 겁니다.팩트체크 이지은 기]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/03/31/202203311952013590_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

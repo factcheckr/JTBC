@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 11:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 03:29:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 대통령 출퇴근 때, 체증 감추려 CCTV 통제한다? (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/601/NB12058601.html</link>
+            <guid>https://news.jtbc.joins.com/html/601/NB12058601.html</guid>
+            <pubDate>Thu, 12 May 2022 03:29:49 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]윤석열 대통령은 당분간 서울 서초 자택에서 용산 대통령실로 출퇴근을 해야 하죠. 그래서 출퇴근 시간대 차가 좀 더 막힐 수 있단 얘기도 나왔는데, 또, 막히는 길을 가리려고 CCTV를 통제한다는 주장도 나]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/05/11/202205112008036383_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 취임식에 '대선 경쟁자' 초청한 전례 없다? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/296/NB12058296.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Apr 2022 11:33:31 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]윤석열 당선인은 국민과의 소통을 위해서 집무실을 옮긴다고 했습니다. 백악관처럼 낮은 울타리를 설치해서 집무실 앞까지 시민들이 들어올 수 있게 말이죠. 그런데 경찰이 새 집무실이 들어설 국방부 반경 1]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2022/04/11/202204112016466493_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 아시아에서 '성평등 나라' 1순위는 한국? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/162/NB12054162.html</link>
-            <guid>https://news.jtbc.joins.com/html/162/NB12054162.html</guid>
-            <pubDate>Thu, 07 Apr 2022 03:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]여성가족부를 없애는 공약 관련해서 일각에선 우리나라의 성평등지수가 아시아에서 가장 좋다, 그러니까 가장 평등한 나라다, 이런 주장이 나왔습니다. 사실인지 따져보겠습니다.이지은 기자, 이 말이 어디서]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/04/06/202204062040174363_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대통령 출퇴근 때, 체증 감추려 CCTV 통제한다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>

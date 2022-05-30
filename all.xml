@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 05:43:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 11:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 이재명 "김포~인천공항, 고속철 10분"…현실과는 '거리' (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/785/NB12060785.html</link>
+            <guid>https://news.jtbc.joins.com/html/785/NB12060785.html</guid>
+            <pubDate>Mon, 30 May 2022 11:36:09 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]바로 팩트체크입니다. 이재명 후보는 '김포공항과 인천공항은 고속전철로 10분 정도의 거리'라고 주장을 하고 있습니다. 그런데, 결론부터 말씀드리면, 여러모로 살펴봐도 현실성이 떨어지는 주장입니다.이지]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/05/30/202205301953290953_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 유세차 소음, 전투기 소리보다 시끄러워도 된다? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/376/NB12060376.html</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.joins.com/news/2022/04/26/202204262046267896_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] '한덕수 요청자료' 문 정부 총리들보다 3~4배? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/717/NB12056717.html</link>
-            <guid>https://news.jtbc.joins.com/html/717/NB12056717.html</guid>
-            <pubDate>Mon, 25 Apr 2022 11:34:20 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]바로 팩트체크를 이어가겠습니다. 민주당이 문재인 정부의 총리 청문회 때에 비해서 3~4배나 많은 자료를 요구했다, 이게 국민의힘의 주장인데, 이지은 기자가 나와 있습니다.이 주장, 확인해봤죠?[기자] 먼]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/04/25/202204251946451482_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이재명 "김포~인천공항, 고속철 10분"..현실과는 '거리' (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20220530195423654</link>
+            <guid>https://v.daum.net/v/20220530195423654</guid>
+            <pubDate>Mon, 30 May 2022 11:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 바로 팩트체크입니다. 이재명 후보는 '김포공항과 인천공항은 고속전철로 10분 정도의 거리'라고 주장을 하고 있습니다. 그런데, 결론부터 말씀드리면, 여러모로 살펴봐도 현실성이 떨어지는 주장입니다. 이지은 기자가 팩트체크를 해왔습니다. 소셜미디어에 이 내용을 쓴 거죠? [기자] "김포공항과 인천공항은 고속전철로 10여 분 거리, 33.5㎞다"라고 썼]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유세차 소음, 전투기 소리보다 시끄러워도 된다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20220420201505491</guid>
             <pubDate>Wed, 20 Apr 2022 11:34:39 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 한덕수 후보자에 대해서는 과거 처가가 가지고 있던 서울 장교동 땅을 둘러싼 의혹이 나오고 있습니다. 한 부동산 업체가 이 땅을 시세의 2배 값으로 샀다는 건데, 한 후보자는 이미 다 검증을 받은 거라고 주장합니다. 팩트체크 해보겠습니다. 이지은 기자, 한 후보자 말이 맞습니까. [기자] 그렇지 않습니다. 현재 한 후보자로부터 나오는 의혹의 핵심을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3고사실 면접위원 점수는 대부분 동일? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20220418195007190</link>
-            <guid>https://v.daum.net/v/20220418195007190</guid>
-            <pubDate>Mon, 18 Apr 2022 11:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 정호영 후보자의 '선배'까지 나서서 편입학 과정에 문제가 없다고 감싸고 있습니다. 딸이 한 고사실의 평가위원 3명 모두에게 만점을 받는 건 충분히 있을 수 있는 일이다, 이런 취지입니다. 따져보겠습니다. 팩트체커 이지은 기자가 나와 있습니다. 오늘(18일) 논란이 된 게 경북대 의대 이재태 교수의 주장인데, 정확히 어떤 내용입니까? [기자] 네,]]></content:encoded>
         </item>
     </channel>
 </rss>

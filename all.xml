@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 05:36:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 11:33:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 관세 0%로 내리면 수입 돼지고기값 20% 하락? (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/540/NB12061540.html</link>
+            <guid>https://news.jtbc.joins.com/html/540/NB12061540.html</guid>
+            <pubDate>Mon, 06 Jun 2022 11:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]국산 돼지고기가 한 근에 2만 원이 넘습니다. 상대적으로 싼 수입산도 값이 크게 올랐는데요. 그래서 정부가 수입 돼지고기에 매겨지는 관세를 0%로 낮추기로 했습니다. 이렇게 하면 가격이 떨어질 수 있을지]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/06/06/202206062002134589_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 이재명 "김포~인천공항, 고속철 10분"…현실과는 '거리' (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/785/NB12060785.html</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.joins.com/news/2022/04/28/202204282010336177_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] '40년 전' 돌아가신 아버지 자료까지 요구…민주당만? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/866/NB12056866.html</link>
-            <guid>https://news.jtbc.joins.com/html/866/NB12056866.html</guid>
-            <pubDate>Tue, 26 Apr 2022 11:34:30 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]오늘(26일)도 청문회가 무산된 건 '자료 제출'을 둘러싼 공방 때문이었습니다. '부실하게 제출했다'는 민주당의 주장에 대해 국민의힘은 오히려 '민주당이 지나치게 요구했다'고 반박했습니다. 그러면서 40년]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/04/26/202204262046267896_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[관세 0%로 내리면 수입 돼지고기값 20% 하락? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20220606202007866</link>
+            <guid>https://v.daum.net/v/20220606202007866</guid>
+            <pubDate>Mon, 06 Jun 2022 11:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 국산 돼지고기가 한 근에 2만 원이 넘습니다. 상대적으로 싼 수입산도 값이 크게 올랐는데요. 그래서 정부가 수입 돼지고기에 매겨지는 관세를 0%로 낮추기로 했습니다. 이렇게 하면 가격이 떨어질 수 있을지, 팩트체크 해보겠습니다. 이지은 기자, 정확히 뭘 얼마나 내린다는 건가요? [기자] 정부가 수입 돼지고기(가공용, 삼겹살 등) 5만 톤에 대해 최]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이재명 "김포~인천공항, 고속철 10분"..현실과는 '거리' (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20220425195516964</guid>
             <pubDate>Mon, 25 Apr 2022 11:34:26 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 바로 팩트체크를 이어가겠습니다. 민주당이 문재인 정부의 총리 청문회 때에 비해서 3~4배나 많은 자료를 요구했다, 이게 국민의힘의 주장인데, 이지은 기자가 나와 있습니다. 이 주장, 확인해봤죠? [기자] 먼저 검증해볼 주장은 이겁니다. 발언부터 보시죠. [김미애/국민의힘 의원 : 총 1090여 건 요청되었고, (문재인 정부 때 총리 후보자들이) 제]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[실수령액 외 아무것도 안 받았다더니..김앤장 고문 때 차량 받아 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20220420201505491</link>
-            <guid>https://v.daum.net/v/20220420201505491</guid>
-            <pubDate>Wed, 20 Apr 2022 11:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 한덕수 후보자에 대해서는 과거 처가가 가지고 있던 서울 장교동 땅을 둘러싼 의혹이 나오고 있습니다. 한 부동산 업체가 이 땅을 시세의 2배 값으로 샀다는 건데, 한 후보자는 이미 다 검증을 받은 거라고 주장합니다. 팩트체크 해보겠습니다. 이지은 기자, 한 후보자 말이 맞습니까. [기자] 그렇지 않습니다. 현재 한 후보자로부터 나오는 의혹의 핵심을]]></content:encoded>
         </item>
     </channel>
 </rss>

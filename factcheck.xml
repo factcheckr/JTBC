@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 05:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 11:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] '택시 합승' 카니발은 혼성 되고 쏘나타는 안 된다?]]></title>
+            <link>https://news.jtbc.joins.com/html/664/NB12062664.html</link>
+            <guid>https://news.jtbc.joins.com/html/664/NB12062664.html</guid>
+            <pubDate>Wed, 15 Jun 2022 11:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]'택시 합승' 서비스가 오늘(15일)부터 시행이 됐습니다. 택시대란을 잡으려고 정부가 추진을 하는 겁니다. 이에 대해서 여러 이야기들이 나오고 있습니다. 예를 들면, "차종에 따라 남녀 구분 없이 태워도 된]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/06/15/202206152010594515_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 관세 0%로 내리면 수입 돼지고기값 20% 하락?]]></title>
             <link>https://news.jtbc.joins.com/html/540/NB12061540.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 06 May 2022 03:24:53 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]이런 가운데, 대통령 취임식도 닷새 앞으로 다가왔습니다. 그런데, 국회에서 허가를 받고 해오던 농성장에 대해서 취임식 전날까지 철거해달라는 요청이 들어왔습니다. 어떤 규정 때문인지 팩트체크 해보죠.]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2022/05/05/202205052017442133_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 논란의 '호텔 만찬'…대관료만 500만 원]]></title>
-            <link>https://news.jtbc.joins.com/html/014/NB12057014.html</link>
-            <guid>https://news.jtbc.joins.com/html/014/NB12057014.html</guid>
-            <pubDate>Thu, 28 Apr 2022 11:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]새 정부와 관련해서는 대통령 취임식 비용도 논란이 되고 있습니다. 민주당 측에서 혈세 33억 원을 들여 초호화 잔치를 벌인다고 주장하고 있어섭니다. 청와대 이전으로 기존 영빈관을 안 쓰고, 취임식 날 외]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/04/28/202204282010336177_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

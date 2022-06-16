@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 05:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 11:36:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 하루 42만원 꼴 '의원 세비'…반납 가능할까 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/820/NB12062820.html</link>
+            <guid>https://news.jtbc.joins.com/html/820/NB12062820.html</guid>
+            <pubDate>Thu, 16 Jun 2022 11:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]국회가 임기 하반기 상임위원장 배분 문제를 놓고 여야가 싸우면서 개점휴업 상태를 이어가고 있습니다. 지난달 30일 0시를 기해서 사실상 업무 공백 상태인데요. 보시는 것처럼, 국회 상임위 홈페이지도 '위]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/06/16/202206162017411276_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] '택시 혼성 합승' 카니발은 되고 쏘나타는 안 된다? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/664/NB12062664.html</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.joins.com/news/2022/05/09/202205091955266040_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] '국회 앞 농성장, 취임식 전까지 철거'? 규정 따져보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/900/NB12057900.html</link>
-            <guid>https://news.jtbc.joins.com/html/900/NB12057900.html</guid>
-            <pubDate>Fri, 06 May 2022 03:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이런 가운데, 대통령 취임식도 닷새 앞으로 다가왔습니다. 그런데, 국회에서 허가를 받고 해오던 농성장에 대해서 취임식 전날까지 철거해달라는 요청이 들어왔습니다. 어떤 규정 때문인지 팩트체크 해보죠.]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/05/05/202205052017442133_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[하루 42만원 꼴 '의원 세비'..반납 가능할까 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20220616203408985</link>
+            <guid>https://v.daum.net/v/20220616203408985</guid>
+            <pubDate>Thu, 16 Jun 2022 11:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 국회가 임기 하반기 상임위원장 배분 문제를 놓고 여야가 싸우면서 개점휴업 상태를 이어가고 있습니다. 지난달 30일 0시를 기해서 사실상 업무 공백 상태인데요. 보시는 것처럼, 국회 상임위 홈페이지도 '위원회 구성 전'이라며 멈춰서있습니다. 이렇다 보니 국회의원들 사이에서도 세비, 그러니까 월급 반납해야 하는 거 아니냐 하는 의견이 나오는데 바로 팩]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['택시 혼성 합승' 카니발은 되고 쏘나타는 안 된다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20220427202205626</guid>
             <pubDate>Wed, 27 Apr 2022 11:34:56 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 새 정부와 관련해서는 대통령 취임식 비용도 논란이 되고 있습니다. 민주당 측에서 혈세 33억 원을 들여 초호화 잔치를 벌인다고 주장하고 있어섭니다. 청와대 이전으로 기존 영빈관을 안 쓰고, 취임식 날 외빈만찬을 호텔에서 하기로 하면서 이런 논란은 더 커지고 있는데요. 팩트체크 이지은 기자와 짚어보겠습니다. 우선, 33억 원이라는 돈이 역대 취임식에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['40년 전' 돌아가신 아버지 자료까지 요구..민주당만? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20220426195404316</link>
-            <guid>https://v.daum.net/v/20220426195404316</guid>
-            <pubDate>Tue, 26 Apr 2022 11:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 오늘(26일)도 청문회가 무산된 건 '자료 제출'을 둘러싼 공방 때문이었습니다. '부실하게 제출했다'는 민주당의 주장에 대해 국민의힘은 오히려 '민주당이 지나치게 요구했다'고 반박했습니다. 그러면서 40년 전에 돌아가신 아버지의 자료까지 내라고 했다는 사례를 근거로 들었습니다. 하지만, 저희가 팩트체크를 해보니 국민의힘도 그런 자료를 상당수 요구했]]></content:encoded>
         </item>
     </channel>
 </rss>

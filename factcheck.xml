@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 05:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 11:36:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 하루 42만원 꼴 '의원 세비'…반납 가능할까]]></title>
+            <link>https://news.jtbc.joins.com/html/820/NB12062820.html</link>
+            <guid>https://news.jtbc.joins.com/html/820/NB12062820.html</guid>
+            <pubDate>Thu, 16 Jun 2022 11:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]국회가 임기 하반기 상임위원장 배분 문제를 놓고 여야가 싸우면서 개점휴업 상태를 이어가고 있습니다. 지난달 30일 0시를 기해서 사실상 업무 공백 상태인데요. 보시는 것처럼, 국회 상임위 홈페이지도 '위]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/06/16/202206162017411276_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] '택시 혼성 합승' 카니발은 되고 쏘나타는 안 된다?]]></title>
             <link>https://news.jtbc.joins.com/html/664/NB12062664.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 09 May 2022 11:35:15 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]내일(10일) 오전에 대통령 취임식이 열립니다. 여기서 바로 팩트체크를 하나 하겠습니다. 대통령의 취임식에 '경쟁 후보를 초청한 전례가 없는지'입니다. 이지은 기자, 인수위의 주장부터 들어볼까요?[기자]]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2022/05/09/202205091955266040_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] '국회 앞 농성장, 취임식 전까지 철거'? 규정 따져보니]]></title>
-            <link>https://news.jtbc.joins.com/html/900/NB12057900.html</link>
-            <guid>https://news.jtbc.joins.com/html/900/NB12057900.html</guid>
-            <pubDate>Fri, 06 May 2022 03:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이런 가운데, 대통령 취임식도 닷새 앞으로 다가왔습니다. 그런데, 국회에서 허가를 받고 해오던 농성장에 대해서 취임식 전날까지 철거해달라는 요청이 들어왔습니다. 어떤 규정 때문인지 팩트체크 해보죠.]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/05/05/202205052017442133_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 05:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 11:33:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] "성소수자만 감염" "악수만 해도"?…괴담 따져보니]]></title>
+            <link>https://news.jtbc.joins.com/html/662/NB12063662.html</link>
+            <guid>https://news.jtbc.joins.com/html/662/NB12063662.html</guid>
+            <pubDate>Thu, 23 Jun 2022 11:33:43 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이런 가운데 지금 온라인에서는 원숭이두창과 관련한 확인되지 않은 여러 이야기들도 계속 퍼지고 있습니다. "성 소수자들만 걸린다"거나 "치료한 의사가 호흡기로 옮았다", "악수를 하면 걸린다" 이런 내용]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/06/23/202206231958233377_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] "생두 부가세 면제"…커피값 정말 싸질까]]></title>
             <link>https://news.jtbc.joins.com/html/207/NB12063207.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 24 May 2022 02:02:14 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]북한에서 코로나19가 빠르게 번지자 국내 한 시민단체가 '대형풍선'을 띄우겠다고 합니다. 의약품을 달아서, 보내겠다는 얘기입니다. 이게 법적으로도, 물리적으로도 가능한 건지 팩트체크에서 따져보겠습니]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2022/05/16/202205162012321840_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 대통령 출퇴근 때, 체증 감추려 CCTV 통제한다?]]></title>
-            <link>https://news.jtbc.joins.com/html/601/NB12058601.html</link>
-            <guid>https://news.jtbc.joins.com/html/601/NB12058601.html</guid>
-            <pubDate>Thu, 12 May 2022 03:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]윤석열 대통령은 당분간 서울 서초 자택에서 용산 대통령실로 출퇴근을 해야 하죠. 그래서 출퇴근 시간대 차가 좀 더 막힐 수 있단 얘기도 나왔는데, 또, 막히는 길을 가리려고 CCTV를 통제한다는 주장도 나]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/05/11/202205112008036383_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

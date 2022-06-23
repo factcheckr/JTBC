@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 05:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 11:33:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] "성소수자만 감염" "악수만 해도"?…괴담 따져보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/662/NB12063662.html</link>
+            <guid>https://news.jtbc.joins.com/html/662/NB12063662.html</guid>
+            <pubDate>Thu, 23 Jun 2022 11:33:43 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이런 가운데 지금 온라인에서는 원숭이두창과 관련한 확인되지 않은 여러 이야기들도 계속 퍼지고 있습니다. "성 소수자들만 걸린다"거나 "치료한 의사가 호흡기로 옮았다", "악수를 하면 걸린다" 이런 내용]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/06/23/202206231958233377_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] "생두 부가세 면제"…커피값 정말 싸질까 (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/207/NB12063207.html</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.joins.com/news/2022/05/16/202205162012321840_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 대통령 출퇴근 때, 체증 감추려 CCTV 통제한다? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/601/NB12058601.html</link>
-            <guid>https://news.jtbc.joins.com/html/601/NB12058601.html</guid>
-            <pubDate>Thu, 12 May 2022 03:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]윤석열 대통령은 당분간 서울 서초 자택에서 용산 대통령실로 출퇴근을 해야 하죠. 그래서 출퇴근 시간대 차가 좀 더 막힐 수 있단 얘기도 나왔는데, 또, 막히는 길을 가리려고 CCTV를 통제한다는 주장도 나]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/05/11/202205112008036383_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["성소수자만 감염" "악수만 해도"?..괴담 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20220623200008055</link>
+            <guid>https://v.daum.net/v/20220623200008055</guid>
+            <pubDate>Thu, 23 Jun 2022 11:33:49 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 이런 가운데 지금 온라인에서는 원숭이두창과 관련한 확인되지 않은 여러 이야기들도 계속 퍼지고 있습니다. "성 소수자들만 걸린다"거나 "치료한 의사가 호흡기로 옮았다", "악수를 하면 걸린다" 이런 내용들인데요. 바로 팩트체크 해보겠습니다. 이지은 기자, 우선, 전염 경로부터 보면, 호흡기로 감염이 된다, 이게 맞는 얘기입니까? [기자] 가능성은 있]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["생두 부가세 면제"..커피값 정말 싸질까 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20220509202003307</guid>
             <pubDate>Mon, 09 May 2022 11:35:21 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 내일(10일) 오전에 대통령 취임식이 열립니다. 여기서 바로 팩트체크를 하나 하겠습니다. 대통령의 취임식에 '경쟁 후보를 초청한 전례가 없는지'입니다. 이지은 기자, 인수위의 주장부터 들어볼까요? [기자] 네. 박주선 취임준비위원장이 오늘 공식적으로 한 말입니다. 들어보시죠. [박주선/대통령취임준비위원장 (YTN 라디오 '박지훈의 뉴스킹') : (]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['국회 앞 농성장, 취임식 전까지 철거'? 규정 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20220505202403495</link>
-            <guid>https://v.daum.net/v/20220505202403495</guid>
-            <pubDate>Thu, 05 May 2022 11:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 이런 가운데, 대통령 취임식도 닷새 앞으로 다가왔습니다. 그런데, 국회에서 허가를 받고 해오던 농성장에 대해서 취임식 전날까지 철거해달라는 요청이 들어왔습니다. 어떤 규정 때문인지 팩트체크 해보죠. 이지은 기자, 일단, 누가 하는 농성이죠? [기자] 네, 차별금지법 제정을 촉구하는 시민단체의 단식농성입니다. 보시다시피 국회 정문 앞 인도에서 진행]]></content:encoded>
         </item>
     </channel>
 </rss>

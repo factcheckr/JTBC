@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 11:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 03:50:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://news.jtbc.joins.com/html/662/NB12063662.html</link>
             <guid>https://news.jtbc.joins.com/html/662/NB12063662.html</guid>
             <pubDate>Thu, 23 Jun 2022 11:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이런 가운데 지금 온라인에서는 원숭이두창과 관련한 확인되지 않은 여러 이야기들도 계속 퍼지고 있습니다. "성 소수자들만 걸린다"거나 "치료한 의사가 호흡기로 옮았다", "악수를 하면 걸린다" 이런 내용]]></content:encoded>
+            <content:encoded><![CDATA[[앵커]이런 가운데 지금 온라인에서는 원숭이두창과 관련한 확인되지 않은 여러 이야기들도 계속 퍼지고 있습니다. "성소수자들만 걸린다"거나 "치료한 의사가 호흡기로 옮았다", "악수를 하면 걸린다" 이런 내용들]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2022/06/23/202206231958233377_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://v.daum.net/v/20220623200008055</link>
             <guid>https://v.daum.net/v/20220623200008055</guid>
             <pubDate>Thu, 23 Jun 2022 11:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 이런 가운데 지금 온라인에서는 원숭이두창과 관련한 확인되지 않은 여러 이야기들도 계속 퍼지고 있습니다. "성 소수자들만 걸린다"거나 "치료한 의사가 호흡기로 옮았다", "악수를 하면 걸린다" 이런 내용들인데요. 바로 팩트체크 해보겠습니다. 이지은 기자, 우선, 전염 경로부터 보면, 호흡기로 감염이 된다, 이게 맞는 얘기입니까? [기자] 가능성은 있]]></content:encoded>
+            <content:encoded><![CDATA[[앵커] 이런 가운데 지금 온라인에서는 원숭이두창과 관련한 확인되지 않은 여러 이야기들도 계속 퍼지고 있습니다. "성소수자들만 걸린다"거나 "치료한 의사가 호흡기로 옮았다", "악수를 하면 걸린다" 이런 내용들인데요. 바로 팩트체크 해보겠습니다. 이지은 기자, 우선, 전염 경로부터 보면, 호흡기로 감염이 된다, 이게 맞는 얘기입니까? [기자] 가능성은 있습]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["생두 부가세 면제"..커피값 정말 싸질까 (다음 뉴스 ─ JTBC 팩트체크)]]></title>

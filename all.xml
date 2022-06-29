@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 11:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 03:56:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,13 @@
             <enclosure url="https://photo.jtbc.joins.com/news/2022/05/16/202205162012321840_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["숙박비 5만원, 한 끼 7천원" 누리호에 가려진 진실? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20220628203706464</link>
+            <guid>https://v.daum.net/v/20220628203706464</guid>
+            <pubDate>Wed, 29 Jun 2022 03:56:53 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 누리호가 성공을 거두며 개발을 이끈 한국항공우주연구원 직원들이 찬사를 받고 있습니다. 그런데 이런 노고에 비해서 처우가 열악하다는 주장이 나왔습니다. 이지은 기자가 바로 팩트체크를 해왔습니다. 익명게시판에 올라온 글이죠? [기자] 네. 연구원들이 하루 5만원짜리 숙소를 찾아 헤매야 한다, 식대는 한 끼당 7천원으로 1만원짜리 냉면 한 그릇도 못 먹]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["성소수자만 감염" "악수만 해도"?..괴담 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
             <link>https://v.daum.net/v/20220623200008055</link>
             <guid>https://v.daum.net/v/20220623200008055</guid>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20220511202315312</guid>
             <pubDate>Wed, 11 May 2022 11:36:05 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 윤석열 대통령은 당분간 서울 서초 자택에서 용산 대통령실로 출퇴근을 해야 하죠. 그래서 출퇴근 시간대 차가 좀 더 막힐 수 있단 얘기도 나왔는데, 또, 막히는 길을 가리려고 CCTV를 통제한다는 주장도 나왔습니다. 바로 팩트체크 해보죠. 이지은 기자, 정확히 어떤 주장인 거죠? [기자] 네. 지난주부터 소셜미디어에 돌고 있는 사진들인데, 먼저 보시]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[취임식에 '대선 경쟁자' 초청한 전례 없다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20220509202003307</link>
-            <guid>https://v.daum.net/v/20220509202003307</guid>
-            <pubDate>Mon, 09 May 2022 11:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 내일(10일) 오전에 대통령 취임식이 열립니다. 여기서 바로 팩트체크를 하나 하겠습니다. 대통령의 취임식에 '경쟁 후보를 초청한 전례가 없는지'입니다. 이지은 기자, 인수위의 주장부터 들어볼까요? [기자] 네. 박주선 취임준비위원장이 오늘 공식적으로 한 말입니다. 들어보시죠. [박주선/대통령취임준비위원장 (YTN 라디오 '박지훈의 뉴스킹') : (]]></content:encoded>
         </item>
     </channel>
 </rss>

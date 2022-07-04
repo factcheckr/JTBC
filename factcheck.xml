@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 05:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 11:34:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 상병수당 하루 4만3960원, 다른 나라보다 적다?]]></title>
+            <link>https://news.jtbc.joins.com/html/915/NB12064915.html</link>
+            <guid>https://news.jtbc.joins.com/html/915/NB12064915.html</guid>
+            <pubDate>Mon, 04 Jul 2022 11:34:15 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]오늘(4일)부터 '상병수당' 시범사업이 시작됐습니다. 여기서 상병은 업무와 별개로 생긴 '병'을 말합니다. 일하지 못하면, 정부가 최저임금의 60%를 주는 사업입니다. 한마디로 '아프면 쉴 권리'라는 얘기죠.]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/07/04/202207042026304986_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] "숙박비 5만원, 한 끼 7천원" 누리호에 가려진 진실?]]></title>
             <link>https://news.jtbc.joins.com/html/158/NB12064158.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 25 May 2022 05:40:05 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]검찰 고위직에 법무부 장관 그리고 국무총리까지 지낸 황교안 전 자유한국당 대표가 '선거조작설'을 주장하고 있습니다. 또 '부정선거 방지 꿀팁'이라는 신문 광고에도 등장했습니다. 특히 이 광고는 팩트체]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2022/05/24/202205242042435086_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 미국 국가 울릴때 '가슴에 손'…예우 규정 어겼다?]]></title>
-            <link>https://news.jtbc.joins.com/html/953/NB12059953.html</link>
-            <guid>https://news.jtbc.joins.com/html/953/NB12059953.html</guid>
-            <pubDate>Tue, 24 May 2022 02:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이틀 전, 윤석열 대통령이 바이든 대통령과 환영 만찬을 가졌는데, 당시 윤 대통령이 미국 국가가 연주될 때 가슴에 손을 올린 걸 놓고 논란입니다. 규정에 맞지 않는다, 이런 지적인데요. 팩트체크 해보겠습]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/05/23/202205232020490501_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

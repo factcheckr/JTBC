@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 03:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 05:38:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://news.jtbc.joins.com/html/915/NB12064915.html</guid>
             <pubDate>Mon, 04 Jul 2022 11:34:15 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]오늘(4일)부터 '상병수당' 시범사업이 시작됐습니다. 여기서 상병은 업무와 별개로 생긴 '병'을 말합니다. 일하지 못하면, 정부가 최저임금의 60%를 주는 사업입니다. 한마디로 '아프면 쉴 권리'라는 얘기죠.]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/07/04/202207042026304986_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/07/04/202207042118322225_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] "숙박비 5만원, 한 끼 7천원" 누리호에 가려진 진실? (JTBC 뉴스 ─ 팩트체크)]]></title>

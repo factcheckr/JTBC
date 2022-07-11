@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 05:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 11:35:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 수입소고기, 물가 끌어올렸다? 비율 따져 보니]]></title>
+            <link>https://news.jtbc.joins.com/html/824/NB12065824.html</link>
+            <guid>https://news.jtbc.joins.com/html/824/NB12065824.html</guid>
+            <pubDate>Mon, 11 Jul 2022 11:35:51 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]바로 팩트체크 해보겠습니다. 이지은 기자가 나와 있습니다. 정부는 축산물의 물가상승 기여도가 높다라고 보고 이런 정책을 펴고 있는거고, 반대로 축산 농가들은 아니다, 기여도가 낮다고 주장하는데 뭐가]]></content:encoded>
+            <enclosure url="https://photo.jtbc.joins.com/news/2022/07/11/202207112007307015_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 에어컨 전기료 아끼려면…계속 틀어야? 껐다 켜야?]]></title>
             <link>https://news.jtbc.joins.com/html/394/NB12065394.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 May 2022 11:36:09 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]바로 팩트체크입니다. 이재명 후보는 '김포공항과 인천공항은 고속전철로 10분 정도의 거리'라고 주장을 하고 있습니다. 그런데, 결론부터 말씀드리면, 여러모로 살펴봐도 현실성이 떨어지는 주장입니다.이지]]></content:encoded>
             <enclosure url="https://photo.jtbc.joins.com/news/2022/05/30/202205301953290953_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 유세차 소음, 전투기 소리보다 시끄러워도 된다?]]></title>
-            <link>https://news.jtbc.joins.com/html/376/NB12060376.html</link>
-            <guid>https://news.jtbc.joins.com/html/376/NB12060376.html</guid>
-            <pubDate>Thu, 26 May 2022 11:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]공식 선거 운동이 시작된 뒤, 전국 곳곳에서 유세 차량에서 나오는 소리가 너무 크다, 기찻길 옆에 있는 것 같다, 이런 불만들이 잇따르고 있다고 합니다. 이번 선거는 선거운동 소음에 대한 규제가 적용되는]]></content:encoded>
-            <enclosure url="https://photo.jtbc.joins.com/news/2022/05/26/202205262012336951_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

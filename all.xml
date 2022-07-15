@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 11:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 04:05:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,7 +88,7 @@
             <enclosure url="https://photo.jtbc.joins.com/news/2022/06/15/202206152010594515_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['도로 위 흉기' 판스프링, 경찰은 단속 권한 없다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <title><![CDATA[도로 위 '공포의 쇳덩이'..단속도 처벌도 힘들다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
             <link>https://v.daum.net/v/20220714201303482</link>
             <guid>https://v.daum.net/v/20220714201303482</guid>
             <pubDate>Thu, 14 Jul 2022 11:34:10 GMT</pubDate>

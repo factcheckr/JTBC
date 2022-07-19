@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 05:55:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 11:34:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] '4억 주택 기준' 금리전환 대책, 수도권 역차별? (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/948/NB12066948.html</link>
+            <guid>https://news.jtbc.joins.com/html/948/NB12066948.html</guid>
+            <pubDate>Tue, 19 Jul 2022 11:34:41 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]물가 잡으려고 한국은행이 금리를 계속 올리자 대출금리도 같이 뜁니다. 대출 받아 집 산 사람들 부담이 더 늘어날테니, 정부는 날마다 뛸 변동금리를 낮은 고정금리로 바꿔주겠다고 했습니다. 그런데 수도권]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/07/19/202207192013062329_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 도로 위 '공포의 쇳덩이'…단속도 처벌도 힘들다? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/325/NB12066325.html</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.co.kr/news/2022/06/16/202206162017411276_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] '택시 혼성 합승' 카니발은 되고 쏘나타는 안 된다? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/664/NB12062664.html</link>
-            <guid>https://news.jtbc.joins.com/html/664/NB12062664.html</guid>
-            <pubDate>Wed, 15 Jun 2022 11:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]'택시 합승' 서비스가 오늘(15일)부터 시행이 됐습니다. 택시대란을 잡으려고 정부가 추진을 하는 겁니다. 이에 대해서 여러 이야기들이 나오고 있습니다. 예를 들면, "차종에 따라 남녀 구분 없이 태워도 된]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/06/15/202206152010594515_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['4억 주택 기준' 금리전환 대책, 수도권 역차별? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20220719202305487</link>
+            <guid>https://v.daum.net/v/20220719202305487</guid>
+            <pubDate>Tue, 19 Jul 2022 11:34:47 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 물가 잡으려고 한국은행이 금리를 계속 올리자 대출금리도 같이 뜁니다. 대출 받아 집 산 사람들 부담이 더 늘어날테니, 정부는 날마다 뛸 변동금리를 낮은 고정금리로 바꿔주겠다고 했습니다. 그런데 수도권에 있는 사람들을 중심으로 오히려 이건 역차별이다, 하는 불만이 터져나온다고 하는데요. 팩트체크 해보죠. 이지은 기자, 우선 정부가 발표한 내용이 정확]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[도로 위 '공포의 쇳덩이'..단속도 처벌도 힘들다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20220606202007866</guid>
             <pubDate>Mon, 06 Jun 2022 11:33:12 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 국산 돼지고기가 한 근에 2만 원이 넘습니다. 상대적으로 싼 수입산도 값이 크게 올랐는데요. 그래서 정부가 수입 돼지고기에 매겨지는 관세를 0%로 낮추기로 했습니다. 이렇게 하면 가격이 떨어질 수 있을지, 팩트체크 해보겠습니다. 이지은 기자, 정확히 뭘 얼마나 내린다는 건가요? [기자] 정부가 수입 돼지고기(가공용, 삼겹살 등) 5만 톤에 대해 최]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이재명 "김포~인천공항, 고속철 10분"..현실과는 '거리' (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20220530195423654</link>
-            <guid>https://v.daum.net/v/20220530195423654</guid>
-            <pubDate>Mon, 30 May 2022 11:36:16 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 바로 팩트체크입니다. 이재명 후보는 '김포공항과 인천공항은 고속전철로 10분 정도의 거리'라고 주장을 하고 있습니다. 그런데, 결론부터 말씀드리면, 여러모로 살펴봐도 현실성이 떨어지는 주장입니다. 이지은 기자가 팩트체크를 해왔습니다. 소셜미디어에 이 내용을 쓴 거죠? [기자] "김포공항과 인천공항은 고속전철로 10여 분 거리, 33.5㎞다"라고 썼]]></content:encoded>
         </item>
     </channel>
 </rss>

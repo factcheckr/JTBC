@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 06:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 11:34:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 만 5·6세 동급생 섞여 수업…'교육의 질' 우려도]]></title>
+            <link>https://news.jtbc.joins.com/html/793/NB12068793.html</link>
+            <guid>https://news.jtbc.joins.com/html/793/NB12068793.html</guid>
+            <pubDate>Mon, 01 Aug 2022 11:34:48 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]팩트체크할 내용도 있습니다. 2025학년도부터 입학 나이를 만 5세로 낮추면, 학급당 학생 수가 확 늘어나는지 여부입니다. 이건 교육의 질과 직결되는 문제입니다.이지은 기자, 얼마나 늘게 되는 겁니까?[기]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/08/01/202208011958442775_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 부담 줄인다는 5G 중간요금제, 진짜 '중간' 맞나?]]></title>
             <link>https://news.jtbc.joins.com/html/328/NB12068328.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 29 Jun 2022 11:34:56 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]누리호가 성공을 거두며 개발을 이끈 한국항공우주연구원 직원들이 찬사를 받고 있습니다. 그런데 이런 노고에 비해서 처우가 열악하다는 주장이 나왔습니다.이지은 기자가 바로 팩트체크를 해왔습니다. 익명]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2022/06/28/202206282125281707_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] "성소수자만 감염" "악수만 해도"?…괴담 따져보니]]></title>
-            <link>https://news.jtbc.joins.com/html/662/NB12063662.html</link>
-            <guid>https://news.jtbc.joins.com/html/662/NB12063662.html</guid>
-            <pubDate>Thu, 23 Jun 2022 11:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이런 가운데 지금 온라인에서는 원숭이두창과 관련한 확인되지 않은 여러 이야기들도 계속 퍼지고 있습니다. "성소수자들만 걸린다"거나 "치료한 의사가 호흡기로 옮았다", "악수를 하면 걸린다" 이런 내용들]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/06/23/202206231958233377_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

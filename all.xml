@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 11:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 03:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 대통령실 "보안상 중요한 공사는 비공개"…판단 기준은? (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/132/NB12069132.html</link>
+            <guid>https://news.jtbc.joins.com/html/132/NB12069132.html</guid>
+            <pubDate>Thu, 04 Aug 2022 03:44:45 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]윤석열 대통령 부부가 조만간 입주할 새 관저의 리모델링을 수의계약으로 따낸 업체가 김건희 여사와 연관됐단 의혹이 나왔습니다. 하지만 대통령실은 "보안상 중요한 공사는 공개하지 않는 게 원칙"이라고]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/08/03/202208032017181473_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 만 5·6세 동급생 섞여 수업…한 반에 몇 명 늘어날까 (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/793/NB12068793.html</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.co.kr/news/2022/06/30/202206302042291438_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] "숙박비 5만원, 한 끼 7천원" 누리호에 가려진 진실? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/158/NB12064158.html</link>
-            <guid>https://news.jtbc.joins.com/html/158/NB12064158.html</guid>
-            <pubDate>Wed, 29 Jun 2022 11:34:56 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]누리호가 성공을 거두며 개발을 이끈 한국항공우주연구원 직원들이 찬사를 받고 있습니다. 그런데 이런 노고에 비해서 처우가 열악하다는 주장이 나왔습니다.이지은 기자가 바로 팩트체크를 해왔습니다. 익명]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/06/28/202206282125281707_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[대통령실 "보안상 중요한 공사는 비공개"..판단 기준은? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20220803203534190</link>
+            <guid>https://v.daum.net/v/20220803203534190</guid>
+            <pubDate>Thu, 04 Aug 2022 03:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 윤석열 대통령 부부가 조만간 입주할 새 관저의 리모델링을 수의계약으로 따낸 업체가 김건희 여사와 연관됐단 의혹이 나왔습니다. 하지만 대통령실은 "보안상 중요한 공사는 공개하지 않는 게 원칙"이라고 하고 있는데요. 팩트체크 해보죠. 이지은 기자, 정말 그렇습니까. [기자] 국가기관이 공사 계약을 맺는 경우, 원래 공개가 원칙입니다. 국가계약법에 따라]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[만 5·6세 동급생 섞여 수업..한 반에 몇 명 늘어날까 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20220623200008055</guid>
             <pubDate>Thu, 23 Jun 2022 11:33:49 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 이런 가운데 지금 온라인에서는 원숭이두창과 관련한 확인되지 않은 여러 이야기들도 계속 퍼지고 있습니다. "성소수자들만 걸린다"거나 "치료한 의사가 호흡기로 옮았다", "악수를 하면 걸린다" 이런 내용들인데요. 바로 팩트체크 해보겠습니다. 이지은 기자, 우선, 전염 경로부터 보면, 호흡기로 감염이 된다, 이게 맞는 얘기입니까? [기자] 가능성은 있습]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["생두 부가세 면제"..커피값 정말 싸질까 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20220620200707214</link>
-            <guid>https://v.daum.net/v/20220620200707214</guid>
-            <pubDate>Mon, 20 Jun 2022 11:33:33 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 당장 물가가 너무 뛰었구나 확 와닿는 게 점심 먹을 때죠. 밥 먹고 커피 한잔 사 마시면, 점심값이 만 원을 훌쩍 넘길 텐데요. 이렇다 보니까 정부가 '커피값 대책'을 내놨는데, 효과가 있을지 팩트체크 해보겠습니다. 이지은 기자, 커피는 하루에 몇 잔씩 마시기도 하잖아요? [기자] 네. 기호식품이라 줄이기도 쉽지 않죠. 시민들이 느끼는 커피값 부담]]></content:encoded>
         </item>
     </channel>
 </rss>

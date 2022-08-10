@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 05:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 11:34:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 정부 안내 '산사태 신고 번호' 눌렀더니 "대리운전입니다" (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/239/NB12070239.html</link>
+            <guid>https://news.jtbc.joins.com/html/239/NB12070239.html</guid>
+            <pubDate>Wed, 10 Aug 2022 11:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이번 집중호우 사태를 겪으면서 재난 예측 시스템의 한계를 지적하는 목소리가 많습니다. 그런데 저희 취재 결과, 이미 3년 전에 서울시가 동네별로 침수 위험을 1시간 먼저 예측해서 경고하는 시스템을 운영]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/08/10/202208102033215568_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 대통령실 "보안상 중요한 공사는 비공개"…판단 기준은? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/132/NB12069132.html</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.co.kr/news/2022/07/04/202207042118322225_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 우리나라 1인당 전기 사용량이 세계 3위? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/495/NB12064495.html</link>
-            <guid>https://news.jtbc.joins.com/html/495/NB12064495.html</guid>
-            <pubDate>Tue, 12 Jul 2022 04:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]내일(1일)부터 전기요금이 오르죠. 그런데 우리나라 국민 1인당 전기 사용량이 세계에서 3번째로 많다, 최상위권이다 이런 글들이 퍼지고 있습니다. 맞는 얘기인지, 팩트체크 해보지요.이지은 기자, 사실입니]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/06/30/202206302042291438_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[정부 안내 '산사태 신고 번호' 눌렀더니 "대리운전입니다" (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20220810203054509</link>
+            <guid>https://v.daum.net/v/20220810203054509</guid>
+            <pubDate>Wed, 10 Aug 2022 11:34:48 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 이번 집중호우 사태를 겪으면서 재난 예측 시스템의 한계를 지적하는 목소리가 많습니다. 그런데 저희 취재 결과, 이미 3년 전에 서울시가 동네별로 침수 위험을 1시간 먼저 예측해서 경고하는 시스템을 운영한다며 대대적으로 홍보한 사실이 확인됐습니다. 그런데도 이번에 왜 이랬던 건지 팩트체크 해보죠. 이지은 기자, 이게 구체적으로 어떤 시스템인가요? []]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대통령실 "보안상 중요한 공사는 비공개"..판단 기준은? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20220628203706464</guid>
             <pubDate>Wed, 29 Jun 2022 03:56:53 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 누리호가 성공을 거두며 개발을 이끈 한국항공우주연구원 직원들이 찬사를 받고 있습니다. 그런데 이런 노고에 비해서 처우가 열악하다는 주장이 나왔습니다. 이지은 기자가 바로 팩트체크를 해왔습니다. 익명게시판에 올라온 글이죠? [기자] 네. 연구원들이 하루 5만원짜리 숙소를 찾아 헤매야 한다, 식대는 한 끼당 7천원으로 1만원짜리 냉면 한 그릇도 못 먹]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["성소수자만 감염" "악수만 해도"?..괴담 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20220623200008055</link>
-            <guid>https://v.daum.net/v/20220623200008055</guid>
-            <pubDate>Thu, 23 Jun 2022 11:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 이런 가운데 지금 온라인에서는 원숭이두창과 관련한 확인되지 않은 여러 이야기들도 계속 퍼지고 있습니다. "성소수자들만 걸린다"거나 "치료한 의사가 호흡기로 옮았다", "악수를 하면 걸린다" 이런 내용들인데요. 바로 팩트체크 해보겠습니다. 이지은 기자, 우선, 전염 경로부터 보면, 호흡기로 감염이 된다, 이게 맞는 얘기입니까? [기자] 가능성은 있습]]></content:encoded>
         </item>
     </channel>
 </rss>

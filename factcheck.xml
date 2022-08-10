@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 05:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 11:34:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 정부 안내 '산사태 신고 번호' 눌렀더니 "대리운전입니다"]]></title>
+            <link>https://news.jtbc.joins.com/html/239/NB12070239.html</link>
+            <guid>https://news.jtbc.joins.com/html/239/NB12070239.html</guid>
+            <pubDate>Wed, 10 Aug 2022 11:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이번 집중호우 사태를 겪으면서 재난 예측 시스템의 한계를 지적하는 목소리가 많습니다. 그런데 저희 취재 결과, 이미 3년 전에 서울시가 동네별로 침수 위험을 1시간 먼저 예측해서 경고하는 시스템을 운영]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/08/10/202208102033215568_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 대통령실 "보안상 중요한 공사는 비공개"…판단 기준은?]]></title>
             <link>https://news.jtbc.joins.com/html/132/NB12069132.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Jul 2022 11:34:15 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]오늘(4일)부터 '상병수당' 시범사업이 시작됐습니다. 여기서 상병은 업무와 별개로 생긴 '병'을 말합니다. 일하지 못하면, 정부가 최저임금의 60%를 주는 사업입니다. 한마디로 '아프면 쉴 권리'라는 얘기죠.]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2022/07/04/202207042118322225_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 우리나라 1인당 전기 사용량이 세계 3위?]]></title>
-            <link>https://news.jtbc.joins.com/html/495/NB12064495.html</link>
-            <guid>https://news.jtbc.joins.com/html/495/NB12064495.html</guid>
-            <pubDate>Tue, 12 Jul 2022 04:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]내일(1일)부터 전기요금이 오르죠. 그런데 우리나라 국민 1인당 전기 사용량이 세계에서 3번째로 많다, 최상위권이다 이런 글들이 퍼지고 있습니다. 맞는 얘기인지, 팩트체크 해보지요.이지은 기자, 사실입니]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/06/30/202206302042291438_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

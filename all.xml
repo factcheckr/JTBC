@@ -4,16 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 03:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 05:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[팩트체크] 정부 안내 '산사태 신고 번호' 눌렀더니 "대리운전입니다" (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <title><![CDATA[[팩트체크] 서울시, 3년 전 홍보한 '1시간 전 침수경보'는 가동됐나? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/239/NB12070239.html</link>
             <guid>https://news.jtbc.joins.com/html/239/NB12070239.html</guid>
             <pubDate>Wed, 10 Aug 2022 11:34:43 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]이번 집중호우 사태를 겪으면서 재난 예측 시스템의 한계를 지적하는 목소리가 많습니다. 그런데 저희 취재 결과, 이미 3년 전에 서울시가 동네별로 침수 위험을 1시간 먼저 예측해서 경고하는 시스템을 운영]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/08/10/202208102033215568_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/08/11/202208111344005624_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 대통령실 "보안상 중요한 공사는 비공개"…판단 기준은? (JTBC 뉴스 ─ 팩트체크)]]></title>
@@ -88,7 +88,7 @@
             <enclosure url="https://photo.jtbc.co.kr/news/2022/07/04/202207042118322225_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정부 안내 '산사태 신고 번호' 눌렀더니 "대리운전입니다" (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <title><![CDATA[서울시, 3년 전 홍보한 '1시간 전 침수경보'는 가동됐나? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
             <link>https://v.daum.net/v/20220810203054509</link>
             <guid>https://v.daum.net/v/20220810203054509</guid>
             <pubDate>Wed, 10 Aug 2022 11:34:48 GMT</pubDate>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 11:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 04:07:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] '침수 예상 지도' 이번 폭우에 얼마나 정확했나 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/050/NB12071050.html</link>
+            <guid>https://news.jtbc.joins.com/html/050/NB12071050.html</guid>
+            <pubDate>Wed, 17 Aug 2022 04:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]'침수 예상 지도'라는 게 있습니다. 침수 피해가 있을 걸로 예상되는 지역들을 미리 지도로 볼 수 있게 한 건데요. 그런데 이 지도가 실제로 들어가 보면 사이트마다 정보가 다르게 나오거나 아예 알아볼 수]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/08/16/202208162013582877_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 서울시, 3년 전 홍보한 '1시간 전 침수경보'는 가동됐나? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/239/NB12070239.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 08 Jul 2022 05:40:34 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]일찍 찾아온 습하고 더운 날씨 때문에 집집마다 에어컨 켜면서도 전기요금이 걱정이실 텐데요. 조금이라도 요금을 아끼려면 계속 켜두는 게 나은지, 아니면 껐다 켰다 하는 게 좋은지 헷갈립니다.지금부터 팩]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2022/07/07/202207072230329681_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 상병수당 하루 4만3960원, 다른 나라보다 적다? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/915/NB12064915.html</link>
-            <guid>https://news.jtbc.joins.com/html/915/NB12064915.html</guid>
-            <pubDate>Mon, 04 Jul 2022 11:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]오늘(4일)부터 '상병수당' 시범사업이 시작됐습니다. 여기서 상병은 업무와 별개로 생긴 '병'을 말합니다. 일하지 못하면, 정부가 최저임금의 60%를 주는 사업입니다. 한마디로 '아프면 쉴 권리'라는 얘기죠.]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/07/04/202207042118322225_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['침수 예상 지도' 이번 폭우에 얼마나 정확했나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>

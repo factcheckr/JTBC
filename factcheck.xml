@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 06:39:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 11:38:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] '멋대로' 예약 취소한 숙박업소…제재할 방법 없다?]]></title>
+            <link>https://news.jtbc.joins.com/html/183/NB12076183.html</link>
+            <guid>https://news.jtbc.joins.com/html/183/NB12076183.html</guid>
+            <pubDate>Tue, 13 Sep 2022 11:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 숙박업소들이 성수기 요금 정도로만 올린 것인지, 일방적으로 취소해도 문제가 없는 것인지 바로 팩트체크를 해보겠습니다.이지은 기자, 팩트체크팀에서도 직접 확인해봤을 텐데, 어느 정도였나요? [기자]먼]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/09/12/202209122044543160_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 피해규모·지역따라 다르다…소상공인 수해지원 어떻게?]]></title>
             <link>https://news.jtbc.joins.com/html/167/NB12074167.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 19 Jul 2022 11:34:41 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]물가 잡으려고 한국은행이 금리를 계속 올리자 대출금리도 같이 뜁니다. 대출받아 집 산 사람들 부담이 더 늘어날 테니, 정부는 날마다 뛸 변동금리를 낮은 고정금리로 바꿔주겠다고 했습니다. 그런데 수도권]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2022/07/19/202207192013062329_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 도로 위 '공포의 쇳덩이'…단속도 처벌도 힘들다?]]></title>
-            <link>https://news.jtbc.joins.com/html/325/NB12066325.html</link>
-            <guid>https://news.jtbc.joins.com/html/325/NB12066325.html</guid>
-            <pubDate>Thu, 14 Jul 2022 11:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]나흘 전, 고속도로를 달리던 차량에 갑자기 쇳덩이가 날아와서 앞 유리가 다 부서진 사고가 있었습니다. 운전자들은 경찰이 왜 이런 거 철저하게 단속하지 않는지, 또 사고를 낸 화물차를 찾기 힘들다는 거는]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/07/14/202207142001474960_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

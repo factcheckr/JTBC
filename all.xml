@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 06:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 11:38:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,13 @@
             <enclosure url="https://photo.jtbc.co.kr/news/2022/07/19/202207192013062329_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가을 태풍 많다? 윈디가 더 정확하다? '둘다 X' (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20220914202836674</link>
+            <guid>https://v.daum.net/v/20220914202836674</guid>
+            <pubDate>Wed, 14 Sep 2022 11:38:53 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 오늘(14일) 오후 천리안 위성 2호가 찍은 영상입니다. 중국 상하이 쪽으로 이동 중인 12호 태풍 '무이파'의 오른편에 회오리치는 커다란 구름대가 있는데요. 13호 태풍 '므르복'에 이어 오늘 공식 발생한 14호 태풍 '난마돌'입니다. 난마돌은 '매우 강'까지 세력을 키울 수 있는데, 다음 주 중반쯤 남해안 일대를 중심으로 우리나라에 직간접적인]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['멋대로' 예약 취소한 숙박업소..제재할 방법 없다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
             <link>https://v.daum.net/v/20220912214434159</link>
             <guid>https://v.daum.net/v/20220912214434159</guid>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20220714201303482</guid>
             <pubDate>Thu, 14 Jul 2022 11:34:10 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 나흘 전, 고속도로를 달리던 차량에 갑자기 쇳덩이가 날아와서 앞 유리가 다 부서진 사고가 있었습니다. 운전자들은 경찰이 왜 이런 거 철저하게 단속하지 않는지, 또 사고를 낸 화물차를 찾기 힘들다는 거는 왜 그런 건지, 불만을 토로하는데요. 팩트체크로 따져보겠습니다. 이지은 기자, 우선 정확히 어떤 일이었습니까? [기자] 영상부터 보시죠. 지난 10]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[수입소고기, 물가 끌어올렸다? 비율 따져 보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20220711201707818</link>
-            <guid>https://v.daum.net/v/20220711201707818</guid>
-            <pubDate>Mon, 11 Jul 2022 11:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 바로 팩트체크 해보겠습니다. 이지은 기자가 나와 있습니다. 정부는 축산물의 물가상승 기여도가 높다라고 보고 이런 정책을 펴고 있는 거고, 반대로 축산 농가들은 아니다, 기여도가 낮다고 주장하는데 뭐가 맞는 겁니까. [기자] 어디에 초점을 맞추느냐에 따라 다릅니다. 우선 정부가 낸 자료를 보면, 돼지고기와 수입소고기의 경우, 물가 기여도가 각각 0.]]></content:encoded>
         </item>
     </channel>
 </rss>

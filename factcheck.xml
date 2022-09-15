@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 11:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 가을 태풍 많다? 윈디가 더 정확하다? '둘다 X']]></title>
+            <link>https://news.jtbc.joins.com/html/841/NB12076841.html</link>
+            <guid>https://news.jtbc.joins.com/html/841/NB12076841.html</guid>
+            <pubDate>Thu, 15 Sep 2022 06:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]오늘(14일) 오후 천리안 위성 2호가 찍은 영상입니다. 중국 상하이 쪽으로 이동 중인 12호 태풍 '무이파'의 오른편에 회오리치는 커다란 구름대가 있는데요. 13호 태풍 '므르복'에 이어 오늘 공식 발생한 14]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/09/14/202209142012298428_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] '멋대로' 예약 취소한 숙박업소…제재할 방법 없다?]]></title>
             <link>https://news.jtbc.joins.com/html/183/NB12076183.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Jul 2022 11:34:27 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]여기서 바로 이상민 장관의 '쿠데타 발언'을 팩트체크하겠습니다. 두 가지인데, 총경들이 위수지역을 이탈한 건지, 무기도 소지할 수 있는 건지입니다. 결론은 사실에 근거하지 않은 주장입니다.이지은 팩트]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2022/07/26/202207262221446358_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] '4억 주택 기준' 금리전환 대책, 수도권 역차별?]]></title>
-            <link>https://news.jtbc.joins.com/html/948/NB12066948.html</link>
-            <guid>https://news.jtbc.joins.com/html/948/NB12066948.html</guid>
-            <pubDate>Tue, 19 Jul 2022 11:34:41 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]물가 잡으려고 한국은행이 금리를 계속 올리자 대출금리도 같이 뜁니다. 대출받아 집 산 사람들 부담이 더 늘어날 테니, 정부는 날마다 뛸 변동금리를 낮은 고정금리로 바꿔주겠다고 했습니다. 그런데 수도권]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/07/19/202207192013062329_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

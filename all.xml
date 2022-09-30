@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 11:41:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 06:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청와대 개방효과 2천억?…인수위 '주문'에 이틀 만에 '뚝딱' [팩트체크 A/S] (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/581/NB12081581.html</link>
+            <guid>https://news.jtbc.joins.com/html/581/NB12081581.html</guid>
+            <pubDate>Fri, 30 Sep 2022 06:36:59 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3월, 청와대 개방의 경제효과가 2천억 원에 이른다는 보도가 잇따라 나왔습니다. 문화체육관광부 산하 한국문화관광연구원의 분석 결과가 그 근거라고 했습니다.JTBC 팩트체크는 '2천억 원의 경제 효과에 대한]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202209/30/d44ddfa0-d405-4019-9c18-b83b03014310.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 장병 전투화 310억-내복 95억 예산 삭감? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/568/NB12078568.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 01 Aug 2022 11:34:48 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]팩트체크할 내용도 있습니다. 2025학년도부터 입학 나이를 만 5세로 낮추면, 학급당 학생 수가 확 늘어나는지 여부입니다. 이건 교육의 질과 직결되는 문제입니다.이지은 기자, 얼마나 늘게 되는 겁니까?[기]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2022/08/01/202208011958442775_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 부담 줄인다는 5G 중간요금제, 진짜 '중간' 맞나? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/328/NB12068328.html</link>
-            <guid>https://news.jtbc.joins.com/html/328/NB12068328.html</guid>
-            <pubDate>Thu, 28 Jul 2022 11:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]크게 오른 물가 탓에 팍팍한 살림 꾸려나가다 보면, 매달 나가는 통신비도 적잖은 부담인데요. 정부가 이런 가계 부담을 줄여보겠다면서 5G 중간요금제 도입 계획을 발표했습니다. 그런데, 도입 전부터 불만]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/07/28/202207282022579436_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장병 전투화 310억-내복 95억 예산 삭감? (다음 뉴스 ─ JTBC 팩트체크)]]></title>

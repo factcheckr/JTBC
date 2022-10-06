@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 11:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 03:47:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 국정감사서 '음성' 틀려면 여야 간사 합의 필요?]]></title>
+            <link>https://news.jtbc.joins.com/html/226/NB12082226.html</link>
+            <guid>https://news.jtbc.joins.com/html/226/NB12082226.html</guid>
+            <pubDate>Thu, 06 Oct 2022 03:47:43 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]어제(4일) 국회 국정감사에서 윤석열 대통령의 '비속어 논란' 영상을 트는걸 두고 여야가 공방을 벌였습니다. 바로 팩트체크 해보겠습니다.이지은 기자. 우선 당시 상황을 간단히 정리해 주시죠.[기자]김홍걸]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/10/05/202210052028592151_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청와대 개방효과 2천억?…인수위 '주문'에 이틀 만에 '뚝딱' [팩트체크 A/S]]]></title>
             <link>https://news.jtbc.joins.com/html/581/NB12081581.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 04 Aug 2022 03:44:45 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]윤석열 대통령 부부가 조만간 입주할 새 관저의 리모델링을 수의계약으로 따낸 업체가 김건희 여사와 연관됐단 의혹이 나왔습니다. 하지만 대통령실은 "보안상 중요한 공사는 공개하지 않는 게 원칙"이라고]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2022/08/03/202208032017181473_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 만 5·6세 동급생 섞여 수업…한 반에 몇 명 늘어날까]]></title>
-            <link>https://news.jtbc.joins.com/html/793/NB12068793.html</link>
-            <guid>https://news.jtbc.joins.com/html/793/NB12068793.html</guid>
-            <pubDate>Mon, 01 Aug 2022 11:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]팩트체크할 내용도 있습니다. 2025학년도부터 입학 나이를 만 5세로 낮추면, 학급당 학생 수가 확 늘어나는지 여부입니다. 이건 교육의 질과 직결되는 문제입니다.이지은 기자, 얼마나 늘게 되는 겁니까?[기]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/08/01/202208011958442775_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

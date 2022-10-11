@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Oct 2022 06:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 11:40:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 유사시 일본 자위대가 우리 영역으로 진입 가능?]]></title>
+            <link>https://news.jtbc.joins.com/html/988/NB12082988.html</link>
+            <guid>https://news.jtbc.joins.com/html/988/NB12082988.html</guid>
+            <pubDate>Tue, 11 Oct 2022 11:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]'친일 국방' 논쟁 속엔 여야의 여러 주장들이 뒤섞여 있습니다. 엇갈리는 내용들 바로 팩트체크를 하겠습니다.채승기 기자, 먼저 민주당 이재명 대표가 '친일 국방' 주장을 하면서 들었던 논거입니다. "윤 대]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/10/11/202210111955369906_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 국정감사서 '음성' 틀려면 여야 간사 합의 필요?]]></title>
             <link>https://news.jtbc.joins.com/html/226/NB12082226.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 10 Aug 2022 11:34:43 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]이번 집중호우 사태를 겪으면서 재난 예측 시스템의 한계를 지적하는 목소리가 많습니다. 그런데 저희 취재 결과, 이미 3년 전에 서울시가 동네별로 침수 위험을 1시간 먼저 예측해서 경고하는 시스템을 운영]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2022/08/11/202208111344005624_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 대통령실 "보안상 중요한 공사는 비공개"…판단 기준은?]]></title>
-            <link>https://news.jtbc.joins.com/html/132/NB12069132.html</link>
-            <guid>https://news.jtbc.joins.com/html/132/NB12069132.html</guid>
-            <pubDate>Thu, 04 Aug 2022 03:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]윤석열 대통령 부부가 조만간 입주할 새 관저의 리모델링을 수의계약으로 따낸 업체가 김건희 여사와 연관됐단 의혹이 나왔습니다. 하지만 대통령실은 "보안상 중요한 공사는 공개하지 않는 게 원칙"이라고]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/08/03/202208032017181473_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

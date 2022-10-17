@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Oct 2022 06:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 11:42:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 날린 쿠폰, 놓친 호출…카카오 보상 어디까지?]]></title>
+            <link>https://news.jtbc.joins.com/html/785/NB12083785.html</link>
+            <guid>https://news.jtbc.joins.com/html/785/NB12083785.html</guid>
+            <pubDate>Mon, 17 Oct 2022 11:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]카카오 먹통 사태로 입은 피해와 불편을 어디까지 보상받을 수 있는지 구체적인 사례 별로 짚어보겠습니다. 김도훈 기자가 나와있습니다. 우선 택시 기사들의 피해가 상당히 컸죠?[기자]그렇습니다. 우리나라]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/10/17/202210172010173158_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] '전술핵' 들여올 수 있을까? 현실성 따져보니]]></title>
             <link>https://news.jtbc.joins.com/html/142/NB12083142.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Aug 2022 11:35:11 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]이렇게 침수차가 멀쩡한 중고차로 둔갑할 수 있는 상황들을 걱정하면서 일부 소비자들은 "침수차는 강제로 폐차시켜야 한다"고도 주장합니다. 그럴 수 있는지, 바로 팩트체크 해보겠습니다.이지은 기자, 완전]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2022/08/24/202208242030384794_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] '침수 예상 지도' 이번 폭우에 얼마나 정확했나]]></title>
-            <link>https://news.jtbc.joins.com/html/050/NB12071050.html</link>
-            <guid>https://news.jtbc.joins.com/html/050/NB12071050.html</guid>
-            <pubDate>Wed, 17 Aug 2022 04:07:22 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]'침수 예상 지도'라는 게 있습니다. 침수 피해가 있을 걸로 예상되는 지역들을 미리 지도로 볼 수 있게 한 건데요. 그런데 이 지도가 실제로 들어가 보면 사이트마다 정보가 다르게 나오거나 아예 알아볼 수]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/08/16/202208162013582877_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

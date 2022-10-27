@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 03:57:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 05:46:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 회생신청 발표는 협상카드? '레고랜드 사태' 엇갈린 주장 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/379/NB12089379.html</link>
+            <guid>https://news.jtbc.joins.com/html/379/NB12089379.html</guid>
+            <pubDate>Thu, 27 Oct 2022 05:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이처럼 기업들의 돈맥경화를 불러온 레고랜드 사태를 두고 주장이 엇갈립니다. 김진태 강원도지사는 개발회사, 그리고 채권단과 진실 공방을 벌이고 있습니다. 팩트체크를 해보겠습니다. 정원석 기자 나와 있]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/10/26/202210262000138196_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 날린 쿠폰, 놓친 호출…카카오 보상 어디까지? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/785/NB12083785.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 07 Sep 2022 04:37:01 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]지난달 집중호우에 이어 이번 태풍까지, 추석을 앞둔 소상공인들의 한숨도 깊습니다. 제주와 남부 지역은 물론 지난 달에 이미 비 피해를 입었던 수도권과 강원 지역도 걱정인데요. 수해를 입었을 경우 지원]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2022/09/05/202209052110175725_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 강제 폐차로 '침수차 거래' 막는다? 법적 기준 보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/219/NB12072219.html</link>
-            <guid>https://news.jtbc.joins.com/html/219/NB12072219.html</guid>
-            <pubDate>Wed, 24 Aug 2022 11:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이렇게 침수차가 멀쩡한 중고차로 둔갑할 수 있는 상황들을 걱정하면서 일부 소비자들은 "침수차는 강제로 폐차시켜야 한다"고도 주장합니다. 그럴 수 있는지, 바로 팩트체크 해보겠습니다.이지은 기자, 완전]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/08/24/202208242030384794_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[회생신청 발표는 협상카드? '레고랜드 사태' 엇갈린 주장 (다음 뉴스 ─ JTBC 팩트체크)]]></title>

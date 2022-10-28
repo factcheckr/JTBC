@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Oct 2022 05:48:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 11:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 1천명당 의사 수 2.5명…같은 통계 다른 주장, 왜]]></title>
+            <link>https://news.jtbc.joins.com/html/660/NB12089660.html</link>
+            <guid>https://news.jtbc.joins.com/html/660/NB12089660.html</guid>
+            <pubDate>Fri, 28 Oct 2022 11:37:23 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]정부와 의사협회가 이렇게 서로 다른 얘길 하고 있는데, 이한주 기자와 팩트체크를 해보겠습니다.이한주 기자, 의사 수가 모자란 건 맞습니까?[기자]맞습니다.우리나라 인구 1천명당 의사수는 2.5명입니다.경]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/10/28/202210282018594014_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 회생신청 발표는 협상카드? '레고랜드 사태' 엇갈린 주장]]></title>
             <link>https://news.jtbc.joins.com/html/379/NB12089379.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 13 Sep 2022 11:38:28 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 숙박업소들이 성수기 요금 정도로만 올린 것인지, 일방적으로 취소해도 문제가 없는 것인지 바로 팩트체크를 해보겠습니다.이지은 기자, 팩트체크팀에서도 직접 확인해봤을 텐데, 어느 정도였나요? [기자]먼]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2022/09/12/202209122044543160_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 피해규모·지역따라 다르다…소상공인 수해지원 어떻게?]]></title>
-            <link>https://news.jtbc.joins.com/html/167/NB12074167.html</link>
-            <guid>https://news.jtbc.joins.com/html/167/NB12074167.html</guid>
-            <pubDate>Wed, 07 Sep 2022 04:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]지난달 집중호우에 이어 이번 태풍까지, 추석을 앞둔 소상공인들의 한숨도 깊습니다. 제주와 남부 지역은 물론 지난 달에 이미 비 피해를 입었던 수도권과 강원 지역도 걱정인데요. 수해를 입었을 경우 지원]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/09/05/202209052110175725_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

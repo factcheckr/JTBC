@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Oct 2022 05:51:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2022 04:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 우려할 인파 아니었다? 그날 밤 이태원 '혼잡지도' 살펴보니]]></title>
+            <link>https://news.jtbc.joins.com/html/119/NB12090119.html</link>
+            <guid>https://news.jtbc.joins.com/html/119/NB12090119.html</guid>
+            <pubDate>Tue, 01 Nov 2022 04:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]그럼 이번에는 실제 이상민 장관 말대로 우려할만한 인파는 아니었는지 팩트체크해보겠습니다.이지은 기자 나와있습니다. 이태원에 특별히 많은 사람이 모여있던게 아니었다 이건 맞는 말입니까?[기자]전혀]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/10/31/202210312035352784_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 1천명당 의사 수 2.5명…같은 통계 다른 주장, 왜]]></title>
             <link>https://news.jtbc.joins.com/html/660/NB12089660.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 15 Sep 2022 06:24:47 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]오늘(14일) 오후 천리안 위성 2호가 찍은 영상입니다. 중국 상하이 쪽으로 이동 중인 12호 태풍 '무이파'의 오른편에 회오리치는 커다란 구름대가 있는데요. 13호 태풍 '므르복'에 이어 오늘 공식 발생한 14]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2022/09/14/202209142012298428_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] '멋대로' 예약 취소한 숙박업소…제재할 방법 없다?]]></title>
-            <link>https://news.jtbc.joins.com/html/183/NB12076183.html</link>
-            <guid>https://news.jtbc.joins.com/html/183/NB12076183.html</guid>
-            <pubDate>Tue, 13 Sep 2022 11:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 숙박업소들이 성수기 요금 정도로만 올린 것인지, 일방적으로 취소해도 문제가 없는 것인지 바로 팩트체크를 해보겠습니다.이지은 기자, 팩트체크팀에서도 직접 확인해봤을 텐데, 어느 정도였나요? [기자]먼]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/09/12/202209122044543160_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

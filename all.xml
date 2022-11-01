@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Oct 2022 05:51:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2022 04:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 우려할 인파 아니었다? 그날 밤 이태원 '혼잡지도' 살펴보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/html/119/NB12090119.html</link>
+            <guid>https://news.jtbc.joins.com/html/119/NB12090119.html</guid>
+            <pubDate>Tue, 01 Nov 2022 04:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]그럼 이번에는 실제 이상민 장관 말대로 우려할만한 인파는 아니었는지 팩트체크해보겠습니다.이지은 기자 나와있습니다. 이태원에 특별히 많은 사람이 모여있던게 아니었다 이건 맞는 말입니까?[기자]전혀]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/10/31/202210312035352784_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 1천명당 의사 수 2.5명…같은 통계 다른 주장, 왜 (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/html/660/NB12089660.html</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.co.kr/news/2022/09/14/202209142012298428_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] '멋대로' 예약 취소한 숙박업소…제재할 방법 없다? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/html/183/NB12076183.html</link>
-            <guid>https://news.jtbc.joins.com/html/183/NB12076183.html</guid>
-            <pubDate>Tue, 13 Sep 2022 11:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 숙박업소들이 성수기 요금 정도로만 올린 것인지, 일방적으로 취소해도 문제가 없는 것인지 바로 팩트체크를 해보겠습니다.이지은 기자, 팩트체크팀에서도 직접 확인해봤을 텐데, 어느 정도였나요? [기자]먼]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/09/12/202209122044543160_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[우려할 인파 아니었다? 그날 밤 이태원 '혼잡지도' 살펴보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20221031204005068</link>
+            <guid>https://v.daum.net/v/20221031204005068</guid>
+            <pubDate>Tue, 01 Nov 2022 04:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 그럼 이번에는 실제 이상민 장관 말대로 우려할만한 인파는 아니었는지 팩트체크해보겠습니다. 이지은 기자 나와있습니다. 이태원에 특별히 많은 사람이 모여있던게 아니었다 이건 맞는 말입니까? [기자] 전혀 그렇지 않습니다. 저희가 엊그제 참사 당시의 순간에 이태원역에 얼마나 모여 있었는지를 추산한 수치를 확인했습니다. 참사가 난 직후인 밤 10시에서 1]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1천명당 의사 수 2.5명…같은 통계 다른 주장, 왜 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20220824202505412</guid>
             <pubDate>Wed, 24 Aug 2022 11:35:17 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 이렇게 침수차가 멀쩡한 중고차로 둔갑할 수 있는 상황들을 걱정하면서 일부 소비자들은 "침수차는 강제로 폐차시켜야 한다"고도 주장합니다. 그럴 수 있는지, 바로 팩트체크 해보겠습니다. 이지은 기자, 완전 침수차는 무조건 폐차시켜라, 이렇게 할 수 있습니까? [기자] 결론부터 말씀드리면 어렵습니다. 소관 부서인 국토부에는 현재 명확한 '폐차 기준'이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['침수 예상 지도' 이번 폭우에 얼마나 정확했나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20220816203034416</link>
-            <guid>https://v.daum.net/v/20220816203034416</guid>
-            <pubDate>Tue, 16 Aug 2022 11:34:09 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] '침수 예상 지도'라는 게 있습니다. 침수 피해가 있을 걸로 예상되는 지역들을 미리 지도로 볼 수 있게 한 건데요. 그런데 이 지도가 실제로 들어가 보면 사이트마다 정보가 다르게 나오거나 아예 알아볼 수도 없게 되어있습니다. 보라고 만든 거냔 얘기까지 나오는데 정말 그런지, 팩트체크해 보겠습니다. 이지은 기자, 이 지도를 보여주는 사이트가 하나로]]></content:encoded>
         </item>
     </channel>
 </rss>

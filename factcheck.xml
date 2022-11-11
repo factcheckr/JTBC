@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Nov 2022 05:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 03:44:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 시행령 개정 반대? 신구 권력 '풍산개' 진실공방]]></title>
+            <link>https://news.jtbc.joins.com/html/496/NB12091496.html</link>
+            <guid>https://news.jtbc.joins.com/html/496/NB12091496.html</guid>
+            <pubDate>Fri, 11 Nov 2022 03:43:54 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]김정은 위원장이 선물로 줬던 풍산개 두 마리는 반환된 뒤에도 지금 정부의 전 정부 사이의 진실 게임으로 번지고 있습니다. 구혜진 기자와 팩트 체크를 좀 해보겠습니다.구혜진 기자, 어제(9일) 문재인 전]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/11/10/202211102139519070_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 우려할 인파 아니었다? 그날 밤 이태원 '혼잡지도' 살펴보니]]></title>
             <link>https://news.jtbc.joins.com/html/119/NB12090119.html</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 20 Sep 2022 11:38:40 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]민주당 지도부가 오늘(19일) 군장병이 옷도 신발도 제대로 입지 못할 정도로 윤석열 정부가 관련 예산을 삭감했다고 비판했습니다. 전투화 예산만 310억원을 뺐다는 건데요. 팩트체크 해보죠. 이지은 기자.]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2022/09/19/202209192154228172_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 가을 태풍 많다? 윈디가 더 정확하다? '둘다 X']]></title>
-            <link>https://news.jtbc.joins.com/html/841/NB12076841.html</link>
-            <guid>https://news.jtbc.joins.com/html/841/NB12076841.html</guid>
-            <pubDate>Thu, 15 Sep 2022 06:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]오늘(14일) 오후 천리안 위성 2호가 찍은 영상입니다. 중국 상하이 쪽으로 이동 중인 12호 태풍 '무이파'의 오른편에 회오리치는 커다란 구름대가 있는데요. 13호 태풍 '므르복'에 이어 오늘 공식 발생한 14]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/09/14/202209142012298428_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

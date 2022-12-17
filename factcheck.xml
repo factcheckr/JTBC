@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 05:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 11:32:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] "우리만 주 단위로 관리" 고용노동부 장관 발언 따져보니]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12107452</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12107452</guid>
+            <pubDate>Sat, 17 Dec 2022 11:32:44 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]정부가 내세운 노동시장 개편의 핵심은 주 52시간제를 바꾸는 겁니다. 팩트체크를 해보겠습니다.박민규 기자, 어제(15일) 국정과제 점검 회의에서도 언급이 있었죠.[기자]네, 고용노동부 이정식 장관 발언이]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2022/12/16/202212162011270910_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 파업 쟁점 '안전운임제' 시행하는 나라 없다?]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12105466</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 15 Dec 2022 03:00:30 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]전술핵 재배치 주장을 둘러싼 팩트를 바로 체크하겠습니다.홍지용 기자가 나와 있습니다. 전술핵 들여오면 핵확산금지조약 위반이다 이런 주장도 나오는데 맞습니까?[기자]그렇지 않습니다.반드시 위반은 아]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2022/10/12/202210122011064102_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 유사시 일본 자위대가 우리 영역으로 진입 가능?]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12082988</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12082988</guid>
-            <pubDate>Thu, 15 Dec 2022 03:00:30 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]'친일 국방' 논쟁 속엔 여야의 여러 주장들이 뒤섞여 있습니다. 엇갈리는 내용들 바로 팩트체크를 하겠습니다.채승기 기자, 먼저 민주당 이재명 대표가 '친일 국방' 주장을 하면서 들었던 논거입니다. "윤 대]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/10/11/202210111955369906_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

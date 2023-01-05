@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 11:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 02:52:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 전장연 시위 '강대강 대치', 왜 출구 못 찾나 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12109646</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12109646</guid>
+            <pubDate>Thu, 05 Jan 2023 02:52:48 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]오늘(3일)도 지하철 탑승 시위는 원천 봉쇄됐습니다. '1분도 지체할 수 없다'는 오세훈 서울시장의 말에, 서울교통공사는 법원이 허용한 '5분 탑승' 시위도 막고 있습니다. 어젯밤에는 시위대가 있는 역을 열]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2023/01/03/202301032020535527_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 노조, 수십억 지원 받고 감사는 안 받는다? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12108191</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 15 Dec 2022 03:00:30 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]정부와 의사협회가 이렇게 서로 다른 얘길 하고 있는데, 이한주 기자와 팩트체크를 해보겠습니다.이한주 기자, 의사 수가 모자란 건 맞습니까?[기자]맞습니다.우리나라 인구 1천명당 의사수는 2.5명입니다.경]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2022/10/28/202210282018594014_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 회생신청 발표는 협상카드? '레고랜드 사태' 엇갈린 주장 (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12089379</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12089379</guid>
-            <pubDate>Thu, 15 Dec 2022 03:00:30 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이처럼 기업들의 돈맥경화를 불러온 레고랜드 사태를 두고 주장이 엇갈립니다. 김진태 강원도지사는 개발회사, 그리고 채권단과 진실 공방을 벌이고 있습니다. 팩트체크를 해보겠습니다. 정원석 기자 나와 있]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/10/26/202210262000138196_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전장연 시위 '강대강 대치', 왜 출구 못 찾나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>

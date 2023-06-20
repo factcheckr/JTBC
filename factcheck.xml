@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 02:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 05:33:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 퀴어축제서 공권력 충돌…'홍준표 vs 경찰' 누가 맞나]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12131401</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12131401</guid>
+            <pubDate>Tue, 20 Jun 2023 05:33:42 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]지난 토요일 대구 퀴어축제에서 낯선 광경이 벌어졌습니다. 지자체 공무원들과 경찰이 부딪혔습니다. 대구시 홍준표 시장과 대구 경찰 모두, 상대방이 법을 어겼다고 주장하고 있습니다. 취재 기자와 누구 말]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2023/06/19/202306192034105571_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 중국, 증거는 못 대면서 기상관측용 풍선?]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12113709</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 15 Dec 2022 03:00:30 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]안전운임제의 대상을 자동차 운반차나 곡물 운반차 등으로 확대하는지 여부가 이번 파업의 쟁점 중 하나입니다. 정부는 해당 화물은 이미 소득이 높아서 안전 운임제가 필요 없다고 하고, 화물연대는 그러지]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2022/11/30/202211301955459015_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 과속·과적 감소? 사고 되레 증가? 안전운임제 쟁점은]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12104606</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12104606</guid>
-            <pubDate>Thu, 15 Dec 2022 03:00:30 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]저희가 어제(23일)도 보도해드린 것처럼 이번 파업의 핵심은 안전운임제입니다. 실제로 화물차 기사들의 안전에 도움을 줬는지를 놓고 정부와 노조의 해석이 갈리는데요, 정인아 기자와 짚어보겠습니다.먼저,]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/11/24/202211242007225227_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

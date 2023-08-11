@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 11:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 02:32:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이강인 감싸는 음바페?…1100만 명 속은 '가짜' 영상]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12133865</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12133865</guid>
+            <pubDate>Fri, 11 Aug 2023 02:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[[기자]&lt; '가짜'에 속았다 &gt;최근 인터넷에서 화제가 된 영상이 있는데요. 프랑스 축구 국가대표 음바페의 기자회견 영상입니다. 보면서 설명하겠습니다.'이강인 무시하는 일본 기자 질문에 불쾌하다는 음바페'라는]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2023/07/06/202307060835084764_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 퀴어축제서 공권력 충돌…'홍준표 vs 경찰' 누가 맞나]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12131401</link>
@@ -24,6 +32,46 @@
             <enclosure url="https://photo.jtbc.co.kr/news/2023/06/16/202306162012029745_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['한 줄 서기'가 고장 원인?…"사람들 안 뛰는 백화점 에스컬레이터는 멀쩡"]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12130049</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12130049</guid>
+            <pubDate>Fri, 11 Aug 2023 02:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이번 사고 이후, 에스컬레이터에서 '한 줄 서기' 때문에 고장이 생긴다는 이야기도 다시 나오고 있습니다. 이런 이유로 '두 줄 서기' 캠페인을 벌였던 때도 있는데요.'한 줄 서기'가 정말로 문제인지 최승훈]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2023/06/09/202306092156147180_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[출퇴근시간 집회는 불법? 경찰 면책?…'집회 제한' 헌재 결정 보니]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12128781</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12128781</guid>
+            <pubDate>Fri, 11 Aug 2023 02:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]정부와 노조가 이렇게 부딪히는 건 자정 이후는 물론 출퇴근 시간 집회도 금지하겠다고 밝혔기 때문입니다.이런저런 단서들이 달렸지만 이게 실제로 가능한건지, 조보경 기자가 팩트체크 해봤습니다.[기자]지]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2023/05/31/202305312009571805_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알프스 필터링, 정말 문제없나?…'후쿠시마 오염수' 팩트체크]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12127652</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12127652</guid>
+            <pubDate>Fri, 11 Aug 2023 02:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]시찰단의 후쿠시마 원전 시찰 첫날, 관련 내용을 박상욱 기자와 함께 스튜디오에서 조금 더 짚어보겠습니다.일단 시찰단은 오늘(23일) 몇가지 시설, 알프스도 봤다고 했고요, K4 탱크도 봤다고 했습니다. 그]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2023/05/23/202305232004352205_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어김없이 "무장폭동" 주장 반복…제주 4·3 둘러싼 '오해와 진실']]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12120879</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12120879</guid>
+            <pubDate>Fri, 11 Aug 2023 02:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]앞서 보신 것처럼 제주 4.3이 '북한이 일으킨 무장 폭동'이라는 주장은 반복되고 있습니다. 여러번 팩트체크를 해드렸는데, 또 가짜뉴스가 많아서 또 팩트체크를 하겠습니다.이해선 기자입니다.[기자](1) 제]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2023/04/03/202304032025109260_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['10% 할인' 선착순 분양에 텐트족 떴다? 부동산 '팩트체크']]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12115625</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12115625</guid>
+            <pubDate>Fri, 11 Aug 2023 02:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[■ 인용보도 시 프로그램명 'JTBC 상암동 클라스'를 밝혀주시기 바랍니다. 저작권은 JTBC에 있습니다.■ 방송 : JTBC 상암동 클라스 / 진행 : 이가혁[앵커]요새 언론 보도를 몇 개 보니까 인기가 많다 이런 보도들]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2023/02/22/202302221020322824_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] 중국, 증거는 못 대면서 기상관측용 풍선?]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12113709</link>
             <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12113709</guid>
@@ -38,54 +86,6 @@
             <pubDate>Fri, 27 Jan 2023 02:55:20 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]날은 춥고, 난방비 부담은 커지면서 여기저기에서 난방비 줄이는 방법들이 나오는데요. 뭐가 맞는 건지, 저희가 팩트체크 해드리겠습니다.경제산업부 김도훈 기자 나와있습니다. 가장 논란인 게 밖에 나갈 때]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2023/01/26/202301262000506614_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 확진자 암실에 가뒀다? '중국 반발' 방역조치 살펴보니]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12110669</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12110669</guid>
-            <pubDate>Wed, 11 Jan 2023 11:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이것 말고도 중국에서 몇 가지 주장을 하면서 반발을 하고 있는데요. 윤영탁 기자와 팩트체크 해보겠습니다.윤영탁 기자, 중국이 우리 검사 방식에 문제가 있다라고 하는 건데, 오히려 정확도가 높아서 대부]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/01/11/202301112012042434_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 전장연 시위 '강대강 대치', 왜 출구 못 찾나]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12109646</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12109646</guid>
-            <pubDate>Thu, 05 Jan 2023 02:52:48 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]오늘(3일)도 지하철 탑승 시위는 원천 봉쇄됐습니다. '1분도 지체할 수 없다'는 오세훈 서울시장의 말에, 서울교통공사는 법원이 허용한 '5분 탑승' 시위도 막고 있습니다. 어젯밤에는 시위대가 있는 역을 열]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/01/03/202301032020535527_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 노조, 수십억 지원 받고 감사는 안 받는다?]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12108191</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12108191</guid>
-            <pubDate>Fri, 23 Dec 2022 05:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이렇게 노조에 대한 강한 발언이 잇따라 나오고 있는데요. 몇가지를 팩트체크 해보겠습니다.박민규 기자, 일단 정부와 여당은 노조의 노조비 회계 문제를 문제 삼고 있잖아요?[기자]네 맞습니다. 여당에서는]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/12/22/202212222021599661_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] '반격능력' 공식화한 일본…한반도 선제공격 가능?]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12107720</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12107720</guid>
-            <pubDate>Tue, 20 Dec 2022 02:49:09 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]일본이 지난주에 국가안보전략을 개정하면서 '반격 능력' 보유를 공식 선언했습니다.관련해서 정제윤 기자와 좀 더 짚어보겠습니다. 정제윤 기자, 일본은 원래 헌법상 공격을 못하게 돼있지 않습니까?[기자]]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/12/19/202212192051590879_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] "우리만 주 단위로 관리" 고용노동부 장관 발언 따져보니]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12107452</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12107452</guid>
-            <pubDate>Sat, 17 Dec 2022 11:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]정부가 내세운 노동시장 개편의 핵심은 주 52시간제를 바꾸는 겁니다. 팩트체크를 해보겠습니다.박민규 기자, 어제(15일) 국정과제 점검 회의에서도 언급이 있었죠.[기자]네, 고용노동부 이정식 장관 발언이]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/12/16/202212162011270910_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 파업 쟁점 '안전운임제' 시행하는 나라 없다?]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12105466</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12105466</guid>
-            <pubDate>Thu, 15 Dec 2022 03:00:30 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]여러 차례 보도해드린 것처럼 이번 파업의 핵심 쟁점은 안전운임제입니다. 화물운임에 대한 일종의 최저임금제 같은 건데, 정부와 경제단체는 전 세계적으로 유례를 찾기 힘든 제도라고 했습니다.정말로 그런]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2022/12/01/202212011952238243_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

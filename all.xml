@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 05:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 11:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 포털 장악한 '중국 응원'…해외 IP 단 두 개로 조작? (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12146654</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12146654</guid>
+            <pubDate>Wed, 04 Oct 2023 11:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]한국과 중국의 축구 8강전이 있었던 지난 1일 전후로 카카오가 운영하는 포털사이트 다음에서 중국을 응원하는 클릭이 90%를 넘을 정도로 압도적으로 나타나 논란이 됐었죠. 워낙 이례적이라 조작 의혹이 제]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2023/10/04/202310042007078561_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명절 재테크? 선물 받은 '이것' 무심코 되팔았다가는… (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12146374</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.co.kr/news/2023/07/10/202307102037493889_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[생수 가격 1년 새 10.8% 올라…왜 올랐을까? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12134410</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12134410</guid>
-            <pubDate>Thu, 21 Sep 2023 02:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[시리얼과 햄, 라면, 아이스크림…안 오른 것이 없을 정도로 먹거리 물가가 많이 올랐습니다.그중 생필품에 속하는 '물(생수)'도 가격이 많이 올랐는데요.통계청 국가통계포털에 따르면 지난달 생수의 소비자물]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202307/10/293abc22-5b32-4ab0-9ee5-f419b0d6989a.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[포털 장악한 '중국 응원'…해외 IP 단 두 개로 조작? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20231004203043704</link>
+            <guid>https://v.daum.net/v/20231004203043704</guid>
+            <pubDate>Wed, 04 Oct 2023 11:33:16 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 한국과 중국의 축구 8강전이 있었던 지난 1일 전후로 카카오가 운영하는 포털사이트 다음에서 중국을 응원하는 클릭이 90%를 넘을 정도로 압도적으로 나타나 논란이 됐었죠. 워낙 이례적이라 조작 의혹이 제기됐는데, 오늘 카카오 측의 발표가 있었습니다. 관련 내용, 정치부 류정화 기자와 팩트 체크해보겠습니다. 류 기자, '다음'은 우리나라 포털인데 중국]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[퀴어축제서 공권력 충돌…'홍준표 vs 경찰' 누가 맞나 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20221130200504987</guid>
             <pubDate>Wed, 30 Nov 2022 11:33:59 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 안전운임제의 대상을 자동차 운반차나 곡물 운반차 등으로 확대하는지 여부가 이번 파업의 쟁점 중 하나입니다. 정부는 해당 화물은 이미 소득이 높아서 안전 운임제가 필요 없다고 하고, 화물연대는 그러지 않다는 입장입니다. 누구 말이 맞는지 윤영탁 기자가 팩트체크 해봤습니다. [기자] 완성차를 실어나르는 화물차 노동자와 곡물 운반 노동자의 임금입니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[과속·과적 감소? 사고 되레 증가? 안전운임제 쟁점은 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20221124201345399</link>
-            <guid>https://v.daum.net/v/20221124201345399</guid>
-            <pubDate>Thu, 24 Nov 2022 11:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 저희가 어제(23일)도 보도해드린 것처럼 이번 파업의 핵심은 안전운임제입니다. 실제로 화물차 기사들의 안전에 도움을 줬는지를 놓고 정부와 노조의 해석이 갈리는데요, 정인아 기자와 짚어보겠습니다. 먼저, 정부가 자료를 내놨는데 어떻습니까? [기자] 사고가 2019년에서 제도가 시행된 2020년에는 줄었고 2021년에는 다시 늘었습니다. 그런데, 20]]></content:encoded>
         </item>
     </channel>
 </rss>

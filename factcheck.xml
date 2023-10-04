@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 05:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 11:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 포털 장악한 '중국 응원'…해외 IP 단 두 개로 조작?]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12146654</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12146654</guid>
+            <pubDate>Wed, 04 Oct 2023 11:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]한국과 중국의 축구 8강전이 있었던 지난 1일 전후로 카카오가 운영하는 포털사이트 다음에서 중국을 응원하는 클릭이 90%를 넘을 정도로 압도적으로 나타나 논란이 됐었죠. 워낙 이례적이라 조작 의혹이 제]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2023/10/04/202310042007078561_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명절 재테크? 선물 받은 '이것' 무심코 되팔았다가는…]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12146374</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 21 Sep 2023 02:33:13 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]집속탄이 왜 금단의 무기라고 불릴정도로 위험한지, 김민관 기자가 스튜디오에서 설명해 드립니다.[기자]집속탄의 위력을 보여주는 영화 한 장면입니다.하늘에서 쏟아지는 수백발의 폭탄을 피할 수 없기 때문]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2023/07/10/202307102037493889_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생수 가격 1년 새 10.8% 올라…왜 올랐을까?]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12134410</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12134410</guid>
-            <pubDate>Thu, 21 Sep 2023 02:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[시리얼과 햄, 라면, 아이스크림…안 오른 것이 없을 정도로 먹거리 물가가 많이 올랐습니다.그중 생필품에 속하는 '물(생수)'도 가격이 많이 올랐는데요.통계청 국가통계포털에 따르면 지난달 생수의 소비자물]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202307/10/293abc22-5b32-4ab0-9ee5-f419b0d6989a.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

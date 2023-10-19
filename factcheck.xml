@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 11:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 02:33:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 의대 정원 18년째 '3058명'…적정한 수치인가?]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12148633</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12148633</guid>
+            <pubDate>Thu, 19 Oct 2023 02:33:40 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]외과, 소아과 같은 곳엔 의사가 부족하고 지방도 의사가 없습니다. 그런데 의대 정원은 18년째 3058명, 그대로입니다. 왜 3058명인 건지, 이게 과연 적정한 숫자인지, 팩트체크로 따져보겠습니다.유한울 기자]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2023/10/18/202310182033457539_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 포털 장악한 '중국 응원'…해외 IP 단 두 개로 조작?]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12146654</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 21 Sep 2023 02:33:13 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]여야가 이렇게 날선 공방을 벌이고 있지만, 불과 몇 년 전만 해도 이들의 입장은 지금과는 매우 달랐습니다.과거 발언들을 송우영 기자가 짚어봤습니다.[기자]민주당은 어제(9일) 라파엘 그로시 IAEA 사무총]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2023/07/10/202307102021053356_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["지뢰처럼 남아 민간인 피해"…'금단의 무기' 집속탄 뭐길래]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12134430</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12134430</guid>
-            <pubDate>Thu, 21 Sep 2023 02:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]집속탄이 왜 금단의 무기라고 불릴정도로 위험한지, 김민관 기자가 스튜디오에서 설명해 드립니다.[기자]집속탄의 위력을 보여주는 영화 한 장면입니다.하늘에서 쏟아지는 수백발의 폭탄을 피할 수 없기 때문]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/07/10/202307102037493889_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

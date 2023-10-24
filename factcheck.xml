@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 11:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 02:34:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 의협이 내세우는 '9·4 의정합의' 법적 구속력 있다? 없다?]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12149243</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12149243</guid>
+            <pubDate>Tue, 24 Oct 2023 02:34:15 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]정부가 의사 수를 늘리겠다고 발표한 뒤 처음으로 오는 목요일 의사단체와 머리를 맞댑니다. 그런데 벌써부터 난항이 예상됩니다. 의협은 의사를 얼마나 늘릴지 여러 구성원들과 논의하지 말고 우리와만 논의]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2023/10/23/202310232030220932_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 의대 정원 18년째 '3058명'…적정한 수치인가?]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12148633</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 21 Sep 2023 02:33:13 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]경찰은 이런 무차별적인 흉기 난동 사건을 '이상 동기 범죄'라고 부르고 있습니다. 이런 유형의 범죄에 대응하기 위해 먼저 개념부터 분명히 정의하고 통계도 내보겠다는 취지였습니다. 별도 TF까지 꾸렸었는]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2023/08/04/202308042023473992_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그때는 맞고 지금은 틀리다? 여야 뒤바뀌자 '말도 바꾼' 여야]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12134437</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12134437</guid>
-            <pubDate>Thu, 21 Sep 2023 02:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]여야가 이렇게 날선 공방을 벌이고 있지만, 불과 몇 년 전만 해도 이들의 입장은 지금과는 매우 달랐습니다.과거 발언들을 송우영 기자가 짚어봤습니다.[기자]민주당은 어제(9일) 라파엘 그로시 IAEA 사무총]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/07/10/202307102021053356_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

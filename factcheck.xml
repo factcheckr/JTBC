@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 05:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 11:33:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 김포시 숙원 사업 '5호선 연장' 서울시 예산으로?]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12150536</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12150536</guid>
+            <pubDate>Wed, 01 Nov 2023 11:33:32 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]보신 것처럼, '서울에도 낙후된 곳 많은데 김포가 들어오면 우리 몫만 줄어드는 것 아니냐'는 목소리도 있습니다. 특히, 김포시의 숙원 사업인 지하철 5호선 연장 비용을 서울 시민이 부담해야 한다는 말도]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2023/11/01/202311011959112335_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 의협이 내세우는 '9·4 의정합의' 법적 구속력 있다? 없다?]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12149243</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 21 Sep 2023 02:33:13 GMT</pubDate>
             <content:encoded><![CDATA[국제올림픽위원회(IOC)가 대한체육회의 "소트니코바의 2014소치올림픽 도핑 재조사" 요구에 "그럴 계획이 없다"는 입장을 보내왔습니다.JTBC는 지난 4일, "대한체육회가 IOC에 재조사를 요구하는 공문을 입수했다"고]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202308/07/581a578d-dbb5-479c-a341-bbc55731cbc4.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이상동기 범죄' 정해놓고 감감무소식…명확한 개념도, 통계도 없다]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12138237</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12138237</guid>
-            <pubDate>Thu, 21 Sep 2023 02:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]경찰은 이런 무차별적인 흉기 난동 사건을 '이상 동기 범죄'라고 부르고 있습니다. 이런 유형의 범죄에 대응하기 위해 먼저 개념부터 분명히 정의하고 통계도 내보겠다는 취지였습니다. 별도 TF까지 꾸렸었는]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/08/04/202308042023473992_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

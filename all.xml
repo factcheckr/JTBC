@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 05:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 11:33:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 김포, 서울의 쓰레기장 된다?…가능성 따져보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12150722</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12150722</guid>
+            <pubDate>Thu, 02 Nov 2023 11:32:54 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]김포 등을 서울로 편입하는 것에 대해 찬성하는지 반대하는지 묻는 여론조사 결과가 하나 나왔습니다. 58.6%, 그러니까 10명 중 6명꼴로 반대한다고 답했습니다. 가뜩이나 큰 서울이 더 커지는 데 부정적 인]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2023/11/02/202311021956517867_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 김포시 숙원 사업 '5호선 연장' 서울시 예산으로? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12150536</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.co.kr/news/2023/08/28/202308282005524167_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['소트니코바 재조사 거부' IOC 입장 따져보니..."선수 자필 진술서 보니 위반 없었다" (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12138501</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12138501</guid>
-            <pubDate>Thu, 21 Sep 2023 02:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[국제올림픽위원회(IOC)가 대한체육회의 "소트니코바의 2014소치올림픽 도핑 재조사" 요구에 "그럴 계획이 없다"는 입장을 보내왔습니다.JTBC는 지난 4일, "대한체육회가 IOC에 재조사를 요구하는 공문을 입수했다"고]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202308/07/581a578d-dbb5-479c-a341-bbc55731cbc4.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김포, 서울의 쓰레기장 된다?…가능성 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20231102200643692</link>
+            <guid>https://v.daum.net/v/20231102200643692</guid>
+            <pubDate>Thu, 02 Nov 2023 11:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 김포 등을 서울로 편입하는 것에 대해 찬성하는지 반대하는지 묻는 여론조사 결과가 하나 나왔습니다. 58.6%, 그러니까 10명 중 6명꼴로 반대한다고 답했습니다. 가뜩이나 큰 서울이 더 커지는 데 부정적 인식이 강한 걸로 보입니다. 특히 김포 주민들 사이에선, 김포가 서울의 쓰레기장이 될 수도 있다는 우려도 나오는데 왜 이런 우려가 나왔고, 실제]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김포시 숙원 사업 '5호선 연장' 서울시 예산으로? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20221222204754389</guid>
             <pubDate>Fri, 23 Dec 2022 02:50:56 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 이렇게 노조에 대한 강한 발언이 잇따라 나오고 있는데요. 몇가지를 팩트체크 해보겠습니다. 박민규 기자, 일단 정부와 여당은 노조의 노조비 회계 문제를 문제 삼고 있잖아요? [기자] 네 맞습니다. 여당에서는 민주노총 조합비가 연간 1700억이라면서 이런 말도 나왔는데요. 우선 들어보시죠. [주호영/국민의힘 원내대표 (지난 20일) : 정부로부터, 또]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['반격능력' 공식화한 일본…한반도 선제공격 가능? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20221219203806515</link>
-            <guid>https://v.daum.net/v/20221219203806515</guid>
-            <pubDate>Tue, 20 Dec 2022 02:49:15 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 일본이 지난주에 국가안보전략을 개정하면서 '반격 능력' 보유를 공식 선언했습니다. 관련해서 정제윤 기자와 좀 더 짚어보겠습니다. 정제윤 기자, 일본은 원래 헌법상 공격을 못하게 돼있지 않습니까? [기자] 일본은 2차 대전 패망 후 만든 평화헌법상 공격은 못하고 방어만 할 수 있게 되어있습니다. 그런데, 이번에 적 기지를 공격할 수 있는 능력을 보유]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 05:32:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 11:32:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[규조토 뿌리면 사라진다?…빈대 공포 속 퍼지는 '가짜 정보' (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12151589</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12151589</guid>
+            <pubDate>Mon, 13 Nov 2023 11:32:16 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]빈대에 대한 불안감이 커지면서 소셜미디어를 통해 빈대 퇴치법을 공유하고 대비책을 마련하는 사람들이 많습니다. 그런데 이 중에는 잘못된 정보가 많고 빈대 잡으려다 오히려 건강을 해칠 수 있는 내용도]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2023/11/09/202311092012596438_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 김포, 서울의 쓰레기장 된다?…가능성 따져보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12150722</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 21 Sep 2023 02:33:13 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]김남국 의원에 대한 징계안이 사실상 무산되면서 이번 국회 윤리특위도 지금까지 처리한 징계 건수가 한 건도 없습니다. '식물 윤리특위'라는 비아냥까지 나오는데, 윤리특위를 없애지 않을 거면 구조를 확]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2023/08/30/202308302020458318_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['공산당 입당' 전력 때문? 홍범도 흉상 철거, 과연 타당한가 (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12141712</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12141712</guid>
-            <pubDate>Thu, 21 Sep 2023 02:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]'소련 공산당에 가입했었다'는 걸 이유로 들며 홍범도 장군 흉상을 철거하는 게 과연 타당한 건지, 김민관 기자가 사실관계를 하나씩 따져보겠습니다.[기자]소련 공산당 입당, 남침과 관련? X일단 홍범도 장]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/08/28/202308282005524167_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김포, 서울의 쓰레기장 된다?…가능성 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>

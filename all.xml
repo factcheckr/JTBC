@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 05:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 11:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] "대출서류 못 떼"…'행정망 먹통' 손해배상 가능할까? (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12153012</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12153012</guid>
+            <pubDate>Mon, 20 Nov 2023 11:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이번 사태로 입은 피해를 배상받을 수 있을지 궁금해하는 시민들, 적지 않은데요.실제 소송을 내면 이길 수 있을지, 여도현 기자가 따져봤습니다.[기자]대출금 내고 전입신고를 해야 하는데 못했다.대출을 제]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2023/11/20/202311201957502098_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[규조토 뿌리면 사라진다?…빈대 공포 속 퍼지는 '가짜 정보' (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12151589</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202309/03/639b281d-9066-486d-8c7b-d99e35c87508.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[징계 건수 '한 건도' 없다…국회 윤리특위 있으나마나 (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12142041</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12142041</guid>
-            <pubDate>Thu, 21 Sep 2023 02:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]김남국 의원에 대한 징계안이 사실상 무산되면서 이번 국회 윤리특위도 지금까지 처리한 징계 건수가 한 건도 없습니다. '식물 윤리특위'라는 비아냥까지 나오는데, 윤리특위를 없애지 않을 거면 구조를 확]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/08/30/202308302020458318_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["대출서류 못 떼"…'행정망 먹통' 손해배상 가능할까? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20231120200113647</link>
+            <guid>https://v.daum.net/v/20231120200113647</guid>
+            <pubDate>Mon, 20 Nov 2023 11:32:28 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 이번 사태로 입은 피해를 배상받을 수 있을지 궁금해하는 시민들, 적지 않은데요. 실제 소송을 내면 이길 수 있을지, 여도현 기자가 따져봤습니다. [기자] 대출금 내고 전입신고를 해야 하는데 못했다. 대출을 제 때 받지 못했다. 이번에 행정망이 먹통 된 뒤 온라인에 올라온 글 들 입니다. 이런 피해, 손해배상 청구가 가능할까요? 결론부터 말하면 가능]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김포, 서울의 쓰레기장 된다?…가능성 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20230103204609085</guid>
             <pubDate>Wed, 04 Jan 2023 02:52:58 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 오늘(3일)도 지하철 탑승 시위는 원천 봉쇄됐습니다. '1분도 지체할 수 없다'는 오세훈 서울시장의 말에, 서울교통공사는 법원이 허용한 '5분 탑승' 시위도 막고 있습니다. 어젯밤에는 시위대가 있는 역을 열차가 그대로 통과하기도 했죠. 전국장애인차별철폐연대는 올해 내내 시위를 이어가겠다고 했습니다. 취재기자와 함께 전장연의 주장을 팩트체크 해보겠습]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[노조, 수십억 지원 받고 감사는 안 받는다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20221222204754389</link>
-            <guid>https://v.daum.net/v/20221222204754389</guid>
-            <pubDate>Fri, 23 Dec 2022 02:50:56 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 이렇게 노조에 대한 강한 발언이 잇따라 나오고 있는데요. 몇가지를 팩트체크 해보겠습니다. 박민규 기자, 일단 정부와 여당은 노조의 노조비 회계 문제를 문제 삼고 있잖아요? [기자] 네 맞습니다. 여당에서는 민주노총 조합비가 연간 1700억이라면서 이런 말도 나왔는데요. 우선 들어보시죠. [주호영/국민의힘 원내대표 (지난 20일) : 정부로부터, 또]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 05:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 11:32:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] "민주당 의원 44%가 전과자" 이낙연의 주장은 사실일까?]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12159897</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12159897</guid>
+            <pubDate>Tue, 09 Jan 2024 11:32:49 GMT</pubDate>
+            <content:encoded><![CDATA[이낙연 전 민주당 대표는 울산방송과의 인터뷰에서 이렇게 주장했습니다."민주당 국회의원 44%가 전과자""(전과자 비율이) 다른 당보다 훨씬 높다."과연 사실일까요?  -팩트체크① 21대 국회의원 중 전과자 몇 명?]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2024/01/09/202401091354100126_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 이재명 나무젓가락에 찔렸다? 음모론 대체 누가]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12159090</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 04 Oct 2023 11:33:08 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]한국과 중국의 축구 8강전이 있었던 지난 1일 전후로 카카오가 운영하는 포털사이트 다음에서 중국을 응원하는 클릭이 90%를 넘을 정도로 압도적으로 나타나 논란이 됐었죠. 워낙 이례적이라 조작 의혹이 제]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2023/10/04/202310042007078561_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명절 재테크? 선물 받은 '이것' 무심코 되팔았다가는…]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12146374</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12146374</guid>
-            <pubDate>Tue, 03 Oct 2023 02:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]추석에 받은 선물, 고맙긴 한데 당장 필요하진 않은 건 중고 거래로 팔아 현금 마련하는 경우가 적지 않습니다. 그런데 어떤 제품들은 중고 거래가 불법이라 팔았다간 처벌을 받을 수도 있습니다.유한울 기자]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/10/02/202310022011273972_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

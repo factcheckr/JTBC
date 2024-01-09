@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 02:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 05:32:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,13 @@
             <enclosure url="https://photo.jtbc.co.kr/news/2023/10/02/202310022011273972_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["민주당 의원 44%가 전과자" 이낙연의 주장은 사실일까? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20240109122441312</link>
+            <guid>https://v.daum.net/v/20240109122441312</guid>
+            <pubDate>Tue, 09 Jan 2024 05:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[이낙연 전 민주당 대표는 울산방송과의 인터뷰에서 이렇게 주장했습니다. "민주당 국회의원 44%가 전과자" "(전과자 비율이) 다른 당보다 훨씬 높다." 과연 사실일까요? ━팩트체크① 21대 국회의원 중 전과자 몇 명?━ 지난해 7월 25일, 경제정의실천시민연합 조사해 발표한 내용이 있습니다. 이에 따르면 21대 국회 현역의원 283명(의원]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이재명 나무젓가락에 찔렸다? 음모론 대체 누가 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
             <link>https://v.daum.net/v/20240103194443831</link>
             <guid>https://v.daum.net/v/20240103194443831</guid>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20230206202805186</guid>
             <pubDate>Tue, 07 Feb 2023 02:52:29 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] "기상 관측용 풍선이 실수로 미국까지 날아간거다" 이게 지금 중국의 입장인건데요, 하나하나 다시 따져보겠습니다. 윤샘이나 기자가 나와 있습니다. 이 풍선이, 중국 정부 말대로 정말로 기상관측용일 가능성이 있습니까? [기자] 지금 보시는 이 물체, 최근 며칠간 전 세계가 숨죽이고 지켜본 풍선입니다. 외형과 제원만 보면 기상 관측용과는 일단 거리가 좀]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[보일러 '외출 버튼' 누를까 말까? '난방비 아끼는 법' (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20230126200505247</link>
-            <guid>https://v.daum.net/v/20230126200505247</guid>
-            <pubDate>Thu, 26 Jan 2023 11:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 날은 춥고, 난방비 부담은 커지면서 여기저기에서 난방비 줄이는 방법들이 나오는데요. 뭐가 맞는 건지, 저희가 팩트체크 해드리겠습니다. 경제산업부 김도훈 기자 나와있습니다. 가장 논란인 게 밖에 나갈 때 보일러 외출버튼을 트느냐 마느냐, 이거 어떻게 해야합니까? [기자] 네, 저희가 정부연구원과 관련 협회 등의 전문가 의견을 들어봤는데요. 결론부터]]></content:encoded>
         </item>
     </channel>
 </rss>

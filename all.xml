@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 02:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 05:33:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] "디올백은 국고...돌려주면 횡령"? 따져보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12162077</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12162077</guid>
+            <pubDate>Tue, 23 Jan 2024 05:33:10 GMT</pubDate>
+            <content:encoded><![CDATA[〈사진=연합뉴스〉친윤계 핵심으로 꼽히는 이철규 의원이 어제(22일) 이런 주장을 펼쳤습니다."국고에 귀속된 물건을 반환하는 것은 국고 횡령이에요."김건희 여사가 받은 디올백이 '나라 재산'이고, 그래서 돌려주]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202401/23/12729604-ab99-4b1f-a853-6cb545b95b7c.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] "민주당 의원 44%가 전과자" 이낙연의 주장은 사실일까? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12159897</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.co.kr/news/2023/10/18/202310182033457539_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 포털 장악한 '중국 응원'…해외 IP 단 두 개로 조작? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12146654</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12146654</guid>
-            <pubDate>Wed, 04 Oct 2023 11:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]한국과 중국의 축구 8강전이 있었던 지난 1일 전후로 카카오가 운영하는 포털사이트 다음에서 중국을 응원하는 클릭이 90%를 넘을 정도로 압도적으로 나타나 논란이 됐었죠. 워낙 이례적이라 조작 의혹이 제]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/10/04/202310042007078561_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["디올백은 국고...돌려주면 횡령"? 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20240123120442830</link>
+            <guid>https://v.daum.net/v/20240123120442830</guid>
+            <pubDate>Tue, 23 Jan 2024 05:33:15 GMT</pubDate>
+            <content:encoded><![CDATA[친윤계 핵심으로 꼽히는 이철규 의원이 어제(22일) 이런 주장을 펼쳤습니다. "국고에 귀속된 물건을 반환하는 것은 국고 횡령이에요." 김건희 여사가 받은 디올백이 '나라 재산'이고, 그래서 돌려주면 오히려 '횡령'이 된다는 논리입니다. 과연 그럴까요? ━팩트체크① 영부인 선물, 법에는 어떻게 규정?━ 대통령(영부인 포함)의 선물을 국고로 귀속시]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["민주당 의원 44%가 전과자" 이낙연의 주장은 사실일까? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20230616201508133</guid>
             <pubDate>Fri, 16 Jun 2023 11:33:20 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 이 문제 관련해서 몇 가지 팩트체크를 해보겠습니다. 조보경 기자 나와 있습니다. 우선, 천일염이 바닷물로 만들어지니, 오염수가 방류되면 천일염도 방사능에 오염될 거 아니냐, 이런 걱정인데, 정말 그렇게 되나요? [기자] 위험성이 크지 않다는 의견이 많습니다. 전문가들은 일본 주장처럼 오염수를 알프스(ALPS)라는 장치를 통해 철저히 정화한다면 세슘]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중국, 증거는 못 대면서 기상관측용 풍선? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20230206202805186</link>
-            <guid>https://v.daum.net/v/20230206202805186</guid>
-            <pubDate>Tue, 07 Feb 2023 02:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] "기상 관측용 풍선이 실수로 미국까지 날아간거다" 이게 지금 중국의 입장인건데요, 하나하나 다시 따져보겠습니다. 윤샘이나 기자가 나와 있습니다. 이 풍선이, 중국 정부 말대로 정말로 기상관측용일 가능성이 있습니까? [기자] 지금 보시는 이 물체, 최근 며칠간 전 세계가 숨죽이고 지켜본 풍선입니다. 외형과 제원만 보면 기상 관측용과는 일단 거리가 좀]]></content:encoded>
         </item>
     </channel>
 </rss>

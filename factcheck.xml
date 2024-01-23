@@ -4,16 +4,24 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 05:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 11:32:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] '명품백' 돌려주면 국고 횡령?…이철규 주장 따져보니]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12162180</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12162180</guid>
+            <pubDate>Tue, 23 Jan 2024 11:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]친윤 핵심으로 불리는 국민의힘 이철규 의원은 어제(22일) 김건희 여사가 '몰카 공작의 피해자'이고 또 명품 가방은 국고로 귀속됐기 때문에 돌려주면 횡령이라는 논리를 폈는데요.이 주장 맞는지 배양진 기]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2024/01/23/202401231959536143_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] "디올백은 국고...돌려주면 횡령"? 따져보니]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12162077</link>
             <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12162077</guid>
             <pubDate>Tue, 23 Jan 2024 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[〈사진=연합뉴스〉친윤계 핵심으로 꼽히는 이철규 의원이 어제(22일) 이런 주장을 펼쳤습니다."국고에 귀속된 물건을 반환하는 것은 국고 횡령이에요."김건희 여사가 받은 디올백이 '나라 재산'이고, 그래서 돌려주]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202401/23/12729604-ab99-4b1f-a853-6cb545b95b7c.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[친윤계 핵심으로 꼽히는 이철규 의원이 어제(22일) 이런 주장을 펼쳤습니다. "국고에 귀속된 물건을 반환하는 것은 국고 횡령이에요." 김건희 여사가 받은 디올백이 '나라 재산'이고, 그래서 돌려주면 오히려 '횡령']]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2024/01/23/202401231528290918_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] "민주당 의원 44%가 전과자" 이낙연의 주장은 사실일까?]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 24 Oct 2023 02:34:15 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]정부가 의사 수를 늘리겠다고 발표한 뒤 처음으로 오는 목요일 의사단체와 머리를 맞댑니다. 그런데 벌써부터 난항이 예상됩니다. 의협은 의사를 얼마나 늘릴지 여러 구성원들과 논의하지 말고 우리와만 논의]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2023/10/23/202310232030220932_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 의대 정원 18년째 '3058명'…적정한 수치인가?]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12148633</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12148633</guid>
-            <pubDate>Thu, 19 Oct 2023 02:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]외과, 소아과 같은 곳엔 의사가 부족하고 지방도 의사가 없습니다. 그런데 의대 정원은 18년째 3058명, 그대로입니다. 왜 3058명인 건지, 이게 과연 적정한 숫자인지, 팩트체크로 따져보겠습니다.유한울 기자]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/10/18/202310182033457539_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

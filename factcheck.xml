@@ -4,7 +4,7 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 05:32:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 11:32:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,8 +36,8 @@
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12159090</link>
             <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12159090</guid>
             <pubDate>Fri, 05 Jan 2024 11:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[이재명 대표의 피습 소식 뒤, 온라인상에서 황당한 주장들이 퍼졌습니다.습격범이 '칼'이 아닌 '나무젓가락'으로 이 대표를 찔렀다는 것이 대표적입니다.사건을 수사 중인 경찰과 피습 직후 이 대표의 치료를 맡았]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2024/01/03/202401031942210648_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[이재명 대표의 피습 소식 뒤, 온라인상에서 황당한 주장들이 퍼졌습니다. 습격범이 '칼'이 아닌 '나무젓가락'으로 이 대표를 찔렀다는 것이 대표적입니다. 사건을 수사 중인 경찰과 피습 직후 이 대표의 치료를 맡았]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2024/01/31/202401311826110730_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 김건희 특검법은 악법? 한동훈이 빠뜨린 3가지]]></title>

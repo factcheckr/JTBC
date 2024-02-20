@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 05:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 11:32:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] "의사 수 많고 의료접근성 높다?"…의협 주장 따져보니]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12166227</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12166227</guid>
+            <pubDate>Tue, 20 Feb 2024 11:32:34 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]전공의들이 집단으로 병원을 떠나면서 수술이 줄줄이 취소되고 환자들의 불안이 극에 달한 오늘(20일)도 의사단체는 의사를 더 늘릴 필요가 없다고 목소리를 높였습니다.우리나라에 의사 많고, 의료 접근성도]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2024/02/20/202402202015188743.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] '명품백' 돌려주면 국고 횡령?…이철규 주장 따져보니]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12162180</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 01 Nov 2023 11:33:32 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]보신 것처럼, '서울에도 낙후된 곳 많은데 김포가 들어오면 우리 몫만 줄어드는 것 아니냐'는 목소리도 있습니다. 특히, 김포시의 숙원 사업인 지하철 5호선 연장 비용을 서울 시민이 부담해야 한다는 말도]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2023/11/01/202311011959112335_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 의협이 내세우는 '9·4 의정합의' 법적 구속력 있다? 없다?]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12149243</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12149243</guid>
-            <pubDate>Tue, 24 Oct 2023 02:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]정부가 의사 수를 늘리겠다고 발표한 뒤 처음으로 오는 목요일 의사단체와 머리를 맞댑니다. 그런데 벌써부터 난항이 예상됩니다. 의협은 의사를 얼마나 늘릴지 여러 구성원들과 논의하지 말고 우리와만 논의]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/10/23/202310232030220932_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

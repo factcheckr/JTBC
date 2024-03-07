@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 11:32:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 02:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 민족 정기 끊으려고? 영화 '파묘' 속 쇠말뚝, 어디까지 진짜일까]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12168508</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12168508</guid>
+            <pubDate>Thu, 07 Mar 2024 02:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]흥행몰이 중인 영화 '파묘'에는 '쇠말뚝'이 주요 소재로 등장합니다. 한동안 일제가 민족 정기를 끊기 위해 곳곳에 쇠말뚝을 박았다는 주장이 있었는데, 어디까지가 사실인지 따져봤습니다. 학계에서는 근거]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2024/03/07/202403070011436924_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] "의사 수 많고 의료접근성 높다?"…의협 주장 따져보니]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12166227</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Nov 2023 11:32:54 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]김포 등을 서울로 편입하는 것에 대해 찬성하는지 반대하는지 묻는 여론조사 결과가 하나 나왔습니다. 58.6%, 그러니까 10명 중 6명꼴로 반대한다고 답했습니다. 가뜩이나 큰 서울이 더 커지는 데 부정적 인]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2023/11/02/202311021956517867_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 김포시 숙원 사업 '5호선 연장' 서울시 예산으로?]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12150536</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12150536</guid>
-            <pubDate>Wed, 01 Nov 2023 11:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]보신 것처럼, '서울에도 낙후된 곳 많은데 김포가 들어오면 우리 몫만 줄어드는 것 아니냐'는 목소리도 있습니다. 특히, 김포시의 숙원 사업인 지하철 5호선 연장 비용을 서울 시민이 부담해야 한다는 말도]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/11/01/202311011959112335_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

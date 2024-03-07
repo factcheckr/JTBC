@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 11:32:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 02:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 민족 정기 끊으려고? 영화 '파묘' 속 쇠말뚝, 어디까지 진짜일까 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12168508</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12168508</guid>
+            <pubDate>Thu, 07 Mar 2024 02:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]흥행몰이 중인 영화 '파묘'에는 '쇠말뚝'이 주요 소재로 등장합니다. 한동안 일제가 민족 정기를 끊기 위해 곳곳에 쇠말뚝을 박았다는 주장이 있었는데, 어디까지가 사실인지 따져봤습니다. 학계에서는 근거]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2024/03/07/202403070011436924_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] "의사 수 많고 의료접근성 높다?"…의협 주장 따져보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12166227</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.co.kr/news/2023/11/02/202311021956517867_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 김포시 숙원 사업 '5호선 연장' 서울시 예산으로? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12150536</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12150536</guid>
-            <pubDate>Wed, 01 Nov 2023 11:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]보신 것처럼, '서울에도 낙후된 곳 많은데 김포가 들어오면 우리 몫만 줄어드는 것 아니냐'는 목소리도 있습니다. 특히, 김포시의 숙원 사업인 지하철 5호선 연장 비용을 서울 시민이 부담해야 한다는 말도]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/11/01/202311011959112335_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[민족 정기 끊으려고? 영화 '파묘' 속 쇠말뚝, 어디까지 진짜일까 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20240306204312017</link>
+            <guid>https://v.daum.net/v/20240306204312017</guid>
+            <pubDate>Thu, 07 Mar 2024 02:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 흥행몰이 중인 영화 '파묘'에는 '쇠말뚝'이 주요 소재로 등장합니다. 한동안 일제가 민족 정기를 끊기 위해 곳곳에 쇠말뚝을 박았다는 주장이 있었는데, 어디까지가 사실인지 따져봤습니다. 학계에서는 근거가 없는 얘기라는 게 중론입니다. 조소희 기자가 팩트체크했습니다. [기자] [영화 '파묘' : 내가 한 40년 땅 파먹고 살았지만 여긴 도저히 모르겠다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["의사 수 많고 의료접근성 높다?"…의협 주장 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20231023204713617</guid>
             <pubDate>Tue, 24 Oct 2023 02:34:22 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 정부가 의사 수를 늘리겠다고 발표한 뒤 처음으로 오는 목요일 의사단체와 머리를 맞댑니다. 그런데 벌써부터 난항이 예상됩니다. 의협은 의사를 얼마나 늘릴지 여러 구성원들과 논의하지 말고 우리와만 논의해야 한다고 주장하고 있습니다. 이예원 기자와 팩트체크 해보겠습니다. 이 기자, 의협이 어떤 근거로 이런 주장을 하는 건지부터 따져보죠. [기자] 의협은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[의대 정원 18년째 '3058명'…적정한 수치인가? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20231018203513734</link>
-            <guid>https://v.daum.net/v/20231018203513734</guid>
-            <pubDate>Thu, 19 Oct 2023 02:33:47 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 외과, 소아과 같은 곳엔 의사가 부족하고 지방도 의사가 없습니다. 그런데 의대 정원은 18년째 3058명, 그대로입니다. 왜 3058명인 건지, 이게 과연 적정한 숫자인지, 팩트체크로 따져보겠습니다. 유한울 기자가 나와 있습니다. 3058명, 이게 언제 어떻게 만들어진 숫자인가요? [기자] 먼저 2000년으로 거슬러 올라가 보면요. 이때는 그보다]]></content:encoded>
         </item>
     </channel>
 </rss>

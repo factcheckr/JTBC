@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 05:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 11:32:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,13 @@
             <enclosure url="https://photo.jtbc.co.kr/news/2023/11/09/202311092012596438_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[G7 초청 무산에…"유럽 의장국 주로 아프리카 초청" (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20240422192513014</link>
+            <guid>https://v.daum.net/v/20240422192513014</guid>
+            <pubDate>Mon, 22 Apr 2024 11:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 윤석열 대통령이 오는 6월 이탈리아 G7 정상회의에 초청받지 못하자 정치권에서 '외교 실패'란 지적이 나오며 공방이 벌어졌습니다. 이걸 놓고 대통령실은 "유럽이 의장국일 때는 아프리카 국가들 위주로 초청해왔다"고 설명했는데, 따져보니 반은 맞고 반은 틀린 주장이었습니다. 윤샘이나 기자가 팩트체크했습니다. [기자] 해마다 열리는 G7 정상회의에는 7]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[선관위 직원이 '새벽에 은밀히' 투표지 투입? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
             <link>https://v.daum.net/v/20240408192142858</link>
             <guid>https://v.daum.net/v/20240408192142858</guid>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20231102200643692</guid>
             <pubDate>Sun, 07 Apr 2024 11:32:37 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 김포 등을 서울로 편입하는 것에 대해 찬성하는지 반대하는지 묻는 여론조사 결과가 하나 나왔습니다. 58.6%, 그러니까 10명 중 6명꼴로 반대한다고 답했습니다. 가뜩이나 큰 서울이 더 커지는 데 부정적 인식이 강한 걸로 보입니다. 특히 김포 주민들 사이에선, 김포가 서울의 쓰레기장이 될 수도 있다는 우려도 나오는데 왜 이런 우려가 나왔고, 실제]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김포시 숙원 사업 '5호선 연장' 서울시 예산으로? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20231101200313802</link>
-            <guid>https://v.daum.net/v/20231101200313802</guid>
-            <pubDate>Sun, 07 Apr 2024 11:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 보신 것처럼, '서울에도 낙후된 곳 많은데 김포가 들어오면 우리 몫만 줄어드는 것 아니냐'는 목소리도 있습니다. 특히, 김포시의 숙원 사업인 지하철 5호선 연장 비용을 서울 시민이 부담해야 한다는 말도 나오는데, 사실인지 이은진 기자와 팩트체크해보겠습니다. 이 기자, 김포가 서울에 편입되기 전에 지하철 공사를 시작하더라도, 서울시민이 돈을 내야 한]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 05:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 11:32:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 민주유공자법, 운동권 '셀프 특혜' 주는 법이다?]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12193501</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12193501</guid>
+            <pubDate>Thu, 25 Apr 2024 11:32:07 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]'민주유공자법'을 민주당이 단독으로 본회의로 올린 걸 두고 여당에서 거센 반대가 이어지고 있습니다.'운동권 인사들이 '셀프 특혜'를 주려는 법이다', '가짜 유공자를 양산하는 법'이라며 반대하고 있는 건]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2024/04/25/202404251930349961_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 선관위 직원이 '새벽에 은밀히' 투표지 투입?]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12173596</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 07 Apr 2024 11:32:32 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]이번 사태로 입은 피해를 배상받을 수 있을지 궁금해하는 시민들, 적지 않은데요.실제 소송을 내면 이길 수 있을지, 여도현 기자가 따져봤습니다.[기자]대출금 내고 전입신고를 해야 하는데 못했다.대출을 제]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2023/11/20/202311201957502098_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[규조토 뿌리면 사라진다?…빈대 공포 속 퍼지는 '가짜 정보']]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12151589</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12151589</guid>
-            <pubDate>Sun, 07 Apr 2024 11:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]빈대에 대한 불안감이 커지면서 소셜미디어를 통해 빈대 퇴치법을 공유하고 대비책을 마련하는 사람들이 많습니다. 그런데 이 중에는 잘못된 정보가 많고 빈대 잡으려다 오히려 건강을 해칠 수 있는 내용도]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/11/09/202311092012596438_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

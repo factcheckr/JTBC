@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 05:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 11:32:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 수사 도중 특검도입 전례 없다?…법무부 주장 따져보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12197247</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12197247</guid>
+            <pubDate>Tue, 21 May 2024 11:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이렇게 윤석열 대통령이 거부권을 쓰자 법무부는 '채 상병 특검법'이 '위헌적'이라고 자세한 설명자료를 냈습니다.특검 임명을 민주당이 독점하고 수사 중인 사안에 특검을 한 전례도 없다는 건데, 사실인지]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2024/05/21/202405211851308142_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 민주유공자법, 운동권 '셀프 특혜' 주는 법이다? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12193501</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.co.kr/news/2023/12/21/202312211611270869_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] "대출서류 못 떼"…'행정망 먹통' 손해배상 가능할까? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12153012</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12153012</guid>
-            <pubDate>Sun, 07 Apr 2024 11:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이번 사태로 입은 피해를 배상받을 수 있을지 궁금해하는 시민들, 적지 않은데요.실제 소송을 내면 이길 수 있을지, 여도현 기자가 따져봤습니다.[기자]대출금 내고 전입신고를 해야 하는데 못했다.대출을 제]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/11/20/202311201957502098_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[수사 도중 특검도입 전례 없다?…법무부 주장 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20240521185542371</link>
+            <guid>https://v.daum.net/v/20240521185542371</guid>
+            <pubDate>Tue, 21 May 2024 11:32:40 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 이렇게 윤석열 대통령이 거부권을 쓰자 법무부는 '채 상병 특검법'이 '위헌적'이라고 자세한 설명자료를 냈습니다. 특검 임명을 민주당이 독점하고 수사 중인 사안에 특검을 한 전례도 없다는 건데, 사실인지 박병현 기자가 따져봤습니다. [기자] 법무부는 우선 특검 추천권이 민주당에 있다는 게 위헌적이라고 가장 큰 이유로 들었습니다. 대통령의 특검 임명권]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[민주유공자법, 운동권 '셀프 특혜' 주는 법이다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20231221155643752</guid>
             <pubDate>Sun, 07 Apr 2024 11:32:37 GMT</pubDate>
             <content:encoded><![CDATA[━━━━━━━━━ "그 법안들은 정의당이 특검 추천하고 결정하게 돼 있죠? 그리고 수사상황을 생중계하게 돼 있는 독소조항까지 들어있죠. 무엇보다 다음 총선에서 민주당이 원하는 선전선동을 하기 좋게 시점을 특정해서 만들어진 악법입니다." (한동훈 법무부장관, 지난 19일) ━━━━━━━━━ 한동훈 법무부장관이 지난 19일 국회에서 기자들의 질문에 내놓은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["대출서류 못 떼"…'행정망 먹통' 손해배상 가능할까? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20231120200113647</link>
-            <guid>https://v.daum.net/v/20231120200113647</guid>
-            <pubDate>Sun, 07 Apr 2024 11:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 이번 사태로 입은 피해를 배상받을 수 있을지 궁금해하는 시민들, 적지 않은데요. 실제 소송을 내면 이길 수 있을지, 여도현 기자가 따져봤습니다. [기자] 대출금 내고 전입신고를 해야 하는데 못했다. 대출을 제 때 받지 못했다. 이번에 행정망이 먹통 된 뒤 온라인에 올라온 글 들 입니다. 이런 피해, 손해배상 청구가 가능할까요? 결론부터 말하면 가능]]></content:encoded>
         </item>
     </channel>
 </rss>

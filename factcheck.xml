@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 05:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 11:32:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 수사 도중 특검도입 전례 없다?…법무부 주장 따져보니]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12197247</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12197247</guid>
+            <pubDate>Tue, 21 May 2024 11:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이렇게 윤석열 대통령이 거부권을 쓰자 법무부는 '채 상병 특검법'이 '위헌적'이라고 자세한 설명자료를 냈습니다.특검 임명을 민주당이 독점하고 수사 중인 사안에 특검을 한 전례도 없다는 건데, 사실인지]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2024/05/21/202405211851308142_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 민주유공자법, 운동권 '셀프 특혜' 주는 법이다?]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12193501</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 07 Apr 2024 11:32:32 GMT</pubDate>
             <content:encoded><![CDATA["그 법안들은 정의당이 특검 추천하고 결정하게 돼 있죠?그리고 수사상황을 생중계하게 돼 있는 독소조항까지 들어있죠.무엇보다 다음 총선에서 민주당이 원하는 선전선동을 하기 좋게시점을 특정해서 만들어진 악]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2023/12/21/202312211611270869_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] "대출서류 못 떼"…'행정망 먹통' 손해배상 가능할까?]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12153012</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12153012</guid>
-            <pubDate>Sun, 07 Apr 2024 11:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이번 사태로 입은 피해를 배상받을 수 있을지 궁금해하는 시민들, 적지 않은데요.실제 소송을 내면 이길 수 있을지, 여도현 기자가 따져봤습니다.[기자]대출금 내고 전입신고를 해야 하는데 못했다.대출을 제]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/11/20/202311201957502098_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

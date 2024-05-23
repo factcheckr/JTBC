@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 05:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 11:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 25 Apr 2024 11:32:07 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]'민주유공자법'을 민주당이 단독으로 본회의로 올린 걸 두고 여당에서 거센 반대가 이어지고 있습니다.'운동권 인사들이 '셀프 특혜'를 주려는 법이다', '가짜 유공자를 양산하는 법'이라며 반대하고 있는 건]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2024/04/25/202404251930349961_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] G7 초청 무산에…"유럽 의장국 주로 아프리카 초청" (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12192930</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12192930</guid>
+            <pubDate>Thu, 23 May 2024 11:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]윤석열 대통령이 오는 6월 이탈리아 G7 정상회의에 초청받지 못하자 정치권에서 '외교 실패'란 지적이 나오며 공방이 벌어졌습니다. 이걸 놓고 대통령실은 "유럽이 의장국일 때는 아프리카 국가들 위주로 초]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2024/04/22/202404221924475070_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 선관위 직원이 '새벽에 은밀히' 투표지 투입? (JTBC 뉴스 ─ 팩트체크)]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 07 Apr 2024 11:32:32 GMT</pubDate>
             <content:encoded><![CDATA[이재명 대표의 피습 소식 뒤, 온라인상에서 황당한 주장들이 퍼졌습니다. 습격범이 '칼'이 아닌 '나무젓가락'으로 이 대표를 찔렀다는 것이 대표적입니다. 사건을 수사 중인 경찰과 피습 직후 이 대표의 치료를 맡았]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2024/01/31/202401311826110730_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 김건희 특검법은 악법? 한동훈이 빠뜨린 3가지 (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12157292</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12157292</guid>
-            <pubDate>Sun, 07 Apr 2024 11:32:32 GMT</pubDate>
-            <content:encoded><![CDATA["그 법안들은 정의당이 특검 추천하고 결정하게 돼 있죠?그리고 수사상황을 생중계하게 돼 있는 독소조항까지 들어있죠.무엇보다 다음 총선에서 민주당이 원하는 선전선동을 하기 좋게시점을 특정해서 만들어진 악]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2023/12/21/202312211611270869_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수사 도중 특검도입 전례 없다?…법무부 주장 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>

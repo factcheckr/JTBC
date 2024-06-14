@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 05:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 11:32:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 내년부터 카데바 확보 어렵다? (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12200847</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12200847</guid>
+            <pubDate>Fri, 14 Jun 2024 11:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[“시설, 인력, 재정에 대한 투자 없이 의대 정원만 늘어나면, 의대 교육의 붕괴는 물론 그에 따른 부작용은 과거 의대 폐교 사태를 떠올릴 수밖에 없다. (...) 카데바 확보는 가능한가? 나아가 의료시스템을 살리겠]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202406/14/a9eac7ef-f6ea-4999-b657-b1fd7194aefd.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 오바마, 트럼프 대통령도 매장 가능성 직접 발표했다...? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12199951</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 07 Apr 2024 11:32:32 GMT</pubDate>
             <content:encoded><![CDATA[친윤계 핵심으로 꼽히는 이철규 의원이 어제(22일) 이런 주장을 펼쳤습니다. "국고에 귀속된 물건을 반환하는 것은 국고 횡령이에요." 김건희 여사가 받은 디올백이 '나라 재산'이고, 그래서 돌려주면 오히려 '횡령']]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2024/01/23/202401231528290918_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] "민주당 의원 44%가 전과자" 이낙연의 주장은 사실일까? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12159897</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12159897</guid>
-            <pubDate>Sun, 07 Apr 2024 11:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[이낙연 전 민주당 대표는 울산방송과의 인터뷰에서 이렇게 주장했습니다."민주당 국회의원 44%가 전과자""(전과자 비율이) 다른 당보다 훨씬 높다."과연 사실일까요?  -팩트체크① 21대 국회의원 중 전과자 몇 명?]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2024/01/09/202401091354100126_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내년부터 카데바 확보 어렵다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>

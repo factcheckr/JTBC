@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 11:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 02:43:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 제주도가 중국 섬으로 변하고 있다? (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202589</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202589</guid>
+            <pubDate>Wed, 26 Jun 2024 02:43:40 GMT</pubDate>
+            <content:encoded><![CDATA[지난 19일 대만 자유시보 보도 〈사진 대만 자유시보 캡처〉최근 '제주도가 중국 섬으로 변하고 있다'는 기사가 화제였습니다.대만 매체가 '섬뜩한 경고'를 했다는 내용에 여론의 관심이 집중됐습니다.“제주도]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202406/25/8772a3ec-9fba-4dcb-bbe8-5e8dd03a29e3.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 상속세 OECD 2위...전면 개편해야 한다? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202017</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 07 Apr 2024 11:32:32 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]전공의들이 집단으로 병원을 떠나면서 수술이 줄줄이 취소되고 환자들의 불안이 극에 달한 오늘(20일)도 의사단체는 의사를 더 늘릴 필요가 없다고 목소리를 높였습니다.우리나라에 의사 많고, 의료 접근성도]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2024/02/20/202402202115523010_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] '명품백' 돌려주면 국고 횡령?…이철규 주장 따져보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12162180</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12162180</guid>
-            <pubDate>Sun, 07 Apr 2024 11:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]친윤 핵심으로 불리는 국민의힘 이철규 의원은 어제(22일) 김건희 여사가 '몰카 공작의 피해자'이고 또 명품 가방은 국고로 귀속됐기 때문에 돌려주면 횡령이라는 논리를 폈는데요.이 주장 맞는지 배양진 기]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2024/01/23/202401231959536143_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제주도가 중국 섬으로 변하고 있다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>

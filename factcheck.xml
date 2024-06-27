@@ -4,7 +4,7 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 05:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 11:33:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,8 +20,8 @@
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202017</link>
             <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202017</guid>
             <pubDate>Fri, 21 Jun 2024 05:34:07 GMT</pubDate>
-            <content:encoded><![CDATA[지난 9일 KBS 일요진단에 출연한 성태윤 대통령 정책실장[사진 KBS 홈페이지 캡처] “전면적인 개편이 필요한 시기가 왔다고 생각을 하고 있습니다” (지난 16일, KBS 일요진단) 정부가 상속 세제 완화에 속도를 내]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202406/21/7dcf0363-0d6e-40ce-9278-2d8bd0664dda.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[지난 16일 KBS 일요진단에 출연한 성태윤 대통령 정책실장[사진 KBS 홈페이지 캡처] “전면적인 개편이 필요한 시기가 왔다고 생각을 하고 있습니다” (지난 16일, KBS 일요진단) 정부가 상속 세제 완화에 속도를 내]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202406/27/7dcf0363-0d6e-40ce-9278-2d8bd0664dda.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 내년부터 카데바 확보 어렵다?]]></title>

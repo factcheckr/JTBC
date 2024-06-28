@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 11:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 02:45:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 상속세, 재산세 징수 잘되니 이중과세? (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202971</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202971</guid>
+            <pubDate>Fri, 28 Jun 2024 02:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[지난 16일 KBS 일요진단에 출연한 성태윤 대통령 정책실장(오른쪽) 〈사진 KBS 홈페이지 캡처〉“상속세는 과거 세금 징수 어려운 때 사망 시점에 세금 걷는 것으로 지금은 재산세와 소득세 등을 내고 있는데]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202406/28/e25421ec-0767-47ba-9e8c-eb16c2e7db68.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 제주도가 중국 섬으로 변하고 있다? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202589</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.co.kr/news/2024/03/07/202403070011436924_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] "의사 수 많고 의료접근성 높다?"…의협 주장 따져보니 (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12166227</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12166227</guid>
-            <pubDate>Sun, 07 Apr 2024 11:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]전공의들이 집단으로 병원을 떠나면서 수술이 줄줄이 취소되고 환자들의 불안이 극에 달한 오늘(20일)도 의사단체는 의사를 더 늘릴 필요가 없다고 목소리를 높였습니다.우리나라에 의사 많고, 의료 접근성도]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2024/02/20/202402202115523010_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[상속세, 재산세 징수 잘되니 이중과세? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20240628060040609</link>
+            <guid>https://v.daum.net/v/20240628060040609</guid>
+            <pubDate>Fri, 28 Jun 2024 02:45:26 GMT</pubDate>
+            <content:encoded><![CDATA[━━━━━━━━━ “상속세는 과거 세금 징수 어려운 때 사망 시점에 세금 걷는 것으로 지금은 재산세와 소득세 등을 내고 있는데 이중과세 문제가 있어" (성태윤 대통령실 정책실장, 2024년 6월 16일 일요진단) 기획재정부가 다음 달 말까지 상속세 최고 세율 50%를 30%로 인하하는 것을 포함한 세법 개정안을 긍정적으로 검토하고 있는 가운데, JTB]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제주도가 중국 섬으로 변하고 있다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20240131182811949</guid>
             <pubDate>Sun, 07 Apr 2024 11:32:37 GMT</pubDate>
             <content:encoded><![CDATA[JTBC는 지난 2024년1월 3일 인터넷 정치면에 이재명 대표가 나무젓가락에 찔렸다는 허위주장이 확산되고 있다며 자유일보 기사를 언급하였고, 자유일보 발행인이 전광훈 목사의 딸이라고 보도했습니다. 이에 대해 자유일보는 "온라인상에 제기되고 있는 의혹과 경찰의 공식 발표 내용을 함께 보도했으며, 전광훈 목사는 자유일보의 해당 기사와 관련이 없다"고 알려왔습]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['명품백' 돌려주면 국고 횡령?…이철규 주장 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20240123200523397</link>
-            <guid>https://v.daum.net/v/20240123200523397</guid>
-            <pubDate>Sun, 07 Apr 2024 11:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 친윤 핵심으로 불리는 국민의힘 이철규 의원은 어제(22일) 김건희 여사가 '몰카 공작의 피해자'이고 또 명품 가방은 국고로 귀속됐기 때문에 돌려주면 횡령이라는 논리를 폈는데요. 이 주장 맞는지 배양진 기자가 팩트체크했습니다. [기자] [이철규/국민의힘 의원 : 국고에 귀속된 물건을 반환하는 건 국고 횡령이에요.] 먼저 국고로 귀속되려면 대통령 기록]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 11:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 02:45:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 상속세, 재산세 징수 잘되니 이중과세?]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202971</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202971</guid>
+            <pubDate>Fri, 28 Jun 2024 02:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[지난 16일 KBS 일요진단에 출연한 성태윤 대통령 정책실장(오른쪽) 〈사진 KBS 홈페이지 캡처〉“상속세는 과거 세금 징수 어려운 때 사망 시점에 세금 걷는 것으로 지금은 재산세와 소득세 등을 내고 있는데]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202406/28/e25421ec-0767-47ba-9e8c-eb16c2e7db68.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 제주도가 중국 섬으로 변하고 있다?]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202589</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 07 Apr 2024 11:32:32 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]흥행몰이 중인 영화 '파묘'에는 '쇠말뚝'이 주요 소재로 등장합니다. 한동안 일제가 민족 정기를 끊기 위해 곳곳에 쇠말뚝을 박았다는 주장이 있었는데, 어디까지가 사실인지 따져봤습니다. 학계에서는 근거]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/2024/03/07/202403070011436924_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] "의사 수 많고 의료접근성 높다?"…의협 주장 따져보니]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12166227</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12166227</guid>
-            <pubDate>Sun, 07 Apr 2024 11:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]전공의들이 집단으로 병원을 떠나면서 수술이 줄줄이 취소되고 환자들의 불안이 극에 달한 오늘(20일)도 의사단체는 의사를 더 늘릴 필요가 없다고 목소리를 높였습니다.우리나라에 의사 많고, 의료 접근성도]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2024/02/20/202402202115523010_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

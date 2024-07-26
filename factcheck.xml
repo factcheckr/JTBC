@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 11:32:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 02:46:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 우리나라가 동남아성 기후로 바뀌었다?]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12207430</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12207430</guid>
+            <pubDate>Fri, 26 Jul 2024 02:46:45 GMT</pubDate>
+            <content:encoded><![CDATA[서울 전역에 호우경보가 발효된 7월 17일 서울 중구 세종대로 사거리에서 우산을 쓴 시민들이 발걸음을 재촉하고 있다. 〈사진=연합뉴스〉 올해도 내렸습니다. 그런데 지난해와 또 달랐습니다. 이제 비는 위협이 되]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202407/26/a658f07d-79ff-47ae-9e31-b86e2d85a1ec.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 골프치면 1만5천보, 쿠팡 직원 2만보 견딜만 하다?]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12206158</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 09 Jun 2024 11:32:43 GMT</pubDate>
             <content:encoded><![CDATA[“답변을 드리자면 그렇게 이례적인 일은 아닙니다. 사실 정부가 특정 지역에서 석유나 가스가 매장되어 있을 잠재력을 발견을 하게 되면 정부가 발표하게 되는 경우가 많습니다. 가끔 어떤 공기업이 발표를 하는 경]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202407/24/a59fdeb7-75a4-42ea-84b6-6dfb210d1d7c.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 수사 도중 특검도입 전례 없다?…법무부 주장 따져보니]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12197247</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12197247</guid>
-            <pubDate>Tue, 21 May 2024 11:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]이렇게 윤석열 대통령이 거부권을 쓰자 법무부는 '채 상병 특검법'이 '위헌적'이라고 자세한 설명자료를 냈습니다.특검 임명을 민주당이 독점하고 수사 중인 사안에 특검을 한 전례도 없다는 건데, 사실인지]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2024/05/21/202405211851308142_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

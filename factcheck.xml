@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Aug 2024 05:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 11:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 일제 강점기 우리 국민은 일본 국적인가?]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12210553</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12210553</guid>
+            <pubDate>Thu, 15 Aug 2024 11:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[광복회 서울ㆍ경기지부 회원들이 13일 용산 대통령실 인근에서 김형석 독립기념관장 사퇴 촉구 집회를 하고 있다. 〈사진 출처:연합뉴스〉지난 6일 취임한 김형석 독립기념관장의 발언과 역사 인식을 둘러싸고 자격]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202408/15/47852bdd-ff9f-47c3-b5a6-f644935b9e73.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 그냥 노는 대졸 백수 400만명 넘었다?]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12208368</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 21 Jun 2024 05:34:07 GMT</pubDate>
             <content:encoded><![CDATA[지난 16일 KBS 일요진단에 출연한 성태윤 대통령 정책실장[사진 KBS 홈페이지 캡처] “전면적인 개편이 필요한 시기가 왔다고 생각을 하고 있습니다” (지난 16일, KBS 일요진단) 정부가 상속 세제 완화에 속도를 내]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202407/05/7dcf0363-0d6e-40ce-9278-2d8bd0664dda.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 내년부터 카데바 확보 어렵다?]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12200847</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12200847</guid>
-            <pubDate>Fri, 14 Jun 2024 11:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[“시설, 인력, 재정에 대한 투자 없이 의대 정원만 늘어나면, 의대 교육의 붕괴는 물론 그에 따른 부작용은 과거 의대 폐교 사태를 떠올릴 수밖에 없다. (...) 카데바 확보는 가능한가? 나아가 의료시스템을 살리겠]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202407/05/a9eac7ef-f6ea-4999-b657-b1fd7194aefd.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

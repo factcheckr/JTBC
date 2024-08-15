@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Aug 2024 05:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 11:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 일제 강점기 우리 국민은 일본 국적인가? (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12210553</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12210553</guid>
+            <pubDate>Thu, 15 Aug 2024 11:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[광복회 서울ㆍ경기지부 회원들이 13일 용산 대통령실 인근에서 김형석 독립기념관장 사퇴 촉구 집회를 하고 있다. 〈사진 출처:연합뉴스〉지난 6일 취임한 김형석 독립기념관장의 발언과 역사 인식을 둘러싸고 자격]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202408/15/47852bdd-ff9f-47c3-b5a6-f644935b9e73.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 그냥 노는 대졸 백수 400만명 넘었다? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12208368</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202407/05/7dcf0363-0d6e-40ce-9278-2d8bd0664dda.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 내년부터 카데바 확보 어렵다? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12200847</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12200847</guid>
-            <pubDate>Fri, 14 Jun 2024 11:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[“시설, 인력, 재정에 대한 투자 없이 의대 정원만 늘어나면, 의대 교육의 붕괴는 물론 그에 따른 부작용은 과거 의대 폐교 사태를 떠올릴 수밖에 없다. (...) 카데바 확보는 가능한가? 나아가 의료시스템을 살리겠]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202407/05/a9eac7ef-f6ea-4999-b657-b1fd7194aefd.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[일제 강점기 우리 국민은 일본 국적인가? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20240815150840730</link>
+            <guid>https://v.daum.net/v/20240815150840730</guid>
+            <pubDate>Thu, 15 Aug 2024 11:32:28 GMT</pubDate>
+            <content:encoded><![CDATA[지난 6일 취임한 김형석 독립기념관장의 발언과 역사 인식을 둘러싸고 자격 논란이 계속되고 있습니다. 윤석열 대통령의 김 관장 임명이 반쪽 광복절을 만든 원인입니다. 독립운동가 후손 단체인 광복회는 임명 강행에 반대해 처음으로 광복절 기념식에 불참했고 48개 국내 역사학회와 단체는 임명 철회를 요구하는 공동 성명서를 발표했습니다. 김 관장은 "사]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[그냥 노는 대졸 백수 400만명 넘었다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20240609090240486</guid>
             <pubDate>Sun, 09 Jun 2024 02:46:04 GMT</pubDate>
             <content:encoded><![CDATA[“답변을 드리자면 그렇게 이례적인 일은 아닙니다. 사실 정부가 특정 지역에서 석유나 가스가 매장되어 있을 잠재력을 발견을 하게 되면 정부가 발표하게 되는 경우가 많습니다. 가끔 어떤 공기업이 발표를 하는 경우도 있지만 장관이나 대통령이 발표를 하는 경우도 굉장히 흔합니다. 최근의 예시를 하나 들어드리면 오바마 대통령도 서부 이스트코스트(east]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[수사 도중 특검도입 전례 없다?…법무부 주장 따져보니 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20240521185542371</link>
-            <guid>https://v.daum.net/v/20240521185542371</guid>
-            <pubDate>Tue, 21 May 2024 11:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 이렇게 윤석열 대통령이 거부권을 쓰자 법무부는 '채 상병 특검법'이 '위헌적'이라고 자세한 설명자료를 냈습니다. 특검 임명을 민주당이 독점하고 수사 중인 사안에 특검을 한 전례도 없다는 건데, 사실인지 박병현 기자가 따져봤습니다. [기자] 법무부는 우선 특검 추천권이 민주당에 있다는 게 위헌적이라고 가장 큰 이유로 들었습니다. 대통령의 특검 임명권]]></content:encoded>
         </item>
     </channel>
 </rss>

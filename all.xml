@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 05:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 11:32:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 오래된 나무젓가락 사용하면 간암 걸린다? (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12212373</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12212373</guid>
+            <pubDate>Thu, 29 Aug 2024 11:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[곰팡이 2차 독성 산물인 아플라톡신이 발생한 나무젓가락. 〈사진 바이두 캡처〉최근 중국에서 나무젓가락을 교체하지 않고 장기간 사용하던 일가족 4명이 간암에 걸려 숨졌다는 보도가 나왔습니다.나무젓가락에 생]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202408/28/5718df37-3d07-4ccf-b690-ef7c3fdfd19d.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 일제 강점기 우리 국민은 일본 국적인가? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12210553</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 26 Jun 2024 02:43:40 GMT</pubDate>
             <content:encoded><![CDATA[지난 19일 대만 자유시보 보도 〈사진 대만 자유시보 캡처〉 최근 '제주도가 중국 섬으로 변하고 있다'는 기사가 화제였습니다. 대만 매체가 '섬뜩한 경고'를 했다는 내용에 여론의 관심이 집중됐습니다. “제주도,]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202407/05/8772a3ec-9fba-4dcb-bbe8-5e8dd03a29e3.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 상속세 OECD 2위...전면 개편해야 한다? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202017</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202017</guid>
-            <pubDate>Fri, 21 Jun 2024 05:34:07 GMT</pubDate>
-            <content:encoded><![CDATA[지난 16일 KBS 일요진단에 출연한 성태윤 대통령 정책실장[사진 KBS 홈페이지 캡처] “전면적인 개편이 필요한 시기가 왔다고 생각을 하고 있습니다” (지난 16일, KBS 일요진단) 정부가 상속 세제 완화에 속도를 내]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202407/05/7dcf0363-0d6e-40ce-9278-2d8bd0664dda.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오래된 나무젓가락 사용하면 간암 걸린다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>

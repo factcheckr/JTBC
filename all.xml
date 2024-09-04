@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Sep 2024 02:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Sep 2024 05:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 29 Aug 2024 11:32:45 GMT</pubDate>
             <content:encoded><![CDATA[곰팡이 2차 독성 산물인 아플라톡신이 발생한 나무젓가락. 〈사진 바이두 캡처〉최근 중국에서 나무젓가락을 교체하지 않고 장기간 사용하던 일가족 4명이 간암에 걸려 숨졌다는 보도가 나왔습니다.나무젓가락에 생]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202408/28/5718df37-3d07-4ccf-b690-ef7c3fdfd19d.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[100% 완충하면 화재 위험 커진다?…전기차 '공포증' 팩트체크 (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12211576</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12211576</guid>
+            <pubDate>Wed, 04 Sep 2024 05:37:44 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]'전기차 포비아'란 말이 나올 만큼 전기차에 대한 불안, 갈수록 커지고 있습니다. 다만 '과하게 부풀려졌다' '마냥 두려워할 일은 아니다' 이런 지적도 나옵니다.임예은 기자가 하나씩 따져보며 대처 방안을]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/2024/08/22/202408221941496546_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 일제 강점기 우리 국민은 일본 국적인가? (JTBC 뉴스 ─ 팩트체크)]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 28 Jun 2024 02:45:21 GMT</pubDate>
             <content:encoded><![CDATA[지난 16일 KBS 일요진단에 출연한 성태윤 대통령 정책실장(오른쪽) 〈사진 KBS 홈페이지 캡처〉 “상속세는 과거 세금 징수 어려운 때 사망 시점에 세금 걷는 것으로 지금은 재산세와 소득세 등을 내고 있는데 이중]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202407/05/e25421ec-0767-47ba-9e8c-eb16c2e7db68.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 제주도가 중국 섬으로 변하고 있다? (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202589</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202589</guid>
-            <pubDate>Wed, 26 Jun 2024 02:43:40 GMT</pubDate>
-            <content:encoded><![CDATA[지난 19일 대만 자유시보 보도 〈사진 대만 자유시보 캡처〉 최근 '제주도가 중국 섬으로 변하고 있다'는 기사가 화제였습니다. 대만 매체가 '섬뜩한 경고'를 했다는 내용에 여론의 관심이 집중됐습니다. “제주도,]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202407/05/8772a3ec-9fba-4dcb-bbe8-5e8dd03a29e3.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오래된 나무젓가락 사용하면 간암 걸린다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>

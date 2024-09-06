@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 05:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 11:32:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 딥페이크 범죄, 법망 빠져나갈 수 있다?]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12213901</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12213901</guid>
+            <pubDate>Fri, 06 Sep 2024 11:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[10대들의 '딥페이크' 불법 영상물이 사회적 공분을 불러일으키고 있다. 〈출처:연합뉴스〉“대한민국 경찰이 X나 한가한 것도 아니고 텔레그램 가입자가 9억명이라는데 CEO 잡혔다고 방 다 털리면 전세계 사람]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202409/06/8b7fdef2-4e67-4678-b26b-1df3911b3c00.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 오래된 나무젓가락 사용하면 간암 걸린다?]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12212373</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 Jul 2024 02:44:33 GMT</pubDate>
             <content:encoded><![CDATA[지난 25일 6.25 참전용사 간담회에서 오세훈 서울시장이 100m 높이 국기게양대 국가상징조형물 건립계획을 발표하고 있다 〈사진 서울시 홈페이지 캡처〉 "숭고한 호국의 뜻을 기리기 위해 대한민국 최고 100m 높이]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202407/05/e32443ea-9fb1-4fae-a014-174da0deb3a2.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 상속세, 재산세 징수 잘되니 이중과세?]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202971</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12202971</guid>
-            <pubDate>Fri, 28 Jun 2024 02:45:21 GMT</pubDate>
-            <content:encoded><![CDATA[지난 16일 KBS 일요진단에 출연한 성태윤 대통령 정책실장(오른쪽) 〈사진 KBS 홈페이지 캡처〉 “상속세는 과거 세금 징수 어려운 때 사망 시점에 세금 걷는 것으로 지금은 재산세와 소득세 등을 내고 있는데 이중]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202407/05/e25421ec-0767-47ba-9e8c-eb16c2e7db68.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

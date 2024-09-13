@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 11:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 02:56:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 온누리 상품권, 전통시장 살리기 효과 있다?]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12214686</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12214686</guid>
+            <pubDate>Fri, 13 Sep 2024 02:55:57 GMT</pubDate>
+            <content:encoded><![CDATA[정부는 올해 온누리상품권 할인율을 전년 대비 5% 인상하고 사용처도 대폭 확대했다. 〈사진=연합뉴스〉  ■  「"추석 민생안정 대책에서 발표된 전통시장 소비 촉진 온누리 상품권 발행 확대 동행 축제 할인 행사]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202409/12/0367fa4e-2fbf-4b8f-a0dd-5309c79f9b51.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 추석 연휴에 문 여는 병·의원 하루 평균 8천 곳?]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12214542</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 12 Jul 2024 11:32:45 GMT</pubDate>
             <content:encoded><![CDATA[지난 4일 채상병특검법 문제를 둘러싼 필리버스터 종료 표결이 시작되자 국민의힘 의원들이 항의하고 있다. 〈사진 연합뉴스〉 윤석열 대통령이 '순직 해병 수사 방해 및 사건 은폐 등의 진상규명을 위한 특별검사의]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202407/12/7a7a1f8f-4154-4f05-b960-33a0781f5efa.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 상속세가 가업 승계를 어렵게 만든다?]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12204086</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12204086</guid>
-            <pubDate>Fri, 05 Jul 2024 02:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[성태윤 대통령실 정책실장 〈사진=대통령실사진기자단〉“우리나라 상속세 체계가 가업승계 관련 상당한 문제를 가지고 있습니다. 기업을 하고 있다가 물려주는 시점이 됐을 때 세금을 내고 나면 기업 경영권이]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202407/05/b1b38e54-e9c2-4639-9c2d-967fb18dfcd3.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

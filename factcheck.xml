@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 05:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 11:33:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] '북한 7차 핵실험' 김정은 결심만 남았다? 전문가들 "북한에 오히려 손해"]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12216046</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12216046</guid>
+            <pubDate>Tue, 24 Sep 2024 11:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[오는 11월 미국 대선을 전후해 북한이 7차 핵실험에 나설 수 있다는 전망이 속속 나오고 있습니다. 최근 한미 정부 당국자가 “김정은 국무위원장의 정치적 결단만 남았다“는 입장을 거듭 밝히면서 북한]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202409/24/f14b1019-2bce-4b64-986e-d37cd8d62080.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 가로수 심어 보행자 안전 책임진다?]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12215538</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 26 Jul 2024 02:46:45 GMT</pubDate>
             <content:encoded><![CDATA[서울 전역에 호우경보가 발효된 7월 17일 서울 중구 세종대로 사거리에서 우산을 쓴 시민들이 발걸음을 재촉하고 있다. 〈사진=연합뉴스〉올해도 내렸습니다. 그런데 지난해와 또 달랐습니다. 이제 비는 위협이 되고]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202407/26/a658f07d-79ff-47ae-9e31-b86e2d85a1ec.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 골프치면 1만5천보, 쿠팡 직원 2만보 견딜만 하다?]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12206158</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12206158</guid>
-            <pubDate>Thu, 18 Jul 2024 11:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[2020년 10월 11일 고 장덕준씨가 근무했던 쿠팡 칠곡물류센터 CCTV 영상. "저희가 측정해본 결과 워터 스파이더들은 하루 평균 2만 보 정도를 걷는 것으로 확인되었습니다. 4시간 정도 골프를 치면서 걸으면 약 1만5]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202407/22/db89ab0e-3155-4309-80fe-aa17f1b3fba5.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

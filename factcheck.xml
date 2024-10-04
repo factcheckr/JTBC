@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 03:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 05:38:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 지역화폐법 개정안 부익부 빈익빈 초래한다?]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12217490</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12217490</guid>
+            <pubDate>Fri, 04 Oct 2024 05:38:09 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령은 2일 이른바 쌍특검법과 지역사랑상품권(화폐)법 개정안에 대한 거부권(재의요구권)을 행사했습니다. 이번 정부 들어 24번째 거부권입니다.이에 앞서 정부는 지난달 30일 국무회의에서 해당 법률안에]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202410/04/97523b35-701d-4ac2-9799-0cca57555aa8.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 반려동물 보유세, 도입 필요할까?]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12216610</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 15 Aug 2024 11:32:22 GMT</pubDate>
             <content:encoded><![CDATA[광복회 서울ㆍ경기지부 회원들이 13일 용산 대통령실 인근에서 김형석 독립기념관장 사퇴 촉구 집회를 하고 있다. 〈사진 출처:연합뉴스〉지난 6일 취임한 김형석 독립기념관장의 발언과 역사 인식을 둘러싸고 자격]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202408/15/47852bdd-ff9f-47c3-b5a6-f644935b9e73.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 그냥 노는 대졸 백수 400만명 넘었다?]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12208368</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12208368</guid>
-            <pubDate>Thu, 01 Aug 2024 11:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[지난달 21일부터 28일까지 '일도 구직도 안 하고 그냥 노는 대졸 백수가 400만 명을 넘었다'는 80여 건의 언론 보도가 이어졌습니다. 지난달 언론들은 통계청 자료 분석을 근거로 올해 상반기 대졸 비경제활동인구의]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202408/01/01b5f568-b854-43d3-bc98-ef078ec1d302.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

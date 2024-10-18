@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 05:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 11:33:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,13 @@
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202408/15/47852bdd-ff9f-47c3-b5a6-f644935b9e73.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지역화폐법 개정안 지자체 자치권 침해한다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20241018175840189</link>
+            <guid>https://v.daum.net/v/20241018175840189</guid>
+            <pubDate>Fri, 18 Oct 2024 11:33:14 GMT</pubDate>
+            <content:encoded><![CDATA[지역사랑상품권에 대한 재의요구권 행사 이유 중 앞서 '부익부 빈익빈 발생'  팩트체크에 이어 두 번째 팩트체크입니다. 한덕수 국무총리는 지난달 30일 지역화폐 개정안에 대해 "지방자치단체 자치권의 근간을 훼손하고 헌법이 부여하고 있는 정부의 예산편성권을 침해할 소지가 크다"고 설명했습니다. ━① 지방자치단체의 자치권을 침해한다?━ "첫째, 지방]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[지역화폐법 개정안 부익부 빈익빈 초래한다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
             <link>https://v.daum.net/v/20241004140041067</link>
             <guid>https://v.daum.net/v/20241004140041067</guid>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20240726100141041</guid>
             <pubDate>Fri, 26 Jul 2024 02:46:50 GMT</pubDate>
             <content:encoded><![CDATA[올해도 내렸습니다. 그런데 지난해와 또 달랐습니다. 이제 비는 위협이 되고 있습니다. 지난 10일 전북 군산에선 한 시간 동안 146mm의 폭우가 쏟아졌습니다. 군산 지역의 연평균 강수량이 1246㎜인데 1년 내릴 비의 11%가 넘는 양입니다. 기상청은 200년 만에 한 번 내릴 정도의 강한 비라고 밝혔습니다. 2년 전 전조(前兆)가 있었습]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[골프치면 1만5천보, 쿠팡 직원 2만보 견딜만 하다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20240718171841891</link>
-            <guid>https://v.daum.net/v/20240718171841891</guid>
-            <pubDate>Thu, 18 Jul 2024 11:32:39 GMT</pubDate>
-            <content:encoded><![CDATA["저희가 측정해본 결과 워터 스파이더들은 하루 평균 2만 보 정도를 걷는 것으로 확인되었습니다. 4시간 정도 골프를 치면서 걸으면 약 1만5000보 정도를 걷게 됩니다. 8시간 동안 2만 보라면 견디기 힘들 정도라고 보기 어렵습니다." (쿠팡 측 변론서 서면) 지난 2020년 10월 쿠팡물류센터(쿠팡풀필먼트서비스)에서 일하던 27살 장덕준 씨가 급성심근경]]></content:encoded>
         </item>
     </channel>
 </rss>

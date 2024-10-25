@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Oct 2024 05:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 11:33:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 북한군 러시아 파병 추정 영상 조작일까? (JTBC 뉴스 ─ 팩트체크)]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12220498</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12220498</guid>
+            <pubDate>Fri, 25 Oct 2024 11:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[지난 18일 우크라이나 전략소통정보보안센터(SPRAVDI)가 북한군이 러시아 군수품을 받는 장면이라며 공개한 영상. 국가정보원에 이어 미국 국방부와 북대서양조약기구(나토·NATO)가 북한의 러시아 파병을 확인하면]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202410/25/34e48148-e28a-4231-ab95-d2ff0d8d9bac.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 지역화폐법 개정안 지자체 자치권 침해한다? (JTBC 뉴스 ─ 팩트체크)]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12219541</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202408/28/5718df37-3d07-4ccf-b690-ef7c3fdfd19d.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[100% 완충하면 화재 위험 커진다?…전기차 '공포증' 팩트체크 (JTBC 뉴스 ─ 팩트체크)]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12211576</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12211576</guid>
-            <pubDate>Wed, 04 Sep 2024 05:37:44 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]'전기차 포비아'란 말이 나올 만큼 전기차에 대한 불안, 갈수록 커지고 있습니다. 다만 '과하게 부풀려졌다' '마냥 두려워할 일은 아니다' 이런 지적도 나옵니다.임예은 기자가 하나씩 따져보며 대처 방안을]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2024/08/22/202408221941496546_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[북한군 러시아 파병 추정 영상 조작일까? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20241025161641144</link>
+            <guid>https://v.daum.net/v/20241025161641144</guid>
+            <pubDate>Fri, 25 Oct 2024 11:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[국가정보원에 이어 미국 국방부와 북대서양조약기구(나토·NATO)가 북한의 러시아 파병을 확인하면서 국내외 긴장감이 커지고 있습니다. 그동안 북한이 파병에 대해 입장을 내지 않아 여러 논란이 불거졌는데요. 이는 우크라이나 전략소통·정보보안센터(SPRAVDI)가 지난 18일 공개한 영상 때문입니다. 동양인으로 보이는 사람들이 군복을 입고 줄을 서]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지역화폐법 개정안 지자체 자치권 침해한다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20240801100040639</guid>
             <pubDate>Thu, 01 Aug 2024 02:51:15 GMT</pubDate>
             <content:encoded><![CDATA[지난달 21일부터 28일까지 '일도 구직도 안 하고 그냥 노는 대졸 백수가 400만 명을 넘었다'는 80여 건의 언론 보도가 이어졌습니다. 기사들은 통계청 국가통계포털을 근거로 올해 상반기 월 평균 만 15세 이상 대졸 비경제활동인구(이하 비경활)가 405만 8천 명으로 지난해 같은 기간보다 7만 2천 명이 늘었다고 전했습니다. 또 관련 통계가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우리나라가 동남아성 기후로 바뀌었다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20240726100141041</link>
-            <guid>https://v.daum.net/v/20240726100141041</guid>
-            <pubDate>Fri, 26 Jul 2024 02:46:50 GMT</pubDate>
-            <content:encoded><![CDATA[올해도 내렸습니다. 그런데 지난해와 또 달랐습니다. 이제 비는 위협이 되고 있습니다. 지난 10일 전북 군산에선 한 시간 동안 146mm의 폭우가 쏟아졌습니다. 군산 지역의 연평균 강수량이 1246㎜인데 1년 내릴 비의 11%가 넘는 양입니다. 기상청은 200년 만에 한 번 내릴 정도의 강한 비라고 밝혔습니다. 2년 전 전조(前兆)가 있었습]]></content:encoded>
         </item>
     </channel>
 </rss>

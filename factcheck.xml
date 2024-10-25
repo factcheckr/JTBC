@@ -4,9 +4,17 @@
         <title>JTBC 뉴스 ─ 팩트체크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Oct 2024 05:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 11:33:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 북한군 러시아 파병 추정 영상 조작일까?]]></title>
+            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12220498</link>
+            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12220498</guid>
+            <pubDate>Fri, 25 Oct 2024 11:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[지난 18일 우크라이나 전략소통정보보안센터(SPRAVDI)가 북한군이 러시아 군수품을 받는 장면이라며 공개한 영상. 국가정보원에 이어 미국 국방부와 북대서양조약기구(나토·NATO)가 북한의 러시아 파병을 확인하면]]></content:encoded>
+            <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202410/25/34e48148-e28a-4231-ab95-d2ff0d8d9bac.jpg.tn350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 지역화폐법 개정안 지자체 자치권 침해한다?]]></title>
             <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12219541</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 29 Aug 2024 11:32:45 GMT</pubDate>
             <content:encoded><![CDATA[곰팡이 2차 독성 산물인 아플라톡신이 발생한 나무젓가락. 〈사진 바이두 캡처〉최근 중국에서 나무젓가락을 교체하지 않고 장기간 사용하던 일가족 4명이 간암에 걸려 숨졌다는 보도가 나왔습니다.나무젓가락에 생]]></content:encoded>
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202408/28/5718df37-3d07-4ccf-b690-ef7c3fdfd19d.jpg.tn350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[100% 완충하면 화재 위험 커진다?…전기차 '공포증' 팩트체크]]></title>
-            <link>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12211576</link>
-            <guid>https://news.jtbc.joins.com/article/article.aspx?news_id=NB12211576</guid>
-            <pubDate>Wed, 04 Sep 2024 05:37:44 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]'전기차 포비아'란 말이 나올 만큼 전기차에 대한 불안, 갈수록 커지고 있습니다. 다만 '과하게 부풀려졌다' '마냥 두려워할 일은 아니다' 이런 지적도 나옵니다.임예은 기자가 하나씩 따져보며 대처 방안을]]></content:encoded>
-            <enclosure url="https://photo.jtbc.co.kr/news/2024/08/22/202408221941496546_LC.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

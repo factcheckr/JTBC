@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 02:59:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 05:38:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,13 @@
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202408/28/5718df37-3d07-4ccf-b690-ef7c3fdfd19d.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[러시아 파병 북한군 관련 이미지 진짜다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20241108140010981</link>
+            <guid>https://v.daum.net/v/20241108140010981</guid>
+            <pubDate>Fri, 08 Nov 2024 05:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[러시아-우크라이나 전쟁에 파병된 북한군 추정 사진이 전 세계 소셜미디어네트워크(SNS)와 우크라이나 매체를 통해 흘러나오고 있습니다. 가짜 영상도 있지만 진위를 가리기 어려운 영상과 사진도 적지 않습니다. 북한의 참전이 기정 사실화되었지만 참전의 실상과 실패를 알리려는 우크라이나 정부의 심리전이란 주장도 나옵니다. 지난 6일 젤렌스키 우크]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[미국 대통령도 의회 외면?…두 번 탄핵소추된 트럼프는 (다음 뉴스 ─ JTBC 팩트체크)]]></title>
             <link>https://v.daum.net/v/20241107200213648</link>
             <guid>https://v.daum.net/v/20241107200213648</guid>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20240911192854166</guid>
             <pubDate>Wed, 11 Sep 2024 11:32:46 GMT</pubDate>
             <content:encoded><![CDATA[[앵커] 윤석열 대통령은 어제(10일) 이번 추석 연휴에는 지난 설이나 예년에 비해 훨씬 많은 병의원이 당직의료기관으로 신청해 줬다며, 정부의 안내에 따라주면 걱정 없이 의료 서비스를 받을 수 있다고 강조했습니다. 이희령 기자가 팩트체크 해봤습니다. [기자] 정부는 이번 추석 연휴 동안 하루 평균 8000곳 가까운 병원이 문을 연다고 했습니다. [정윤순/보]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[딥페이크 범죄, 법망 빠져나갈 수 있다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20240906180052733</link>
-            <guid>https://v.daum.net/v/20240906180052733</guid>
-            <pubDate>Fri, 06 Sep 2024 11:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[“대한민국 경찰이 X나 한가한 것도 아니고 텔레그램 가입자가 9억명이라는데 CEO 잡혔다고 방 다 털리면 전세계 사람들 다 조사해야 함. 게다가 방에 들어간 사람들 신원따는 것도 쉬운 게 아닌데 얘가 들어가서 뭘했는지까지 다 정리해서 수사 못함... (후략)” 포털사이트 딥페이크 관련 카페에 올라온 글입니다. 최근 '성전 카페'(성범죄 등 형사범죄 전]]></content:encoded>
         </item>
     </channel>
 </rss>

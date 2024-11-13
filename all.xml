@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 05:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 11:33:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,13 @@
             <enclosure url="https://photo.jtbc.co.kr/news/jam_photo/202408/28/5718df37-3d07-4ccf-b690-ef7c3fdfd19d.jpg.tn350.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[생수병 라벨 수능 부정행위로 적발됐다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
+            <link>https://v.daum.net/v/20241113160536954</link>
+            <guid>https://v.daum.net/v/20241113160536954</guid>
+            <pubDate>Wed, 13 Nov 2024 11:33:40 GMT</pubDate>
+            <content:encoded><![CDATA[가입자 313만 명이 넘는 대표적인 수험생 카페 '수만휘'(수능날만점시험지를휘날리자)에 생수 관련 문의가 쏟아지고 있습니다. “수능장에서 이거(생수 포장지) 떼고 가야 하는 건가요?”(11월 1일) “수능날 물병 커버는 벗겨야 할까요?” (11월 8일) “수능 칠 때 물병 책상에 올려둘 수 있나요?”(11월 12일) 학생들 사이에 생수]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[러시아 파병 북한군 관련 이미지 진짜다? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
             <link>https://v.daum.net/v/20241108140010981</link>
             <guid>https://v.daum.net/v/20241108140010981</guid>
@@ -163,13 +170,6 @@
             <guid>https://v.daum.net/v/20240912170151235</guid>
             <pubDate>Thu, 12 Sep 2024 11:33:02 GMT</pubDate>
             <content:encoded><![CDATA[■ "추석 민생안정 대책에서 발표된 전통시장 소비 촉진 온누리 상품권 발행 확대 동행 축제 할인 행사 등을 적극 추진하겠습니다. 수출에 비해 국내 소비 회복이 더딥니다. 우리 대기업들이 올 추석 명절에 온누리 상품권을 구매해서 상생과 내수 진작에 도움이 될 수 있도록 많이 협조해 주시기를 간곡히 부탁드립니다" (8월 29일, 윤석열 대통령 국정브리핑)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[추석 연휴에 문 여는 병·의원 하루 평균 8천 곳? (다음 뉴스 ─ JTBC 팩트체크)]]></title>
-            <link>https://v.daum.net/v/20240911192854166</link>
-            <guid>https://v.daum.net/v/20240911192854166</guid>
-            <pubDate>Wed, 11 Sep 2024 11:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커] 윤석열 대통령은 어제(10일) 이번 추석 연휴에는 지난 설이나 예년에 비해 훨씬 많은 병의원이 당직의료기관으로 신청해 줬다며, 정부의 안내에 따라주면 걱정 없이 의료 서비스를 받을 수 있다고 강조했습니다. 이희령 기자가 팩트체크 해봤습니다. [기자] 정부는 이번 추석 연휴 동안 하루 평균 8000곳 가까운 병원이 문을 연다고 했습니다. [정윤순/보]]></content:encoded>
         </item>
     </channel>
 </rss>
